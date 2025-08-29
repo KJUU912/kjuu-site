@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第十章",
+  "title": "第十章 不断缩水的鱼就像货币一样",
+  "description": "政府透支与鱼币贬值的恶性循环",
+  "source": "@site/docs/小岛经济学/第十章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第十章",
+  "permalink": "/docs/小岛经济学/第十章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10,
+    "title": "第十章 不断缩水的鱼就像货币一样",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第九章 政府的职能开始转变了",
+    "permalink": "/docs/小岛经济学/第九章"
+  },
+  "next": {
+    "title": "第十一章 中岛帝国：远方的生命线",
+    "permalink": "/docs/小岛经济学/第十一章"
+  }
+}

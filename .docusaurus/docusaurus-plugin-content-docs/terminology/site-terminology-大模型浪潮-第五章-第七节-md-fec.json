@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第五章/7",
+  "title": "第七节 电商：用大模型让营销更快捷",
+  "description": "大模型赋能电商营销的新引擎",
+  "source": "@site/terminology/大模型浪潮/第五章/第七节.md",
+  "sourceDirName": "大模型浪潮/第五章",
+  "slug": "/大模型浪潮/第五章/7",
+  "permalink": "/terminology/大模型浪潮/第五章/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "第七节 电商：用大模型让营销更快捷",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第六节 教育：在大模型促进下的产教融合新范式",
+    "permalink": "/terminology/大模型浪潮/第五章/6"
+  },
+  "next": {
+    "title": "第一节 借助新技术保持领先的建议",
+    "permalink": "/terminology/大模型浪潮/第六章/1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第一章/6",
+  "title": "06 7秒钟色彩定律：如何“色诱”人们的注意力",
+  "description": "不是牛怕红布，而是人被红色吸引：色彩的真正力量",
+  "source": "@site/docs/营销心理战/第一章/06 7秒钟色彩定律：如何“色诱”人们的注意力 copy.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/营销心理战/第一章/6",
+  "permalink": "/docs/营销心理战/第一章/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "06 7秒钟色彩定律：如何“色诱”人们的注意力",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "05 出丑效应：有一种营销叫“自黑”",
+    "permalink": "/docs/营销心理战/第一章/5"
+  },
+  "next": {
+    "title": "07 潘多拉效应：无法抗拒的魔盒",
+    "permalink": "/docs/营销心理战/第二章/1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第五章",
+  "title": "第五章 在鱼被指定为货币之后",
+  "description": "生产率提升带来的社会转型",
+  "source": "@site/docs/小岛经济学/第五章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第五章",
+  "permalink": "/docs/小岛经济学/第五章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "第五章 在鱼被指定为货币之后",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第四章 经济到底是如何发展的",
+    "permalink": "/docs/小岛经济学/第四章"
+  },
+  "next": {
+    "title": "第六章 为什么会有储蓄",
+    "permalink": "/docs/小岛经济学/第六章"
+  }
+}

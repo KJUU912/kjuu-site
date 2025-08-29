@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第四章/6",
+  "title": "24 曝光效应：为什么广告看多了你就想买",
+  "description": "熟悉产生好感：从“日久生情”到品牌信任的心理逻辑",
+  "source": "@site/docs/营销心理战/第四章/24 曝光效应：为什么广告看多了你就想买.md",
+  "sourceDirName": "营销心理战/第四章",
+  "slug": "/营销心理战/第四章/6",
+  "permalink": "/docs/营销心理战/第四章/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "24 曝光效应：为什么广告看多了你就想买",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "23 损失厌恶心理：如何让客户放心地买买买",
+    "permalink": "/docs/营销心理战/第四章/5"
+  },
+  "next": {
+    "title": "25 锚定效应：操纵客户购买的遥控器",
+    "permalink": "/docs/营销心理战/第五章/1"
+  }
+}

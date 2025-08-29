@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第四章/4",
+  "title": "22 自己人效应：如何成为客户的“自己人”",
+  "description": "自己人效应：信任从“你是我这边的”开始",
+  "source": "@site/docs/营销心理战/第四章/22 自己人效应：如何成为客户的“自己人”.md",
+  "sourceDirName": "营销心理战/第四章",
+  "slug": "/营销心理战/第四章/4",
+  "permalink": "/docs/营销心理战/第四章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "22 自己人效应：如何成为客户的“自己人”",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "21 社会认同效应：金杯银杯不如客户的口碑",
+    "permalink": "/docs/营销心理战/第四章/3"
+  },
+  "next": {
+    "title": "23 损失厌恶心理：如何让客户放心地买买买",
+    "permalink": "/docs/营销心理战/第四章/5"
+  }
+}

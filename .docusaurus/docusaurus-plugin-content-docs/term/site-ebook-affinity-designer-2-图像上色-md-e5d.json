@@ -1,0 +1,27 @@
+{
+  "id": "Affinity Designer 2/图像上色",
+  "title": "图像上色",
+  "description": "在 Affinity Designer 2 中，使用矢量（快捷键R）可以快速对图形区域进行填色。",
+  "source": "@site/ebook/Affinity Designer 2/图像上色.md",
+  "sourceDirName": "Affinity Designer 2",
+  "slug": "/Affinity Designer 2/图像上色",
+  "permalink": "/ebook/Affinity Designer 2/图像上色",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "hide_title": true
+  },
+  "sidebar": "ebookSidebar",
+  "previous": {
+    "title": "临摹线条图示例",
+    "permalink": "/ebook/Affinity Designer 2/临摹线条图示例"
+  },
+  "next": {
+    "title": "模版+素材",
+    "permalink": "/ebook/category/模版素材"
+  }
+}

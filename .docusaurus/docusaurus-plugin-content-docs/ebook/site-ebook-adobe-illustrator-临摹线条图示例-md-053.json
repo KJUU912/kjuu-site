@@ -1,0 +1,27 @@
+{
+  "id": "Adobe Illustrator/临摹线条图示例",
+  "title": "临摹线条图示例",
+  "description": "1. 新建图层",
+  "source": "@site/ebook/Adobe Illustrator/临摹线条图示例.md",
+  "sourceDirName": "Adobe Illustrator",
+  "slug": "/Adobe Illustrator/临摹线条图示例",
+  "permalink": "/ebook/Adobe Illustrator/临摹线条图示例",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "ebookSidebar",
+  "previous": {
+    "title": "画曲线的三种方法",
+    "permalink": "/ebook/Adobe Illustrator/画曲线的三种方法"
+  },
+  "next": {
+    "title": "图标转矢量图",
+    "permalink": "/ebook/Adobe Illustrator/图标转矢量图"
+  }
+}

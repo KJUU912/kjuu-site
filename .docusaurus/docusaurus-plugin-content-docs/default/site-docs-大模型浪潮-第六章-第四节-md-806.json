@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第六章/4",
+  "title": "第四节 未来趋势展望",
+  "description": "未来大模型将沿着五个方向快速演进。",
+  "source": "@site/docs/大模型浪潮/第六章/第四节.md",
+  "sourceDirName": "大模型浪潮/第六章",
+  "slug": "/大模型浪潮/第六章/4",
+  "permalink": "/docs/大模型浪潮/第六章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第四节 未来趋势展望",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三节 做好大模型评估，选对模型、降低风险",
+    "permalink": "/docs/大模型浪潮/第六章/3"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/小岛经济学/"
+  }
+}

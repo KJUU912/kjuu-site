@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第二章/2",
+  "title": "第二节 有监督微调：让大模型更好理解并执行实际的需求",
+  "description": "微调的必要性：从通用到专业",
+  "source": "@site/docs/大模型浪潮/第二章/第二节.md",
+  "sourceDirName": "大模型浪潮/第二章",
+  "slug": "/大模型浪潮/第二章/2",
+  "permalink": "/docs/大模型浪潮/第二章/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "第二节 有监督微调：让大模型更好理解并执行实际的需求",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一节 预训练：工程化属性带来加速发展",
+    "permalink": "/docs/大模型浪潮/第二章/1"
+  },
+  "next": {
+    "title": "第三节 人类反馈强化学习：对齐人类价值观",
+    "permalink": "/docs/大模型浪潮/第二章/3"
+  }
+}

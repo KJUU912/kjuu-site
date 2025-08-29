@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第三章",
+  "title": "第三章 信用卡的多种用途",
+  "description": "商业贷款与储蓄的有效利用",
+  "source": "@site/docs/小岛经济学/第三章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第三章",
+  "permalink": "/docs/小岛经济学/第三章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "第三章 信用卡的多种用途",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 把财富分享给别人",
+    "permalink": "/docs/小岛经济学/第二章"
+  },
+  "next": {
+    "title": "第四章 经济到底是如何发展的",
+    "permalink": "/docs/小岛经济学/第四章"
+  }
+}

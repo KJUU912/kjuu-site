@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第三章/5",
+  "title": "17 场化效应：如此火爆的场面，怎么能不买",
+  "description": "什么是“场化效应”：让人不由自主参与的心理磁场",
+  "source": "@site/docs/营销心理战/第三章/17 场化效应：如此火爆的场面，怎么能不买.md",
+  "sourceDirName": "营销心理战/第三章",
+  "slug": "/营销心理战/第三章/5",
+  "permalink": "/docs/营销心理战/第三章/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "17 场化效应：如此火爆的场面，怎么能不买",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "16 棘轮效应：消费升级背后的人性秘密",
+    "permalink": "/docs/营销心理战/第三章/4"
+  },
+  "next": {
+    "title": "18 超限效应：不做营销界的“唐僧”",
+    "permalink": "/docs/营销心理战/第三章/6"
+  }
+}

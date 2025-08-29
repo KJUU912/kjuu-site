@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第四章/2",
+  "title": "第二节 模型开发，轻松实现",
+  "description": "成熟大模型的直接应用与扩展",
+  "source": "@site/terminology/大模型浪潮/第四章/第二节.md",
+  "sourceDirName": "大模型浪潮/第四章",
+  "slug": "/大模型浪潮/第四章/2",
+  "permalink": "/terminology/大模型浪潮/第四章/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "第二节 模型开发，轻松实现",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第一节 技术栈的变化，提升了开发便利",
+    "permalink": "/terminology/大模型浪潮/第四章/1"
+  },
+  "next": {
+    "title": "第三节 人工智能原生应用的开发，更加便利",
+    "permalink": "/terminology/大模型浪潮/第四章/3"
+  }
+}

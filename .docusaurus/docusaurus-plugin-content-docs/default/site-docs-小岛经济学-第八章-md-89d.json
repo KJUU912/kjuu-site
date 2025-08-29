@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第八章",
+  "title": "第八章 一个共和国就这样诞生了",
+  "description": "从无政府到有组织的治理",
+  "source": "@site/docs/小岛经济学/第八章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第八章",
+  "permalink": "/docs/小岛经济学/第八章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8,
+    "title": "第八章 一个共和国就这样诞生了",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第七章 基础设施与贸易",
+    "permalink": "/docs/小岛经济学/第七章"
+  },
+  "next": {
+    "title": "第九章 政府的职能开始转变了",
+    "permalink": "/docs/小岛经济学/第九章"
+  }
+}

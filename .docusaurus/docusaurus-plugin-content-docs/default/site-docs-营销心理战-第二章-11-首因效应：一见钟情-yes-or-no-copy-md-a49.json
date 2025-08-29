@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第二章/5",
+  "title": "11 首因效应：一见钟情——Yes or No",
+  "description": "暗示效应：用含蓄的方式点燃客户行动力",
+  "source": "@site/docs/营销心理战/第二章/11 首因效应：一见钟情——Yes or No copy.md",
+  "sourceDirName": "营销心理战/第二章",
+  "slug": "/营销心理战/第二章/5",
+  "permalink": "/docs/营销心理战/第二章/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "11 首因效应：一见钟情——Yes or No",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "10 暗示效应：暗送秋波的艺术活",
+    "permalink": "/docs/营销心理战/第二章/4"
+  },
+  "next": {
+    "title": "12 占便宜心理：人们买的不是便宜，而是占便宜",
+    "permalink": "/docs/营销心理战/第二章/6"
+  }
+}

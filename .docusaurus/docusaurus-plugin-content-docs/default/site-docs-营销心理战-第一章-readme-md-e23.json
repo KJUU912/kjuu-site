@@ -1,0 +1,27 @@
+{
+  "id": "营销心理战/第一章/home",
+  "title": "首页",
+  "description": "这里是首页内容，可用 Markdown 富文本编辑。",
+  "source": "@site/docs/营销心理战/第一章/README.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "home",
+    "title": "首页",
+    "slug": "/"
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/营销心理战/"
+  },
+  "next": {
+    "title": "01 情绪唤醒原理：吸引注意力的神奇按钮",
+    "permalink": "/docs/营销心理战/第一章/1"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第二章/4",
+  "title": "10 暗示效应：暗送秋波的艺术活",
+  "description": "暗示效应：用含蓄的方式点燃客户行动力",
+  "source": "@site/docs/营销心理战/第二章/10 暗示效应：暗送秋波的艺术活 copy.md",
+  "sourceDirName": "营销心理战/第二章",
+  "slug": "/营销心理战/第二章/4",
+  "permalink": "/docs/营销心理战/第二章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "10 暗示效应：暗送秋波的艺术活",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "09 奖赏效应：让人上瘾的不是“吃鸡”，而是奖励",
+    "permalink": "/docs/营销心理战/第二章/3"
+  },
+  "next": {
+    "title": "11 首因效应：一见钟情——Yes or No",
+    "permalink": "/docs/营销心理战/第二章/5"
+  }
+}

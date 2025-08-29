@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第一章/3",
+  "title": "第三节：大模型带来通用人工智能的曙光",
+  "description": "通用人工智能的定义与争议",
+  "source": "@site/docs/大模型浪潮/第一章/第三节.md",
+  "sourceDirName": "大模型浪潮/第一章",
+  "slug": "/大模型浪潮/第一章/3",
+  "permalink": "/docs/大模型浪潮/第一章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第三节：大模型带来通用人工智能的曙光",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二节：大模型有什么独特之处",
+    "permalink": "/docs/大模型浪潮/第一章/2"
+  },
+  "next": {
+    "title": "第四节 大模型为商业带来新范式",
+    "permalink": "/docs/大模型浪潮/第一章/4"
+  }
+}

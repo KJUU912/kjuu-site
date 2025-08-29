@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第九章",
+  "title": "第九章 政府的职能开始转变了",
+  "description": "岛屿经济的繁荣与政治变迁",
+  "source": "@site/docs/小岛经济学/第九章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第九章",
+  "permalink": "/docs/小岛经济学/第九章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "title": "第九章 政府的职能开始转变了",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第八章 一个共和国就这样诞生了",
+    "permalink": "/docs/小岛经济学/第八章"
+  },
+  "next": {
+    "title": "第十章 不断缩水的鱼就像货币一样",
+    "permalink": "/docs/小岛经济学/第十章"
+  }
+}

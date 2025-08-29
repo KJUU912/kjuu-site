@@ -1,0 +1,25 @@
+{
+  "id": "大模型浪潮/README",
+  "title": "README",
+  "description": "《大模型浪潮：商业机遇、产业变革与未来趋势》以2022年底ChatGPT全球现象级爆火为起点，系统梳理了人工智能大模型技术从实验室走向产业化的演变路径。全书深入探讨了大模型所带来的技术飞跃、商业机遇与产业重塑，认为大模型的影响将远超蒸汽机和电气时代的工业革命。书中不仅融合了理论解析，还通过丰富的行业案例，为企业和个人应用大模型、推动创新提供实务参考。作者用通俗的语言剖析大模型的发展、能力与应用场景，帮助广大读者理解为何“想象即现实、所想即所得”正逐步成为现实，并对企业落地人工智能给出了方法论和实践指引。",
+  "source": "@site/terminology/大模型浪潮/README.md",
+  "sourceDirName": "大模型浪潮",
+  "slug": "/大模型浪潮/",
+  "permalink": "/terminology/大模型浪潮/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/terminology/intro"
+  },
+  "next": {
+    "title": "第一节：人工智能螺旋式发展，越来越强",
+    "permalink": "/terminology/大模型浪潮/第一章/1"
+  }
+}

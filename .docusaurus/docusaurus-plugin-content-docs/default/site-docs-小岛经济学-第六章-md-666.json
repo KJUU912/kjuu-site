@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第六章",
+  "title": "第六章 为什么会有储蓄",
+  "description": "银行的诞生与储蓄安全",
+  "source": "@site/docs/小岛经济学/第六章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第六章",
+  "permalink": "/docs/小岛经济学/第六章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "第六章 为什么会有储蓄",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第五章 在鱼被指定为货币之后",
+    "permalink": "/docs/小岛经济学/第五章"
+  },
+  "next": {
+    "title": "第七章 基础设施与贸易",
+    "permalink": "/docs/小岛经济学/第七章"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "econ/期权",
+  "title": "期权",
+  "description": "",
+  "source": "@site/terminology/econ/期权.md",
+  "sourceDirName": "econ",
+  "slug": "/econ/期权",
+  "permalink": "/terminology/econ/期权",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "债券",
+    "permalink": "/terminology/econ/债券"
+  }
+}

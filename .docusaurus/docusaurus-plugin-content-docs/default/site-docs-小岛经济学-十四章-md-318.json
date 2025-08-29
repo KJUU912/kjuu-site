@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/十四章",
+  "title": "第十四章 棚屋价格是如何涨上去的",
+  "description": "棚屋贷款泡沫的形成",
+  "source": "@site/docs/小岛经济学/十四章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/十四章",
+  "permalink": "/docs/小岛经济学/十四章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14,
+    "title": "第十四章 棚屋价格是如何涨上去的",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十三章 “鱼本位”的破灭",
+    "permalink": "/docs/小岛经济学/十三章"
+  },
+  "next": {
+    "title": "第十五章 棚屋市场要崩溃了",
+    "permalink": "/docs/小岛经济学/十五章"
+  }
+}

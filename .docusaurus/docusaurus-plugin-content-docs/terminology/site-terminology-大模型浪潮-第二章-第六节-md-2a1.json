@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第二章/6",
+  "title": "第六节 混合专家模型：给业务快速配备一批专家",
+  "description": "混合专家模型的提出背景",
+  "source": "@site/terminology/大模型浪潮/第二章/第六节.md",
+  "sourceDirName": "大模型浪潮/第二章",
+  "slug": "/大模型浪潮/第二章/6",
+  "permalink": "/terminology/大模型浪潮/第二章/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "第六节 混合专家模型：给业务快速配备一批专家",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第五节 智能体：用“超级管家”为业务提效",
+    "permalink": "/terminology/大模型浪潮/第二章/5"
+  },
+  "next": {
+    "title": "第七节 长上下文：更聪明地处理复杂信息",
+    "permalink": "/terminology/大模型浪潮/第二章/7"
+  }
+}

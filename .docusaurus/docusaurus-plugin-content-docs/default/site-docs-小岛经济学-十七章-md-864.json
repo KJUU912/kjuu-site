@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/十七章",
+  "title": "第十七章 缓兵之计",
+  "description": "朱特尼亚群岛的棚屋泡沫与债务危机",
+  "source": "@site/docs/小岛经济学/十七章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/十七章",
+  "permalink": "/docs/小岛经济学/十七章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "sidebar_position": 17,
+    "title": "第十七章 缓兵之计",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十六章 情形怎么变得如此糟糕",
+    "permalink": "/docs/小岛经济学/十六章"
+  },
+  "next": {
+    "title": "第十八章 占领华孚街",
+    "permalink": "/docs/小岛经济学/十八章"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第二章/7",
+  "title": "第七节 长上下文：更聪明地处理复杂信息",
+  "description": "长上下文的必要性",
+  "source": "@site/terminology/大模型浪潮/第二章/第七节.md",
+  "sourceDirName": "大模型浪潮/第二章",
+  "slug": "/大模型浪潮/第二章/7",
+  "permalink": "/terminology/大模型浪潮/第二章/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "第七节 长上下文：更聪明地处理复杂信息",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第六节 混合专家模型：给业务快速配备一批专家",
+    "permalink": "/terminology/大模型浪潮/第二章/6"
+  },
+  "next": {
+    "title": "第八节 DeepSeek：如何掀起大模型的效率革命",
+    "permalink": "/terminology/大模型浪潮/第二章/8"
+  }
+}

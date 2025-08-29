@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/后记",
+  "title": "后记",
+  "description": "美国的政策延误与危机累积",
+  "source": "@site/docs/小岛经济学/后记.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/后记",
+  "permalink": "/docs/小岛经济学/后记",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 20,
+  "frontMatter": {
+    "sidebar_position": 20,
+    "title": "后记",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十九章 无鱼不起浪",
+    "permalink": "/docs/小岛经济学/十九章"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/营销心理战/"
+  }
+}

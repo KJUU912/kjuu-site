@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第五章/3",
+  "title": "27 心理账户：值不值，心理会计说了算",
+  "description": "心理账户：影响客户决策的隐形账本",
+  "source": "@site/docs/营销心理战/第五章/27 心理账户：值不值，心理会计说了算.md",
+  "sourceDirName": "营销心理战/第五章",
+  "slug": "/营销心理战/第五章/3",
+  "permalink": "/docs/营销心理战/第五章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "27 心理账户：值不值，心理会计说了算",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "26 登门槛效应：得寸进尺，让客户买得更多",
+    "permalink": "/docs/营销心理战/第五章/2"
+  },
+  "next": {
+    "title": "28 诱饵效应：客户买什么，我说了算",
+    "permalink": "/docs/营销心理战/第五章/4"
+  }
+}

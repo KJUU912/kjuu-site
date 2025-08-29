@@ -1,0 +1,644 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/blog-450": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogc-53-7dd"
+      }
+    ],
+    "__props": "__props---blogc-15-573"
+  },
+  "/blog/archive-182": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "__props": "__props---blog-archivef-81-229"
+  },
+  "/blog/authors-0b7": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authorsef-8-44f"
+  },
+  "/blog/authors/kejia-fa1": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "items": [
+      {
+        "content": "content---blogc-53-7dd"
+      }
+    ],
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-authors-kejia-0-de-ffd"
+  },
+  "/blog/tags-287": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "__props": "__props---blog-tags-3-a-2-fa2"
+  },
+  "/blog/tags/docusaurus-4d4": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogc-53-7dd"
+      }
+    ],
+    "__props": "__props---blog-tags-docusaurus-321-832"
+  },
+  "/blog/welcome-b97": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-authorsace-e7d"
+      },
+      "plugin": "plugin---blog-369-22e"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcome-2-e-9-617"
+  },
+  "/econ/qi-quan-d31": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---econ-qi-quana-74-e43"
+    },
+    "content": "content---econ-qi-quan-5-ad-621"
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---econ-qi-quana-74-e43"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-b23": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-928": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-74b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/-b24": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-e-23-876"
+  },
+  "/docs/大模型浪潮/-e86": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-296-539"
+  },
+  "/docs/大模型浪潮/第二章/1-078": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-1561-782"
+  },
+  "/docs/大模型浪潮/第二章/2-e97": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-2-df-2-2f8"
+  },
+  "/docs/大模型浪潮/第二章/3-19e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-3957-467"
+  },
+  "/docs/大模型浪潮/第二章/4-424": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-4796-3f7"
+  },
+  "/docs/大模型浪潮/第二章/5-ba4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-5159-37a"
+  },
+  "/docs/大模型浪潮/第二章/6-471": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-6-ef-5-df2"
+  },
+  "/docs/大模型浪潮/第二章/7-6dd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-7-a-96-94c"
+  },
+  "/docs/大模型浪潮/第二章/8-443": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第二章-84-f-6-fc9"
+  },
+  "/docs/大模型浪潮/第六章/1-56d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第六章-1593-9e8"
+  },
+  "/docs/大模型浪潮/第六章/2-b88": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第六章-2246-6bd"
+  },
+  "/docs/大模型浪潮/第六章/3-28a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第六章-3160-41e"
+  },
+  "/docs/大模型浪潮/第六章/4-bc5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第六章-4806-19b"
+  },
+  "/docs/大模型浪潮/第三章/1-d57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第三章-125-a-8f2"
+  },
+  "/docs/大模型浪潮/第三章/2-63d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第三章-2184-ff2"
+  },
+  "/docs/大模型浪潮/第三章/3-181": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第三章-3-b-6-c-efc"
+  },
+  "/docs/大模型浪潮/第三章/4-a8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第三章-4-fd-0-311"
+  },
+  "/docs/大模型浪潮/第四章/1-9a2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第四章-1-cdb-c7c"
+  },
+  "/docs/大模型浪潮/第四章/2-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第四章-22-d-4-fb5"
+  },
+  "/docs/大模型浪潮/第四章/3-d5b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第四章-3-c-64-a54"
+  },
+  "/docs/大模型浪潮/第四章/4-31e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第四章-4712-fda"
+  },
+  "/docs/大模型浪潮/第五章/1-a67": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-16-e-7-b17"
+  },
+  "/docs/大模型浪潮/第五章/2-72f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-2-ca-9-cd0"
+  },
+  "/docs/大模型浪潮/第五章/3-15a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-3934-581"
+  },
+  "/docs/大模型浪潮/第五章/4-147": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-4-e-36-86d"
+  },
+  "/docs/大模型浪潮/第五章/5-bef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-5-ffc-674"
+  },
+  "/docs/大模型浪潮/第五章/6-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-66-ce-44d"
+  },
+  "/docs/大模型浪潮/第五章/7-bda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第五章-744-a-517"
+  },
+  "/docs/大模型浪潮/第一章/1-f9c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第一章-1-e-50-c2a"
+  },
+  "/docs/大模型浪潮/第一章/2-ed0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第一章-2296-f5c"
+  },
+  "/docs/大模型浪潮/第一章/3-f90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第一章-380-b-af1"
+  },
+  "/docs/大模型浪潮/第一章/4-a37": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第一章-472-d-0a5"
+  },
+  "/docs/大模型浪潮/第一章/5-383": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-大模型浪潮-第一章-50-fa-e36"
+  },
+  "/docs/小岛经济学/-b89": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-837-62f"
+  },
+  "/docs/小岛经济学/第八章-df7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第八章-89-d-d31"
+  },
+  "/docs/小岛经济学/第二章-0f0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第二章df-5-a40"
+  },
+  "/docs/小岛经济学/第九章-6b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第九章-9-cf-254"
+  },
+  "/docs/小岛经济学/第六章-b63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第六章-666-0f4"
+  },
+  "/docs/小岛经济学/第七章-203": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第七章cba-e90"
+  },
+  "/docs/小岛经济学/第三章-b23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第三章-54-f-7bd"
+  },
+  "/docs/小岛经济学/第十二章-097": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第十二章-108-ca5"
+  },
+  "/docs/小岛经济学/第十一章-c64": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第十一章-276-ef2"
+  },
+  "/docs/小岛经济学/第十章-7b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第十章a-55-693"
+  },
+  "/docs/小岛经济学/第四章-697": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第四章-79-b-177"
+  },
+  "/docs/小岛经济学/第五章-5cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第五章d-59-1ae"
+  },
+  "/docs/小岛经济学/第一章-24e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-第一章-2-e-9-379"
+  },
+  "/docs/小岛经济学/后记-d9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-后记ded-168"
+  },
+  "/docs/小岛经济学/十八章-516": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十八章-2-cb-e24"
+  },
+  "/docs/小岛经济学/十九章-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十九章-1-ad-eec"
+  },
+  "/docs/小岛经济学/十六章-11f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十六章-12-b-4db"
+  },
+  "/docs/小岛经济学/十七章-1d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十七章-864-061"
+  },
+  "/docs/小岛经济学/十三章-230": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十三章bab-327"
+  },
+  "/docs/小岛经济学/十四章-44a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十四章-318-c17"
+  },
+  "/docs/小岛经济学/十五章-bf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-小岛经济学-十五章a-15-c32"
+  },
+  "/docs/营销心理战/-c36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-a-1-e-6ce"
+  },
+  "/docs/营销心理战/第二章/1-78e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-19-e-6-8c2"
+  },
+  "/docs/营销心理战/第二章/2-ab0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-2531-a98"
+  },
+  "/docs/营销心理战/第二章/3-c8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-332-e-970"
+  },
+  "/docs/营销心理战/第二章/4-9c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-464-a-a7c"
+  },
+  "/docs/营销心理战/第二章/5-2bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-5-a-49-0ed"
+  },
+  "/docs/营销心理战/第二章/6-f30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第二章-6249-8c5"
+  },
+  "/docs/营销心理战/第六章/1-fe5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-110-b-fe4"
+  },
+  "/docs/营销心理战/第六章/2-0a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-2-d-8-c-66f"
+  },
+  "/docs/营销心理战/第六章/3-b4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-3-f-6-a-4b1"
+  },
+  "/docs/营销心理战/第六章/4-665": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-4-c-8-d-266"
+  },
+  "/docs/营销心理战/第六章/5-df5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-5-b-21-d92"
+  },
+  "/docs/营销心理战/第六章/6-d39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第六章-6475-51d"
+  },
+  "/docs/营销心理战/第三章/1-d32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-1236-c5b"
+  },
+  "/docs/营销心理战/第三章/2-ccb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-275-b-584"
+  },
+  "/docs/营销心理战/第三章/3-1d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-3-c-30-b26"
+  },
+  "/docs/营销心理战/第三章/4-f10": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-4431-70f"
+  },
+  "/docs/营销心理战/第三章/5-fa3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-517-e-f0c"
+  },
+  "/docs/营销心理战/第三章/6-864": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第三章-6325-6ee"
+  },
+  "/docs/营销心理战/第四章/1-400": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-1939-079"
+  },
+  "/docs/营销心理战/第四章/2-88b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-2-e-1-e-f79"
+  },
+  "/docs/营销心理战/第四章/3-7f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-35-dd-2d1"
+  },
+  "/docs/营销心理战/第四章/4-b7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-4472-b34"
+  },
+  "/docs/营销心理战/第四章/5-09c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-52-ec-ff7"
+  },
+  "/docs/营销心理战/第四章/6-81b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第四章-6733-b2e"
+  },
+  "/docs/营销心理战/第五章/1-c26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-1-cd-2-37f"
+  },
+  "/docs/营销心理战/第五章/2-d79": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-2-b-51-49f"
+  },
+  "/docs/营销心理战/第五章/3-205": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-334-b-0f3"
+  },
+  "/docs/营销心理战/第五章/4-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-4162-63d"
+  },
+  "/docs/营销心理战/第五章/5-1cc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-504-f-02f"
+  },
+  "/docs/营销心理战/第五章/6-72a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第五章-61-aa-a63"
+  },
+  "/docs/营销心理战/第一章/1-89f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-19-dd-050"
+  },
+  "/docs/营销心理战/第一章/2-26b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-2-c-46-461"
+  },
+  "/docs/营销心理战/第一章/3-4c8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-38-c-0-5c3"
+  },
+  "/docs/营销心理战/第一章/4-dcf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-4-bbf-8fc"
+  },
+  "/docs/营销心理战/第一章/5-cb2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-5-b-68-6f9"
+  },
+  "/docs/营销心理战/第一章/6-f6d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-营销心理战-第一章-6566-f01"
+  },
+  "/docs/止损/-3f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-927-879"
+  },
+  "/docs/止损/1-0c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-191-b-69e"
+  },
+  "/docs/止损/2-7c3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-23-f-2-f23"
+  },
+  "/docs/止损/3-bb3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-311-f-4d9"
+  },
+  "/docs/止损/4-a2f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-4-bd-6-da6"
+  },
+  "/docs/止损/5-cea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-55-aa-aa9"
+  },
+  "/docs/止损/6-353": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-636-f-289"
+  },
+  "/docs/止损/7-208": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-7-fa-4-242"
+  },
+  "/docs/止损/8-ffb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-止损-8-b-1-f-600"
+  },
+  "/ebook-4e2": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---ebookca-0-d70"
+    }
+  },
+  "/ebook-b48": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---ebookfd-6-16e"
+  },
+  "/ebook-1ff": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/ebook/模版+素材/word模版-b30": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-模版-素材-word模版c-46-ab2"
+  },
+  "/ebook/Adobe Illustrator/画曲线的三种方法-e0f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-adobe-illustrator-画曲线的三种方法-824-2ad"
+  },
+  "/ebook/Adobe Illustrator/临摹线条图示例-281": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-adobe-illustrator-临摹线条图示例-053-2a1"
+  },
+  "/ebook/Adobe Illustrator/图标转矢量图-84d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-adobe-illustrator-图标转矢量图-48-d-46d"
+  },
+  "/ebook/Adobe Illustrator/图像上色-265": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-adobe-illustrator-图像上色c-54-11d"
+  },
+  "/ebook/Affinity Designer 2/临摹线条图示例-f75": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-affinity-designer-2-临摹线条图示例-824-6d1"
+  },
+  "/ebook/Affinity Designer 2/图像上色-bdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-affinity-designer-2-图像上色e-5-d-cf7"
+  },
+  "/ebook/AI应用/ChatPDF-df9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---ebook-ai应用-chat-pdf-558-e52"
+  },
+  "/ebook/category/模版素材-31e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---ebook-category-模版素材-066-774"
+  },
+  "/ebook/category/adobe-illustrator-学习笔记-e9a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---ebook-category-adobe-illustrator-学习笔记-7-e-3-02b"
+  },
+  "/ebook/category/affinity-designer-2-学习笔记-1e7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---ebook-category-affinity-designer-2-学习笔记-071-b60"
+  },
+  "/terminology-eb9": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---terminology-56-a-d35"
+    }
+  },
+  "/terminology-cfb": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---terminology-451-69a"
+  },
+  "/terminology-756": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/terminology/econ/-4f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-econ-a-2-a-fcc"
+  },
+  "/terminology/econ/期权-0f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-econ-期权-994-1f8"
+  },
+  "/terminology/econ/债券-d77": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-econ-债券-89-a-6fb"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---econ-qi-quana-74-e43"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

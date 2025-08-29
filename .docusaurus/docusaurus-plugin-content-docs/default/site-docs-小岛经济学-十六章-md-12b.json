@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/十六章",
+  "title": "第十六章 情形怎么变得如此糟糕",
+  "description": "奥库达的经济改革与扩张政策",
+  "source": "@site/docs/小岛经济学/十六章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/十六章",
+  "permalink": "/docs/小岛经济学/十六章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "sidebar_position": 16,
+    "title": "第十六章 情形怎么变得如此糟糕",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十五章 棚屋市场要崩溃了",
+    "permalink": "/docs/小岛经济学/十五章"
+  },
+  "next": {
+    "title": "第十七章 缓兵之计",
+    "permalink": "/docs/小岛经济学/十七章"
+  }
+}

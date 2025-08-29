@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第一章/4",
+  "title": "第四节 大模型为商业带来新范式",
+  "description": "大模型带来的人机交互革命",
+  "source": "@site/docs/大模型浪潮/第一章/第四节.md",
+  "sourceDirName": "大模型浪潮/第一章",
+  "slug": "/大模型浪潮/第一章/4",
+  "permalink": "/docs/大模型浪潮/第一章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第四节 大模型为商业带来新范式",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三节：大模型带来通用人工智能的曙光",
+    "permalink": "/docs/大模型浪潮/第一章/3"
+  },
+  "next": {
+    "title": "第五节 大模型在中国的发展",
+    "permalink": "/docs/大模型浪潮/第一章/5"
+  }
+}

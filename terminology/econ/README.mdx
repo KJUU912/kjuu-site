@@ -1,0 +1,36 @@
+---
+sidebar_position: 2
+hide_title: true
+---
+
+import React from 'react';
+import Link from '@docusaurus/Link';
+
+export const vocabList = [
+  { title: '期权', link: './期权' },
+  { title: '债券', link: './债券' },
+  { title: '股东', link: './股东' },
+];
+
+export default function Glossary() {
+  // 使用中文拼音排序（尽量贴近 pinyin 排序）
+  const collator = new Intl.Collator('zh-Hans-u-co-pinyin');
+  const sorted = [...vocabList].sort((a, b) => collator.compare(a.title, b.title));
+
+  return (
+    <div>
+      <h1>经济词汇</h1>
+
+      {/* 可选：简单的 A-Z（或拼音首字母）导航 */}
+      {/* 如果需要真正按首字母分组，可进一步把 sorted 归并成分组对象 */}
+
+      <ul>
+        {sorted.map(item => (
+          <li key={item.title}>
+            <Link to={item.link}>{item.title}</Link>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}

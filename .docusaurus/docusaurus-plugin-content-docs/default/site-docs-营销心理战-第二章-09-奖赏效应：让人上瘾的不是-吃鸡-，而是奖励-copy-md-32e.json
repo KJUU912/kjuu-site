@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第二章/3",
+  "title": "09 奖赏效应：让人上瘾的不是“吃鸡”，而是奖励",
+  "description": "奖赏效应：让客户“上瘾”的营销心理学",
+  "source": "@site/docs/营销心理战/第二章/09 奖赏效应：让人上瘾的不是“吃鸡”，而是奖励 copy.md",
+  "sourceDirName": "营销心理战/第二章",
+  "slug": "/营销心理战/第二章/3",
+  "permalink": "/docs/营销心理战/第二章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "09 奖赏效应：让人上瘾的不是“吃鸡”，而是奖励",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "08 喜好效应：爱，就供养；不爱，就围观",
+    "permalink": "/docs/营销心理战/第二章/2"
+  },
+  "next": {
+    "title": "10 暗示效应：暗送秋波的艺术活",
+    "permalink": "/docs/营销心理战/第二章/4"
+  }
+}

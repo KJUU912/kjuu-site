@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/十三章",
+  "title": "第十三章 “鱼本位”的破灭",
+  "description": "小鼓岛冲击与“鱼本位”终结",
+  "source": "@site/docs/小岛经济学/十三章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/十三章",
+  "permalink": "/docs/小岛经济学/十三章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13,
+    "title": "第十三章 “鱼本位”的破灭",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十二章 服务业是如何崛起的",
+    "permalink": "/docs/小岛经济学/第十二章"
+  },
+  "next": {
+    "title": "第十四章 棚屋价格是如何涨上去的",
+    "permalink": "/docs/小岛经济学/十四章"
+  }
+}

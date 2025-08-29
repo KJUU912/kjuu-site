@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第十二章",
+  "title": "第十二章 服务业是如何崛起的",
+  "description": "制造业外包与服务业兴起",
+  "source": "@site/docs/小岛经济学/第十二章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第十二章",
+  "permalink": "/docs/小岛经济学/第十二章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12,
+    "title": "第十二章 服务业是如何崛起的",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十一章 中岛帝国：远方的生命线",
+    "permalink": "/docs/小岛经济学/第十一章"
+  },
+  "next": {
+    "title": "第十三章 “鱼本位”的破灭",
+    "permalink": "/docs/小岛经济学/十三章"
+  }
+}

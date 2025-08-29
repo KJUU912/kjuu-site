@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第三章/3",
+  "title": "第三节 大模型和中国产业结合的时刻",
+  "description": "新质生产力的“破土时刻”",
+  "source": "@site/terminology/大模型浪潮/第三章/第三节.md",
+  "sourceDirName": "大模型浪潮/第三章",
+  "slug": "/大模型浪潮/第三章/3",
+  "permalink": "/terminology/大模型浪潮/第三章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第三节 大模型和中国产业结合的时刻",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第二节 便捷享用新型人工智能基础设施",
+    "permalink": "/terminology/大模型浪潮/第三章/2"
+  },
+  "next": {
+    "title": "第四节 技术革命时常产生于“危机”中",
+    "permalink": "/terminology/大模型浪潮/第三章/4"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "止损/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202508280045102.png\" alt=\"曲线\"",
+  "source": "@site/docs/止损/README.md",
+  "sourceDirName": "止损",
+  "slug": "/止损/",
+  "permalink": "/docs/止损/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "36 波纹效应：如何让传播效果最大化",
+    "permalink": "/docs/营销心理战/第六章/6"
+  },
+  "next": {
+    "title": "第一章 源自饥饿",
+    "permalink": "/docs/止损/1"
+  }
+}

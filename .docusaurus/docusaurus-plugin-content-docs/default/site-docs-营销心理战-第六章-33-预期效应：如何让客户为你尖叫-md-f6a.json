@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第六章/3",
+  "title": "33 预期效应：如何让客户为你尖叫",
+  "description": "真正影响评分的不是结果，而是心理预期",
+  "source": "@site/docs/营销心理战/第六章/33 预期效应：如何让客户为你尖叫.md",
+  "sourceDirName": "营销心理战/第六章",
+  "slug": "/营销心理战/第六章/3",
+  "permalink": "/docs/营销心理战/第六章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "33 预期效应：如何让客户为你尖叫",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "32 宜家效应：参与感背后的神奇力量",
+    "permalink": "/docs/营销心理战/第六章/2"
+  },
+  "next": {
+    "title": "34 光环效应：如何成为客户眼中的焦点",
+    "permalink": "/docs/营销心理战/第六章/4"
+  }
+}

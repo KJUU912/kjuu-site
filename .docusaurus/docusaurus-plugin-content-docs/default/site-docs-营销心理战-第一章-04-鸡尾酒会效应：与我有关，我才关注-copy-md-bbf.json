@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第一章/4",
+  "title": "04 鸡尾酒会效应：与我有关，我才关注",
+  "description": "鸡尾酒会效应：让客户在嘈杂世界中只听见你的声音",
+  "source": "@site/docs/营销心理战/第一章/04 鸡尾酒会效应：与我有关，我才关注 copy.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/营销心理战/第一章/4",
+  "permalink": "/docs/营销心理战/第一章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "04 鸡尾酒会效应：与我有关，我才关注",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "03 头部效应：站位比努力更重要",
+    "permalink": "/docs/营销心理战/第一章/3"
+  },
+  "next": {
+    "title": "05 出丑效应：有一种营销叫“自黑”",
+    "permalink": "/docs/营销心理战/第一章/5"
+  }
+}

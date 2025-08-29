@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第一章/1",
+  "title": "01 情绪唤醒原理：吸引注意力的神奇按钮",
+  "description": "情绪唤醒：在注意力稀缺时代抢占心智的利器",
+  "source": "@site/docs/营销心理战/第一章/01 情绪唤醒原理：吸引注意力的神奇按钮.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/营销心理战/第一章/1",
+  "permalink": "/docs/营销心理战/第一章/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "01 情绪唤醒原理：吸引注意力的神奇按钮",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "首页",
+    "permalink": "/docs/"
+  },
+  "next": {
+    "title": "02 莱斯托夫效应：与众不同才能被偏爱",
+    "permalink": "/docs/营销心理战/第一章/2"
+  }
+}

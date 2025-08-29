@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第五章/2",
+  "title": "26 登门槛效应：得寸进尺，让客户买得更多",
+  "description": "登门槛效应：让客户一步步走进你的产品世界",
+  "source": "@site/docs/营销心理战/第五章/26 登门槛效应：得寸进尺，让客户买得更多.md",
+  "sourceDirName": "营销心理战/第五章",
+  "slug": "/营销心理战/第五章/2",
+  "permalink": "/docs/营销心理战/第五章/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "26 登门槛效应：得寸进尺，让客户买得更多",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "25 锚定效应：操纵客户购买的遥控器",
+    "permalink": "/docs/营销心理战/第五章/1"
+  },
+  "next": {
+    "title": "27 心理账户：值不值，心理会计说了算",
+    "permalink": "/docs/营销心理战/第五章/3"
+  }
+}

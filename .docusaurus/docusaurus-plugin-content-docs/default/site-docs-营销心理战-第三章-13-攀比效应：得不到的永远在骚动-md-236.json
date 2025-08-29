@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第三章/1",
+  "title": "13 攀比效应：得不到的永远在骚动",
+  "description": "幸福的烦恼：我们追求的不是幸福，而是“比别人幸福”",
+  "source": "@site/docs/营销心理战/第三章/13 攀比效应：得不到的永远在骚动.md",
+  "sourceDirName": "营销心理战/第三章",
+  "slug": "/营销心理战/第三章/1",
+  "permalink": "/docs/营销心理战/第三章/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "13 攀比效应：得不到的永远在骚动",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "12 占便宜心理：人们买的不是便宜，而是占便宜",
+    "permalink": "/docs/营销心理战/第二章/6"
+  },
+  "next": {
+    "title": "14 稀缺性原理：稀有，才值得拥有",
+    "permalink": "/docs/营销心理战/第三章/2"
+  }
+}

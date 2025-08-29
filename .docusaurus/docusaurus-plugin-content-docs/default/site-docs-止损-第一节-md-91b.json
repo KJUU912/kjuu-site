@@ -1,0 +1,29 @@
+{
+  "id": "止损/1",
+  "title": "第一章 源自饥饿",
+  "description": "金钱意识的觉醒",
+  "source": "@site/docs/止损/第一节.md",
+  "sourceDirName": "止损",
+  "slug": "/止损/1",
+  "permalink": "/docs/止损/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "第一章 源自饥饿",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/止损/"
+  },
+  "next": {
+    "title": "第二章 跨进真实世界",
+    "permalink": "/docs/止损/2"
+  }
+}

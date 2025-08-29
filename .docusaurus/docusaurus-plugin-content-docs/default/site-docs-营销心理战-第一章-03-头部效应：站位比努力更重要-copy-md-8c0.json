@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第一章/3",
+  "title": "03 头部效应：站位比努力更重要",
+  "description": "人们为什么只记得第一名？——“头部效应”的力量",
+  "source": "@site/docs/营销心理战/第一章/03 头部效应：站位比努力更重要 copy.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/营销心理战/第一章/3",
+  "permalink": "/docs/营销心理战/第一章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "03 头部效应：站位比努力更重要",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "02 莱斯托夫效应：与众不同才能被偏爱",
+    "permalink": "/docs/营销心理战/第一章/2"
+  },
+  "next": {
+    "title": "04 鸡尾酒会效应：与我有关，我才关注",
+    "permalink": "/docs/营销心理战/第一章/4"
+  }
+}

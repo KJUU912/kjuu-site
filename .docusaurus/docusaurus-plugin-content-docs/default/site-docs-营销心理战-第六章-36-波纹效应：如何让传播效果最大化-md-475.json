@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第六章/6",
+  "title": "36 波纹效应：如何让传播效果最大化",
+  "description": "信息为什么要“叠着来”？传播中的波纹效应",
+  "source": "@site/docs/营销心理战/第六章/36 波纹效应：如何让传播效果最大化.md",
+  "sourceDirName": "营销心理战/第六章",
+  "slug": "/营销心理战/第六章/6",
+  "permalink": "/docs/营销心理战/第六章/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "36 波纹效应：如何让传播效果最大化",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "35 共情效应：如何与客户惺惺相惜",
+    "permalink": "/docs/营销心理战/第六章/5"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/止损/"
+  }
+}

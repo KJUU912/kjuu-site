@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第一章/5",
+  "title": "05 出丑效应：有一种营销叫“自黑”",
+  "description": "不是完美才有魅力，“出丑”反而更可爱",
+  "source": "@site/docs/营销心理战/第一章/05 出丑效应：有一种营销叫“自黑” copy.md",
+  "sourceDirName": "营销心理战/第一章",
+  "slug": "/营销心理战/第一章/5",
+  "permalink": "/docs/营销心理战/第一章/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "05 出丑效应：有一种营销叫“自黑”",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "04 鸡尾酒会效应：与我有关，我才关注",
+    "permalink": "/docs/营销心理战/第一章/4"
+  },
+  "next": {
+    "title": "06 7秒钟色彩定律：如何“色诱”人们的注意力",
+    "permalink": "/docs/营销心理战/第一章/6"
+  }
+}

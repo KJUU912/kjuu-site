@@ -1,0 +1,23 @@
+{
+  "id": "经济/README",
+  "title": "README",
+  "description": "return (",
+  "source": "@site/terminology/经济/README.mdx",
+  "sourceDirName": "经济",
+  "slug": "/经济/",
+  "permalink": "/terminology/经济/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/terminology/intro"
+  },
+  "next": {
+    "title": "07 潘多拉效应：无法抗拒的魔盒",
+    "permalink": "/terminology/经济/1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第七章",
+  "title": "第七章 基础设施与贸易",
+  "description": "水资源与基础设施投资的启示",
+  "source": "@site/docs/小岛经济学/第七章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第七章",
+  "permalink": "/docs/小岛经济学/第七章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "第七章 基础设施与贸易",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第六章 为什么会有储蓄",
+    "permalink": "/docs/小岛经济学/第六章"
+  },
+  "next": {
+    "title": "第八章 一个共和国就这样诞生了",
+    "permalink": "/docs/小岛经济学/第八章"
+  }
+}

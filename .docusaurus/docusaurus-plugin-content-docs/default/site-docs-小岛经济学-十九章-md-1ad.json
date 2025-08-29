@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/十九章",
+  "title": "第十九章 无鱼不起浪",
+  "description": "中岛帝国的转向与经济重建",
+  "source": "@site/docs/小岛经济学/十九章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/十九章",
+  "permalink": "/docs/小岛经济学/十九章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "sidebar_position": 19,
+    "title": "第十九章 无鱼不起浪",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十八章 占领华孚街",
+    "permalink": "/docs/小岛经济学/十八章"
+  },
+  "next": {
+    "title": "后记",
+    "permalink": "/docs/小岛经济学/后记"
+  }
+}

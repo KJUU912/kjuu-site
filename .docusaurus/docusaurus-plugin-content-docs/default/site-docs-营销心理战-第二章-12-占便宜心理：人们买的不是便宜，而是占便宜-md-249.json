@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第二章/6",
+  "title": "12 占便宜心理：人们买的不是便宜，而是占便宜",
+  "description": "“全场通通20块”：我们为什么总是忍不住想“捡便宜”？",
+  "source": "@site/docs/营销心理战/第二章/12 占便宜心理：人们买的不是便宜，而是占便宜.md",
+  "sourceDirName": "营销心理战/第二章",
+  "slug": "/营销心理战/第二章/6",
+  "permalink": "/docs/营销心理战/第二章/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "12 占便宜心理：人们买的不是便宜，而是占便宜",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "11 首因效应：一见钟情——Yes or No",
+    "permalink": "/docs/营销心理战/第二章/5"
+  },
+  "next": {
+    "title": "13 攀比效应：得不到的永远在骚动",
+    "permalink": "/docs/营销心理战/第三章/1"
+  }
+}

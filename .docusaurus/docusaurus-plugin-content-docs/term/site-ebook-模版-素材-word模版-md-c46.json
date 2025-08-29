@@ -1,0 +1,27 @@
+{
+  "id": "模版+素材/word模版",
+  "title": "word模版",
+  "description": "资源下载",
+  "source": "@site/ebook/模版+素材/word模版.md",
+  "sourceDirName": "模版+素材",
+  "slug": "/模版+素材/word模版",
+  "permalink": "/ebook/模版+素材/word模版",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "hide_title": true
+  },
+  "sidebar": "ebookSidebar",
+  "previous": {
+    "title": "模版+素材",
+    "permalink": "/ebook/category/模版素材"
+  },
+  "next": {
+    "title": "ChatPDF",
+    "permalink": "/ebook/AI应用/ChatPDF"
+  }
+}

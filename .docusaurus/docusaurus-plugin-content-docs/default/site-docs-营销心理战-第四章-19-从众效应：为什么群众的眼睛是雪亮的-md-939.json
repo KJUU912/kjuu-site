@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第四章/1",
+  "title": "19 从众效应：为什么群众的眼睛是雪亮的",
+  "description": "从众效应：人为什么更愿意“跟着大家一起买”",
+  "source": "@site/docs/营销心理战/第四章/19 从众效应：为什么群众的眼睛是雪亮的.md",
+  "sourceDirName": "营销心理战/第四章",
+  "slug": "/营销心理战/第四章/1",
+  "permalink": "/docs/营销心理战/第四章/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "19 从众效应：为什么群众的眼睛是雪亮的",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "18 超限效应：不做营销界的“唐僧”",
+    "permalink": "/docs/营销心理战/第三章/6"
+  },
+  "next": {
+    "title": "20 权威效应：最具公信力的信任符号",
+    "permalink": "/docs/营销心理战/第四章/2"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第二章/4",
+  "title": "第四节 检索增强生成：发挥企业专有数据的优势",
+  "description": "大模型的局限与RAG的提出",
+  "source": "@site/docs/大模型浪潮/第二章/第四节.md",
+  "sourceDirName": "大模型浪潮/第二章",
+  "slug": "/大模型浪潮/第二章/4",
+  "permalink": "/docs/大模型浪潮/第二章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第四节 检索增强生成：发挥企业专有数据的优势",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三节 人类反馈强化学习：对齐人类价值观",
+    "permalink": "/docs/大模型浪潮/第二章/3"
+  },
+  "next": {
+    "title": "第五节 智能体：用“超级管家”为业务提效",
+    "permalink": "/docs/大模型浪潮/第二章/5"
+  }
+}

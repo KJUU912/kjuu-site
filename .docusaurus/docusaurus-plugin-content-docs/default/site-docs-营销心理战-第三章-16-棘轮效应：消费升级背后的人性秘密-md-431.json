@@ -1,0 +1,29 @@
+{
+  "id": "营销心理战/第三章/4",
+  "title": "16 棘轮效应：消费升级背后的人性秘密",
+  "description": "从奢入俭难：消费升级背后的心理逻辑",
+  "source": "@site/docs/营销心理战/第三章/16 棘轮效应：消费升级背后的人性秘密.md",
+  "sourceDirName": "营销心理战/第三章",
+  "slug": "/营销心理战/第三章/4",
+  "permalink": "/docs/营销心理战/第三章/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "16 棘轮效应：消费升级背后的人性秘密",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "15 鸟笼效应：门当户对的消费欲望",
+    "permalink": "/docs/营销心理战/第三章/3"
+  },
+  "next": {
+    "title": "17 场化效应：如此火爆的场面，怎么能不买",
+    "permalink": "/docs/营销心理战/第三章/5"
+  }
+}

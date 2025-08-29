@@ -1,0 +1,28 @@
+{
+  "id": "小岛经济学/第四章",
+  "title": "第四章 经济到底是如何发展的",
+  "description": "从渔网到巨型捕鱼器：产业化的飞跃",
+  "source": "@site/docs/小岛经济学/第四章.md",
+  "sourceDirName": "小岛经济学",
+  "slug": "/小岛经济学/第四章",
+  "permalink": "/docs/小岛经济学/第四章",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "第四章 经济到底是如何发展的",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三章 信用卡的多种用途",
+    "permalink": "/docs/小岛经济学/第三章"
+  },
+  "next": {
+    "title": "第五章 在鱼被指定为货币之后",
+    "permalink": "/docs/小岛经济学/第五章"
+  }
+}

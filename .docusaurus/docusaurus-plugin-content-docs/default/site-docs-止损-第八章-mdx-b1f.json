@@ -1,0 +1,25 @@
+{
+  "id": "止损/8",
+  "title": "第八章 心理学意义上的群众",
+  "description": "羊群心理",
+  "source": "@site/docs/止损/第八章.mdx",
+  "sourceDirName": "止损",
+  "slug": "/止损/8",
+  "permalink": "/docs/止损/8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "8",
+    "sidebar_position": 8,
+    "title": "第八章 心理学意义上的群众",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第七章 风险的心理谬误",
+    "permalink": "/docs/止损/7"
+  }
+}

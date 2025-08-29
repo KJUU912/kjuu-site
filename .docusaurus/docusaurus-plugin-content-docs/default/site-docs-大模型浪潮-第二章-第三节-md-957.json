@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第二章/3",
+  "title": "第三节 人类反馈强化学习：对齐人类价值观",
+  "description": "微调后的障碍与对齐的必要性",
+  "source": "@site/docs/大模型浪潮/第二章/第三节.md",
+  "sourceDirName": "大模型浪潮/第二章",
+  "slug": "/大模型浪潮/第二章/3",
+  "permalink": "/docs/大模型浪潮/第二章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第三节 人类反馈强化学习：对齐人类价值观",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二节 有监督微调：让大模型更好理解并执行实际的需求",
+    "permalink": "/docs/大模型浪潮/第二章/2"
+  },
+  "next": {
+    "title": "第四节 检索增强生成：发挥企业专有数据的优势",
+    "permalink": "/docs/大模型浪潮/第二章/4"
+  }
+}

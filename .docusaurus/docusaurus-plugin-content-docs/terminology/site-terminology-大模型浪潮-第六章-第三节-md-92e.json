@@ -1,0 +1,29 @@
+{
+  "id": "大模型浪潮/第六章/3",
+  "title": "第三节 做好大模型评估，选对模型、降低风险",
+  "description": "大模型评估的挑战与新思路",
+  "source": "@site/terminology/大模型浪潮/第六章/第三节.md",
+  "sourceDirName": "大模型浪潮/第六章",
+  "slug": "/大模型浪潮/第六章/3",
+  "permalink": "/terminology/大模型浪潮/第六章/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第三节 做好大模型评估，选对模型、降低风险",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "第二节 大模型从技术到生产力，步步为营",
+    "permalink": "/terminology/大模型浪潮/第六章/2"
+  },
+  "next": {
+    "title": "第四节 未来趋势展望",
+    "permalink": "/terminology/大模型浪潮/第六章/4"
+  }
+}
