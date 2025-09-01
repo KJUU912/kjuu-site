@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
+  --ifm-color-primary: #19a395;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -17,10 +17,12 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-leading: 0.5rem;
   --ifm-paragraph-margin-bottom: 0.5rem;
-  --ifm-navbar-background-color: #323330;        
-  --ifm-navbar-link-color: #fff;               
-  --ifm-navbar-link-hover-color: #40E0D0;      
-  --ifm-navbar-shadow: none;               
+  --ifm-navbar-link-color: #fff;
+  --ifm-navbar-link-hover-color: #40E0D0;
+  --doc-sidebar-width: 270px !important;
+  --ifm-link-color: #19a395;
+  --ifm-menu-color-active: #19a395;
+  --ifm-breadcrumb-color-active: #19a395;
 }
 
 [data-theme='dark'] {
@@ -32,6 +34,7 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-footer-background-color: #343434 !important;
 }
 
 [data-theme-choice='light'] svg,
@@ -48,7 +51,7 @@
 
 /* 自定义 Markdown 中的标题字号 */
 .markdown h1 {
-  font-size: 1.8rem; 
+  font-size: 1.8rem;
 }
 
 .markdown h2 {
@@ -125,5 +128,34 @@ div.remark-auto-glossary-term-details[itemtype*="DefinedTerm"] div.more-details 
   color: #666666;
 }
 
+.menu__link {
+  font-size: 14px !important;
+  /* line-height: 0.8 !important; */
+}
 
+.menu__list-item {
+  margin-bottom: -3px !important;
+}
 
+/* 改变正文宽度 */
+.docItemCol_VOVn {
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+}
+
+.tabs__item {
+  padding: 8px 16px 4px 16px !important;
+}
+
+.navbar--fixed-top {
+  padding-bottom: 2px !important;
+  background-color: #343434 !important;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #343434 !important;
+}
+
+.hero--primary {
+  background-color: #545454 !important;
+}

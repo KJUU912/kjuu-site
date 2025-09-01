@@ -1,0 +1,25 @@
+{
+  "id": "泡沫逃生/1",
+  "title": "第一章 成就快捷运输的铁路时代“工业革命”​、运河与铁路",
+  "description": "工业革命，铁路和股权融资的兴起",
+  "source": "@site/docs/泡沫逃生/第一章.md",
+  "sourceDirName": "泡沫逃生",
+  "slug": "/泡沫逃生/1",
+  "permalink": "/docs/泡沫逃生/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "第一章 成就快捷运输的铁路时代“工业革命”​、运河与铁路",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/泡沫逃生/"
+  }
+}

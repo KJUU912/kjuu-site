@@ -16,8 +16,12 @@
     "hide_title": true
   },
   "sidebar": "termSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/terminology/intro"
+  },
   "next": {
-    "title": "债券",
-    "permalink": "/terminology/econ/债券"
+    "title": "期权",
+    "permalink": "/terminology/econ/期权"
   }
 }

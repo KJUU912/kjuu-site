@@ -1,0 +1,29 @@
+{
+  "id": "泡沫逃生/7",
+  "title": "第七章 风险的心理谬误",
+  "description": "投资、投机与赌博的边界",
+  "source": "@site/docs/泡沫逃生/第七节.mdx",
+  "sourceDirName": "泡沫逃生",
+  "slug": "/泡沫逃生/7",
+  "permalink": "/docs/泡沫逃生/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "第七章 风险的心理谬误",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第六章 亏损的心理动态演变",
+    "permalink": "/docs/泡沫逃生/6"
+  },
+  "next": {
+    "title": "第八章 心理学意义上的群众",
+    "permalink": "/docs/泡沫逃生/8"
+  }
+}

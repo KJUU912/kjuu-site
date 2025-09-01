@@ -1,0 +1,29 @@
+{
+  "id": "泡沫逃生/3",
+  "title": "第三章 木材交易",
+  "description": "从失策到翻身的教训",
+  "source": "@site/docs/泡沫逃生/第三节.md",
+  "sourceDirName": "泡沫逃生",
+  "slug": "/泡沫逃生/3",
+  "permalink": "/docs/泡沫逃生/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第三章 木材交易",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 跨进真实世界",
+    "permalink": "/docs/泡沫逃生/2"
+  },
+  "next": {
+    "title": "第四章 投机豪赌",
+    "permalink": "/docs/泡沫逃生/4"
+  }
+}

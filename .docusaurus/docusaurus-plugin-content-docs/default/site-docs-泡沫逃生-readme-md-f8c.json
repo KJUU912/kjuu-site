@@ -1,0 +1,25 @@
+{
+  "id": "泡沫逃生/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/copy.png\" alt=\"封面图\"",
+  "source": "@site/docs/泡沫逃生/README.md",
+  "sourceDirName": "泡沫逃生",
+  "slug": "/泡沫逃生/",
+  "permalink": "/docs/泡沫逃生/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "结论",
+    "permalink": "/docs/止损/10"
+  },
+  "next": {
+    "title": "第一章 成就快捷运输的铁路时代“工业革命”​、运河与铁路",
+    "permalink": "/docs/泡沫逃生/1"
+  }
+}

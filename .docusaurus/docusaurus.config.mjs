@@ -4,7 +4,7 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "Welcome",
   "tagline": "",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
@@ -31,6 +31,12 @@ export default {
         "path": "ebook",
         "routeBasePath": "ebook",
         "sidebarPath": "/Users/kjuu/Desktop/code/kjuu-site/sidebarsEbook.js",
+        "remarkPlugins": [
+          null
+        ],
+        "rehypePlugins": [
+          null
+        ],
         "beforeDefaultRemarkPlugins": [
           [
             null,
@@ -48,6 +54,12 @@ export default {
         "path": "terminology",
         "routeBasePath": "terminology",
         "sidebarPath": "/Users/kjuu/Desktop/code/kjuu-site/sidebarsTerm.js",
+        "remarkPlugins": [
+          null
+        ],
+        "rehypePlugins": [
+          null
+        ],
         "beforeDefaultRemarkPlugins": [
           [
             null,
@@ -64,6 +76,12 @@ export default {
       "classic",
       {
         "docs": {
+          "remarkPlugins": [
+            null
+          ],
+          "rehypePlugins": [
+            null
+          ],
           "beforeDefaultRemarkPlugins": [
             [
               null,
@@ -92,6 +110,14 @@ export default {
         }
       }
     ]
+  ],
+  "stylesheets": [
+    {
+      "href": "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      "type": "text/css",
+      "integrity": "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      "crossorigin": "anonymous"
+    }
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
@@ -440,7 +466,6 @@ export default {
   "customFields": {},
   "scripts": [],
   "headTags": [],
-  "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
   "noIndex": false,

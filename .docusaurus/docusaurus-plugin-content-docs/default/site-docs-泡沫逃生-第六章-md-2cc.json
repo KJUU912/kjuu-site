@@ -1,0 +1,29 @@
+{
+  "id": "泡沫逃生/6",
+  "title": "第六章 亏损的心理动态演变",
+  "description": "外部损失与内在损失",
+  "source": "@site/docs/泡沫逃生/第六章.md",
+  "sourceDirName": "泡沫逃生",
+  "slug": "/泡沫逃生/6",
+  "permalink": "/docs/泡沫逃生/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "第六章 亏损的心理动态演变",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第五章 追寻探索",
+    "permalink": "/docs/泡沫逃生/5"
+  },
+  "next": {
+    "title": "第七章 风险的心理谬误",
+    "permalink": "/docs/泡沫逃生/7"
+  }
+}

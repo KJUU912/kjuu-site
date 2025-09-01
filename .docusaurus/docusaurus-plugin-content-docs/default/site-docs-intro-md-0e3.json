@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Introduction",
-  "description": "Welcome to the introduction page.",
+  "description": "",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,13 +12,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "id": "intro",
     "sidebar_position": 1,
     "title": "Introduction"
   },
   "sidebar": "bookSidebar",
   "next": {
     "title": "README",
-    "permalink": "/docs/大模型浪潮/"
+    "permalink": "/docs/营销心理战/"
   }
 }

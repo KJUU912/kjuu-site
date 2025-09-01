@@ -19,13 +19,15 @@
     "@docusaurus/preset-classic": "^3.7.0",
     "@easyops-cn/docusaurus-search-local": "^0.52.1",
     "@mdx-js/react": "^3.0.0",
+    "@renatonagliati/remark-auto-glossary": "https://github.com/renatonagliati/remark-auto-glossary.git",
     "clsx": "^2.0.0",
     "docusaurus-lunr-search": "^3.6.0",
     "docusaurus-plugin-image-zoom": "^3.0.1",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "@renatonagliati/remark-auto-glossary": "https://github.com/renatonagliati/remark-auto-glossary.git"
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.7.0",

@@ -73,26 +73,21 @@ export default [
     exact: true
   },
   {
-    path: '/econ/qi-quan',
-    component: ComponentCreator('/econ/qi-quan', 'd31'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'b23'),
+    component: ComponentCreator('/docs', 'c7f'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '928'),
+        component: ComponentCreator('/docs', '40e'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '74b'),
+            component: ComponentCreator('/docs', 'c7c'),
             routes: [
               {
                 path: '/docs/',
@@ -101,8 +96,68 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'cda'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/大模型浪潮/',
                 component: ComponentCreator('/docs/大模型浪潮/', 'e86'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第一章/1',
+                component: ComponentCreator('/docs/大模型浪潮/第一章/1', 'f9c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第一章/2',
+                component: ComponentCreator('/docs/大模型浪潮/第一章/2', 'ed0'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第一章/3',
+                component: ComponentCreator('/docs/大模型浪潮/第一章/3', 'f90'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第一章/4',
+                component: ComponentCreator('/docs/大模型浪潮/第一章/4', 'a37'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第一章/5',
+                component: ComponentCreator('/docs/大模型浪潮/第一章/5', '383'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第三章/1',
+                component: ComponentCreator('/docs/大模型浪潮/第三章/1', 'd57'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第三章/2',
+                component: ComponentCreator('/docs/大模型浪潮/第三章/2', '63d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第三章/3',
+                component: ComponentCreator('/docs/大模型浪潮/第三章/3', '181'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第三章/4',
+                component: ComponentCreator('/docs/大模型浪潮/第三章/4', 'a8a'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -155,78 +210,6 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第六章/1',
-                component: ComponentCreator('/docs/大模型浪潮/第六章/1', '56d'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第六章/2',
-                component: ComponentCreator('/docs/大模型浪潮/第六章/2', 'b88'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第六章/3',
-                component: ComponentCreator('/docs/大模型浪潮/第六章/3', '28a'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第六章/4',
-                component: ComponentCreator('/docs/大模型浪潮/第六章/4', 'bc5'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第三章/1',
-                component: ComponentCreator('/docs/大模型浪潮/第三章/1', 'd57'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第三章/2',
-                component: ComponentCreator('/docs/大模型浪潮/第三章/2', '63d'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第三章/3',
-                component: ComponentCreator('/docs/大模型浪潮/第三章/3', '181'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第三章/4',
-                component: ComponentCreator('/docs/大模型浪潮/第三章/4', 'a8a'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第四章/1',
-                component: ComponentCreator('/docs/大模型浪潮/第四章/1', '9a2'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第四章/2',
-                component: ComponentCreator('/docs/大模型浪潮/第四章/2', 'aed'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第四章/3',
-                component: ComponentCreator('/docs/大模型浪潮/第四章/3', 'd5b'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/大模型浪潮/第四章/4',
-                component: ComponentCreator('/docs/大模型浪潮/第四章/4', '31e'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
                 path: '/docs/大模型浪潮/第五章/1',
                 component: ComponentCreator('/docs/大模型浪潮/第五章/1', 'a67'),
                 exact: true,
@@ -269,134 +252,56 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第一章/1',
-                component: ComponentCreator('/docs/大模型浪潮/第一章/1', 'f9c'),
+                path: '/docs/大模型浪潮/第六章/1',
+                component: ComponentCreator('/docs/大模型浪潮/第六章/1', '56d'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第一章/2',
-                component: ComponentCreator('/docs/大模型浪潮/第一章/2', 'ed0'),
+                path: '/docs/大模型浪潮/第六章/2',
+                component: ComponentCreator('/docs/大模型浪潮/第六章/2', 'b88'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第一章/3',
-                component: ComponentCreator('/docs/大模型浪潮/第一章/3', 'f90'),
+                path: '/docs/大模型浪潮/第六章/3',
+                component: ComponentCreator('/docs/大模型浪潮/第六章/3', '28a'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第一章/4',
-                component: ComponentCreator('/docs/大模型浪潮/第一章/4', 'a37'),
+                path: '/docs/大模型浪潮/第六章/4',
+                component: ComponentCreator('/docs/大模型浪潮/第六章/4', 'bc5'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/大模型浪潮/第一章/5',
-                component: ComponentCreator('/docs/大模型浪潮/第一章/5', '383'),
+                path: '/docs/大模型浪潮/第四章/1',
+                component: ComponentCreator('/docs/大模型浪潮/第四章/1', '9a2'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第四章/2',
+                component: ComponentCreator('/docs/大模型浪潮/第四章/2', 'aed'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第四章/3',
+                component: ComponentCreator('/docs/大模型浪潮/第四章/3', 'd5b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/大模型浪潮/第四章/4',
+                component: ComponentCreator('/docs/大模型浪潮/第四章/4', '31e'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
                 path: '/docs/小岛经济学/',
                 component: ComponentCreator('/docs/小岛经济学/', 'b89'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第八章',
-                component: ComponentCreator('/docs/小岛经济学/第八章', 'df7'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第二章',
-                component: ComponentCreator('/docs/小岛经济学/第二章', '0f0'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第九章',
-                component: ComponentCreator('/docs/小岛经济学/第九章', '6b5'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第六章',
-                component: ComponentCreator('/docs/小岛经济学/第六章', 'b63'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第七章',
-                component: ComponentCreator('/docs/小岛经济学/第七章', '203'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第三章',
-                component: ComponentCreator('/docs/小岛经济学/第三章', 'b23'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第十二章',
-                component: ComponentCreator('/docs/小岛经济学/第十二章', '097'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第十一章',
-                component: ComponentCreator('/docs/小岛经济学/第十一章', 'c64'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第十章',
-                component: ComponentCreator('/docs/小岛经济学/第十章', '7b4'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第四章',
-                component: ComponentCreator('/docs/小岛经济学/第四章', '697'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第五章',
-                component: ComponentCreator('/docs/小岛经济学/第五章', '5cd'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/第一章',
-                component: ComponentCreator('/docs/小岛经济学/第一章', '24e'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/后记',
-                component: ComponentCreator('/docs/小岛经济学/后记', 'd9b'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/十八章',
-                component: ComponentCreator('/docs/小岛经济学/十八章', '516'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/十九章',
-                component: ComponentCreator('/docs/小岛经济学/十九章', 'c2e'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/小岛经济学/十六章',
-                component: ComponentCreator('/docs/小岛经济学/十六章', '11f'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -413,8 +318,8 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/小岛经济学/十四章',
-                component: ComponentCreator('/docs/小岛经济学/十四章', '44a'),
+                path: '/docs/小岛经济学/十九章',
+                component: ComponentCreator('/docs/小岛经济学/十九章', 'c2e'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -425,224 +330,98 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/',
-                component: ComponentCreator('/docs/营销心理战/', 'c36'),
+                path: '/docs/小岛经济学/十八章',
+                component: ComponentCreator('/docs/小岛经济学/十八章', '516'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/1',
-                component: ComponentCreator('/docs/营销心理战/第二章/1', '78e'),
+                path: '/docs/小岛经济学/十六章',
+                component: ComponentCreator('/docs/小岛经济学/十六章', '11f'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/2',
-                component: ComponentCreator('/docs/营销心理战/第二章/2', 'ab0'),
+                path: '/docs/小岛经济学/十四章',
+                component: ComponentCreator('/docs/小岛经济学/十四章', '44a'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/3',
-                component: ComponentCreator('/docs/营销心理战/第二章/3', 'c8d'),
+                path: '/docs/小岛经济学/后记',
+                component: ComponentCreator('/docs/小岛经济学/后记', 'd9b'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/4',
-                component: ComponentCreator('/docs/营销心理战/第二章/4', '9c4'),
+                path: '/docs/小岛经济学/第一章',
+                component: ComponentCreator('/docs/小岛经济学/第一章', '24e'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/5',
-                component: ComponentCreator('/docs/营销心理战/第二章/5', '2bf'),
+                path: '/docs/小岛经济学/第七章',
+                component: ComponentCreator('/docs/小岛经济学/第七章', '203'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第二章/6',
-                component: ComponentCreator('/docs/营销心理战/第二章/6', 'f30'),
+                path: '/docs/小岛经济学/第三章',
+                component: ComponentCreator('/docs/小岛经济学/第三章', 'b23'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/1',
-                component: ComponentCreator('/docs/营销心理战/第六章/1', 'fe5'),
+                path: '/docs/小岛经济学/第九章',
+                component: ComponentCreator('/docs/小岛经济学/第九章', '6b5'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/2',
-                component: ComponentCreator('/docs/营销心理战/第六章/2', '0a1'),
+                path: '/docs/小岛经济学/第二章',
+                component: ComponentCreator('/docs/小岛经济学/第二章', '0f0'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/3',
-                component: ComponentCreator('/docs/营销心理战/第六章/3', 'b4c'),
+                path: '/docs/小岛经济学/第五章',
+                component: ComponentCreator('/docs/小岛经济学/第五章', '5cd'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/4',
-                component: ComponentCreator('/docs/营销心理战/第六章/4', '665'),
+                path: '/docs/小岛经济学/第八章',
+                component: ComponentCreator('/docs/小岛经济学/第八章', 'df7'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/5',
-                component: ComponentCreator('/docs/营销心理战/第六章/5', 'df5'),
+                path: '/docs/小岛经济学/第六章',
+                component: ComponentCreator('/docs/小岛经济学/第六章', 'b63'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第六章/6',
-                component: ComponentCreator('/docs/营销心理战/第六章/6', 'd39'),
+                path: '/docs/小岛经济学/第十一章',
+                component: ComponentCreator('/docs/小岛经济学/第十一章', 'c64'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第三章/1',
-                component: ComponentCreator('/docs/营销心理战/第三章/1', 'd32'),
+                path: '/docs/小岛经济学/第十二章',
+                component: ComponentCreator('/docs/小岛经济学/第十二章', '097'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第三章/2',
-                component: ComponentCreator('/docs/营销心理战/第三章/2', 'ccb'),
+                path: '/docs/小岛经济学/第十章',
+                component: ComponentCreator('/docs/小岛经济学/第十章', '7b4'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
               {
-                path: '/docs/营销心理战/第三章/3',
-                component: ComponentCreator('/docs/营销心理战/第三章/3', '1d4'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第三章/4',
-                component: ComponentCreator('/docs/营销心理战/第三章/4', 'f10'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第三章/5',
-                component: ComponentCreator('/docs/营销心理战/第三章/5', 'fa3'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第三章/6',
-                component: ComponentCreator('/docs/营销心理战/第三章/6', '864'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/1',
-                component: ComponentCreator('/docs/营销心理战/第四章/1', '400'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/2',
-                component: ComponentCreator('/docs/营销心理战/第四章/2', '88b'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/3',
-                component: ComponentCreator('/docs/营销心理战/第四章/3', '7f3'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/4',
-                component: ComponentCreator('/docs/营销心理战/第四章/4', 'b7c'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/5',
-                component: ComponentCreator('/docs/营销心理战/第四章/5', '09c'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第四章/6',
-                component: ComponentCreator('/docs/营销心理战/第四章/6', '81b'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/1',
-                component: ComponentCreator('/docs/营销心理战/第五章/1', 'c26'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/2',
-                component: ComponentCreator('/docs/营销心理战/第五章/2', 'd79'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/3',
-                component: ComponentCreator('/docs/营销心理战/第五章/3', '205'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/4',
-                component: ComponentCreator('/docs/营销心理战/第五章/4', '1ff'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/5',
-                component: ComponentCreator('/docs/营销心理战/第五章/5', '1cc'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第五章/6',
-                component: ComponentCreator('/docs/营销心理战/第五章/6', '72a'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/1',
-                component: ComponentCreator('/docs/营销心理战/第一章/1', '89f'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/2',
-                component: ComponentCreator('/docs/营销心理战/第一章/2', '26b'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/3',
-                component: ComponentCreator('/docs/营销心理战/第一章/3', '4c8'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/4',
-                component: ComponentCreator('/docs/营销心理战/第一章/4', 'dcf'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/5',
-                component: ComponentCreator('/docs/营销心理战/第一章/5', 'cb2'),
-                exact: true,
-                sidebar: "bookSidebar"
-              },
-              {
-                path: '/docs/营销心理战/第一章/6',
-                component: ComponentCreator('/docs/营销心理战/第一章/6', 'f6d'),
+                path: '/docs/小岛经济学/第四章',
+                component: ComponentCreator('/docs/小岛经济学/第四章', '697'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -655,6 +434,12 @@ export default [
               {
                 path: '/docs/止损/1',
                 component: ComponentCreator('/docs/止损/1', '0c4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/止损/10',
+                component: ComponentCreator('/docs/止损/10', '576'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -699,6 +484,246 @@ export default [
                 component: ComponentCreator('/docs/止损/8', 'ffb'),
                 exact: true,
                 sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/止损/9',
+                component: ComponentCreator('/docs/止损/9', '41f'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/泡沫逃生/',
+                component: ComponentCreator('/docs/泡沫逃生/', '5c1'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/泡沫逃生/1',
+                component: ComponentCreator('/docs/泡沫逃生/1', 'b98'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/',
+                component: ComponentCreator('/docs/营销心理战/', 'c36'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/1',
+                component: ComponentCreator('/docs/营销心理战/第一章/1', '89f'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/2',
+                component: ComponentCreator('/docs/营销心理战/第一章/2', '26b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/3',
+                component: ComponentCreator('/docs/营销心理战/第一章/3', '4c8'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/4',
+                component: ComponentCreator('/docs/营销心理战/第一章/4', 'dcf'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/5',
+                component: ComponentCreator('/docs/营销心理战/第一章/5', 'cb2'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第一章/6',
+                component: ComponentCreator('/docs/营销心理战/第一章/6', 'f6d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/1',
+                component: ComponentCreator('/docs/营销心理战/第三章/1', 'd32'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/2',
+                component: ComponentCreator('/docs/营销心理战/第三章/2', 'ccb'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/3',
+                component: ComponentCreator('/docs/营销心理战/第三章/3', '1d4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/4',
+                component: ComponentCreator('/docs/营销心理战/第三章/4', 'f10'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/5',
+                component: ComponentCreator('/docs/营销心理战/第三章/5', 'fa3'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第三章/6',
+                component: ComponentCreator('/docs/营销心理战/第三章/6', '864'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/1',
+                component: ComponentCreator('/docs/营销心理战/第二章/1', '78e'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/2',
+                component: ComponentCreator('/docs/营销心理战/第二章/2', 'ab0'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/3',
+                component: ComponentCreator('/docs/营销心理战/第二章/3', 'c8d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/4',
+                component: ComponentCreator('/docs/营销心理战/第二章/4', '9c4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/5',
+                component: ComponentCreator('/docs/营销心理战/第二章/5', '2bf'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第二章/6',
+                component: ComponentCreator('/docs/营销心理战/第二章/6', 'f30'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/1',
+                component: ComponentCreator('/docs/营销心理战/第五章/1', 'c26'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/2',
+                component: ComponentCreator('/docs/营销心理战/第五章/2', 'd79'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/3',
+                component: ComponentCreator('/docs/营销心理战/第五章/3', '205'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/4',
+                component: ComponentCreator('/docs/营销心理战/第五章/4', '1ff'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/5',
+                component: ComponentCreator('/docs/营销心理战/第五章/5', '1cc'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第五章/6',
+                component: ComponentCreator('/docs/营销心理战/第五章/6', '72a'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/1',
+                component: ComponentCreator('/docs/营销心理战/第六章/1', 'fe5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/2',
+                component: ComponentCreator('/docs/营销心理战/第六章/2', '0a1'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/3',
+                component: ComponentCreator('/docs/营销心理战/第六章/3', 'b4c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/4',
+                component: ComponentCreator('/docs/营销心理战/第六章/4', '665'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/5',
+                component: ComponentCreator('/docs/营销心理战/第六章/5', 'df5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第六章/6',
+                component: ComponentCreator('/docs/营销心理战/第六章/6', 'd39'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/1',
+                component: ComponentCreator('/docs/营销心理战/第四章/1', '400'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/2',
+                component: ComponentCreator('/docs/营销心理战/第四章/2', '88b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/3',
+                component: ComponentCreator('/docs/营销心理战/第四章/3', '7f3'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/4',
+                component: ComponentCreator('/docs/营销心理战/第四章/4', 'b7c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/5',
+                component: ComponentCreator('/docs/营销心理战/第四章/5', '09c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/营销心理战/第四章/6',
+                component: ComponentCreator('/docs/营销心理战/第四章/6', '81b'),
+                exact: true,
+                sidebar: "bookSidebar"
               }
             ]
           }
@@ -708,31 +733,25 @@ export default [
   },
   {
     path: '/ebook',
-    component: ComponentCreator('/ebook', '4e2'),
+    component: ComponentCreator('/ebook', 'ed0'),
     routes: [
       {
         path: '/ebook',
-        component: ComponentCreator('/ebook', 'b48'),
+        component: ComponentCreator('/ebook', '9fb'),
         routes: [
           {
             path: '/ebook',
-            component: ComponentCreator('/ebook', '1ff'),
+            component: ComponentCreator('/ebook', '64c'),
             routes: [
-              {
-                path: '/ebook/模版+素材/word模版',
-                component: ComponentCreator('/ebook/模版+素材/word模版', 'b30'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Adobe Illustrator/画曲线的三种方法',
-                component: ComponentCreator('/ebook/Adobe Illustrator/画曲线的三种方法', 'e0f'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
               {
                 path: '/ebook/Adobe Illustrator/临摹线条图示例',
                 component: ComponentCreator('/ebook/Adobe Illustrator/临摹线条图示例', '281'),
+                exact: true,
+                sidebar: "ebookSidebar"
+              },
+              {
+                path: '/ebook/Adobe Illustrator/图像上色',
+                component: ComponentCreator('/ebook/Adobe Illustrator/图像上色', '265'),
                 exact: true,
                 sidebar: "ebookSidebar"
               },
@@ -743,8 +762,8 @@ export default [
                 sidebar: "ebookSidebar"
               },
               {
-                path: '/ebook/Adobe Illustrator/图像上色',
-                component: ComponentCreator('/ebook/Adobe Illustrator/图像上色', '265'),
+                path: '/ebook/Adobe Illustrator/画曲线的三种方法',
+                component: ComponentCreator('/ebook/Adobe Illustrator/画曲线的三种方法', 'e0f'),
                 exact: true,
                 sidebar: "ebookSidebar"
               },
@@ -767,12 +786,6 @@ export default [
                 sidebar: "ebookSidebar"
               },
               {
-                path: '/ebook/category/模版素材',
-                component: ComponentCreator('/ebook/category/模版素材', '31e'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
                 path: '/ebook/category/adobe-illustrator-学习笔记',
                 component: ComponentCreator('/ebook/category/adobe-illustrator-学习笔记', 'e9a'),
                 exact: true,
@@ -781,6 +794,24 @@ export default [
               {
                 path: '/ebook/category/affinity-designer-2-学习笔记',
                 component: ComponentCreator('/ebook/category/affinity-designer-2-学习笔记', '1e7'),
+                exact: true,
+                sidebar: "ebookSidebar"
+              },
+              {
+                path: '/ebook/category/模版素材',
+                component: ComponentCreator('/ebook/category/模版素材', '31e'),
+                exact: true,
+                sidebar: "ebookSidebar"
+              },
+              {
+                path: '/ebook/intro',
+                component: ComponentCreator('/ebook/intro', 'bad'),
+                exact: true,
+                sidebar: "ebookSidebar"
+              },
+              {
+                path: '/ebook/模版+素材/word模版',
+                component: ComponentCreator('/ebook/模版+素材/word模版', 'b30'),
                 exact: true,
                 sidebar: "ebookSidebar"
               }
@@ -792,15 +823,15 @@ export default [
   },
   {
     path: '/terminology',
-    component: ComponentCreator('/terminology', 'eb9'),
+    component: ComponentCreator('/terminology', '153'),
     routes: [
       {
         path: '/terminology',
-        component: ComponentCreator('/terminology', 'cfb'),
+        component: ComponentCreator('/terminology', '7a6'),
         routes: [
           {
             path: '/terminology',
-            component: ComponentCreator('/terminology', '756'),
+            component: ComponentCreator('/terminology', '7c8'),
             routes: [
               {
                 path: '/terminology/econ/',
@@ -810,13 +841,13 @@ export default [
               },
               {
                 path: '/terminology/econ/期权',
-                component: ComponentCreator('/terminology/econ/期权', '0f3'),
+                component: ComponentCreator('/terminology/econ/期权', '996'),
                 exact: true,
                 sidebar: "termSidebar"
               },
               {
-                path: '/terminology/econ/债券',
-                component: ComponentCreator('/terminology/econ/债券', 'd77'),
+                path: '/terminology/intro',
+                component: ComponentCreator('/terminology/intro', 'c8a'),
                 exact: true,
                 sidebar: "termSidebar"
               }

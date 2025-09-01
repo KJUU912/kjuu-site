@@ -1,7 +1,7 @@
 {
   "id": "intro",
   "title": "Introduction",
-  "description": "Welcome to the introduction page.",
+  "description": "",
   "source": "@site/ebook/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,7 +12,6 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "id": "intro",
     "sidebar_position": 1,
     "title": "Introduction"
   },

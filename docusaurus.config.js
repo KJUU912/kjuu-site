@@ -1,16 +1,10 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Welcome',
   tagline: '',
   favicon: 'img/favicon.ico',
 
@@ -48,6 +42,8 @@ const config = {
         path: 'ebook',
         routeBasePath: 'ebook',
         sidebarPath: require.resolve('./sidebarsEbook.js'),
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
         beforeDefaultRemarkPlugins: [
             [require('@renatonagliati/remark-auto-glossary'), { yamlFile: 'glossary.yaml' }],
           ],
@@ -60,6 +56,8 @@ const config = {
         path: 'terminology',
         routeBasePath: 'terminology',
         sidebarPath: require.resolve('./sidebarsTerm.js'),
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
         beforeDefaultRemarkPlugins: [
             [require('@renatonagliati/remark-auto-glossary'), { yamlFile: 'glossary.yaml' }],
           ],
@@ -73,7 +71,9 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-           beforeDefaultRemarkPlugins: [
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
+          beforeDefaultRemarkPlugins: [
             [require('@renatonagliati/remark-auto-glossary'), { yamlFile: 'glossary.yaml' }],
           ],
           sidebarPath: './sidebars.js',
@@ -94,6 +94,16 @@ const config = {
         },
       }),
     ],
+  ],
+
+  stylesheets: [
+    {
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      type: 'text/css',
+      integrity:
+        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+      crossorigin: 'anonymous',
+    },
   ],
 
   themeConfig:
