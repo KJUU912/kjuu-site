@@ -1,0 +1,29 @@
+{
+  "id": "客户说/6",
+  "title": "第六章 学以致用，获取订单",
+  "description": "TL;DR",
+  "source": "@site/docs/客户说/第六章.md",
+  "sourceDirName": "客户说",
+  "slug": "/客户说/6",
+  "permalink": "/docs/客户说/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "第六章 学以致用，获取订单",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第五章 销售转型，人才为先",
+    "permalink": "/docs/客户说/5"
+  },
+  "next": {
+    "title": "第七章 持续推进，锁定客户",
+    "permalink": "/docs/客户说/7"
+  }
+}

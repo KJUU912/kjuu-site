@@ -1,0 +1,27 @@
+{
+  "id": "product/README",
+  "title": "README",
+  "description": "return (",
+  "source": "@site/terminology/product/README.mdx",
+  "sourceDirName": "product",
+  "slug": "/product/",
+  "permalink": "/terminology/product/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "期权",
+    "permalink": "/terminology/econ/期权"
+  },
+  "next": {
+    "title": "SKU",
+    "permalink": "/terminology/product/SKU"
+  }
+}

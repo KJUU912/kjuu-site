@@ -128,17 +128,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-c7f": {
+  "/docs-ece": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-40e": {
+  "/docs-fe4": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-c7c": {
+  "/docs-1fa": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-b24": {
@@ -281,6 +281,42 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-大模型浪潮-第四章-4712-fda"
   },
+  "/docs/客户说/-b9b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-af-1-d29"
+  },
+  "/docs/客户说/1-1aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-1-cf-7-6dc"
+  },
+  "/docs/客户说/2-dea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-2947-754"
+  },
+  "/docs/客户说/3-73d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-3-b-74-73d"
+  },
+  "/docs/客户说/4-ea4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-4-da-1-126"
+  },
+  "/docs/客户说/5-7f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-52-f-4-82f"
+  },
+  "/docs/客户说/6-339": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-6-a-96-2bd"
+  },
+  "/docs/客户说/7-afe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-71-f-7-5d7"
+  },
+  "/docs/客户说/8-acb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-客户说-8-e-65-238"
+  },
   "/docs/小岛经济学/-b89": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-小岛经济学-837-62f"
@@ -416,6 +452,10 @@
   "/docs/泡沫逃生/1-b98": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-泡沫逃生-1-ef-1-423"
+  },
+  "/docs/泡沫逃生/2-a85": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-泡沫逃生-2-d-76-0ae"
   },
   "/docs/营销心理战/-c36": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -626,22 +666,26 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ebook-模版-素材-word模版c-46-ab2"
   },
-  "/terminology-153": {
+  "/terminology-696": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---terminology-56-a-d35"
     }
   },
-  "/terminology-7a6": {
+  "/terminology-607": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---terminology-451-69a"
   },
-  "/terminology-7c8": {
+  "/terminology-5b5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/terminology/econ/-4f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---terminology-econ-a-2-a-fcc"
+  },
+  "/terminology/econ/ROI-037": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-econ-roi-04-d-8ae"
   },
   "/terminology/econ/期权-996": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -650,6 +694,14 @@
   "/terminology/intro-c8a": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---terminology-intro-58-d-851"
+  },
+  "/terminology/product/-5ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-product-121-f7e"
+  },
+  "/terminology/product/SKU-60f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-product-sku-62-e-ad8"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

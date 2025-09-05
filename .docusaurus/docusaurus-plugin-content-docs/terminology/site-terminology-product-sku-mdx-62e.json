@@ -1,0 +1,19 @@
+{
+  "id": "product/SKU",
+  "title": "SKU",
+  "description": "SKU代表产品的具体属性组合，例如品牌、型号、颜色、尺寸等，每个SKU对应一种唯一的产品及变体。哪怕同一产品有不同颜色或尺寸，也会分配不同的SKU。",
+  "source": "@site/terminology/product/SKU.mdx",
+  "sourceDirName": "product",
+  "slug": "/product/SKU",
+  "permalink": "/terminology/product/SKU",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/terminology/product/"
+  }
+}

@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c7f'),
+    component: ComponentCreator('/docs', 'ece'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '40e'),
+        component: ComponentCreator('/docs', 'fe4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'c7c'),
+            component: ComponentCreator('/docs', '1fa'),
             routes: [
               {
                 path: '/docs/',
@@ -300,6 +300,60 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/客户说/',
+                component: ComponentCreator('/docs/客户说/', 'b9b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/1',
+                component: ComponentCreator('/docs/客户说/1', '1aa'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/2',
+                component: ComponentCreator('/docs/客户说/2', 'dea'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/3',
+                component: ComponentCreator('/docs/客户说/3', '73d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/4',
+                component: ComponentCreator('/docs/客户说/4', 'ea4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/5',
+                component: ComponentCreator('/docs/客户说/5', '7f8'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/6',
+                component: ComponentCreator('/docs/客户说/6', '339'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/7',
+                component: ComponentCreator('/docs/客户说/7', 'afe'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/客户说/8',
+                component: ComponentCreator('/docs/客户说/8', 'acb'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/小岛经济学/',
                 component: ComponentCreator('/docs/小岛经济学/', 'b89'),
                 exact: true,
@@ -500,6 +554,12 @@ export default [
               {
                 path: '/docs/泡沫逃生/1',
                 component: ComponentCreator('/docs/泡沫逃生/1', 'b98'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/泡沫逃生/2',
+                component: ComponentCreator('/docs/泡沫逃生/2', 'a85'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -823,19 +883,25 @@ export default [
   },
   {
     path: '/terminology',
-    component: ComponentCreator('/terminology', '153'),
+    component: ComponentCreator('/terminology', '696'),
     routes: [
       {
         path: '/terminology',
-        component: ComponentCreator('/terminology', '7a6'),
+        component: ComponentCreator('/terminology', '607'),
         routes: [
           {
             path: '/terminology',
-            component: ComponentCreator('/terminology', '7c8'),
+            component: ComponentCreator('/terminology', '5b5'),
             routes: [
               {
                 path: '/terminology/econ/',
                 component: ComponentCreator('/terminology/econ/', '4f7'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/econ/ROI',
+                component: ComponentCreator('/terminology/econ/ROI', '037'),
                 exact: true,
                 sidebar: "termSidebar"
               },
@@ -848,6 +914,18 @@ export default [
               {
                 path: '/terminology/intro',
                 component: ComponentCreator('/terminology/intro', 'c8a'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/product/',
+                component: ComponentCreator('/terminology/product/', '5ea'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/product/SKU',
+                component: ComponentCreator('/terminology/product/SKU', '60f'),
                 exact: true,
                 sidebar: "termSidebar"
               }

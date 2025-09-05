@@ -1,0 +1,23 @@
+{
+  "id": "econ/ROI copy",
+  "title": "ROI copy",
+  "description": "“投资回报率“，即ROI（Return on Investment），是衡量投资盈利能力与效率的核心指标，通常用百分比或比率表示，反映投资获得的利润与投入成本之间的关系。",
+  "source": "@site/terminology/econ/ROI copy.mdx",
+  "sourceDirName": "econ",
+  "slug": "/econ/ROI copy",
+  "permalink": "/terminology/econ/ROI copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/terminology/econ/"
+  },
+  "next": {
+    "title": "ROI",
+    "permalink": "/terminology/econ/ROI"
+  }
+}

@@ -103,6 +103,8 @@ div[role="tooltip"] {
   padding: 8px 10px;         /* 内边距 */
   box-shadow: 0 10px 30px rgba(0,0,0,0.12); /* 柔和阴影，突出浮层 */
   opacity: 1 !important;
+  /* position: fixed !important; */
+  z-index: 2147483647 !important; /* 最大安全层级 */
 }
 
 div[role="tooltip"] .tippy-arrow {

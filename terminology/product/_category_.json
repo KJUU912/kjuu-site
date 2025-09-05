@@ -1,0 +1,8 @@
+{
+  "label": "产品",
+  "position": 3,
+    "link": {
+    "type": "doc",
+    "id": "product/README"
+  }
+}

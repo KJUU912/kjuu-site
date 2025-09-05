@@ -181,6 +181,51 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "客户说/1",
+              "path": "/docs/客户说/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/2",
+              "path": "/docs/客户说/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/3",
+              "path": "/docs/客户说/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/4",
+              "path": "/docs/客户说/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/5",
+              "path": "/docs/客户说/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/6",
+              "path": "/docs/客户说/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/7",
+              "path": "/docs/客户说/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/8",
+              "path": "/docs/客户说/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/README",
+              "path": "/docs/客户说/",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "小岛经济学/README",
               "path": "/docs/小岛经济学/",
               "sidebar": "bookSidebar"
@@ -343,6 +388,11 @@
             {
               "id": "泡沫逃生/1",
               "path": "/docs/泡沫逃生/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "泡沫逃生/2",
+              "path": "/docs/泡沫逃生/2",
               "sidebar": "bookSidebar"
             },
             {
@@ -654,6 +704,11 @@
               "sidebar": "termSidebar"
             },
             {
+              "id": "econ/ROI",
+              "path": "/terminology/econ/ROI",
+              "sidebar": "termSidebar"
+            },
+            {
               "id": "econ/期权",
               "path": "/terminology/econ/期权",
               "sidebar": "termSidebar"
@@ -661,6 +716,16 @@
             {
               "id": "intro",
               "path": "/terminology/intro",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "product/README",
+              "path": "/terminology/product/",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "product/SKU",
+              "path": "/terminology/product/SKU",
               "sidebar": "termSidebar"
             }
           ],

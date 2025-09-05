@@ -1,0 +1,29 @@
+{
+  "id": "客户说/7",
+  "title": "第七章 持续推进，锁定客户",
+  "description": "TL;DR",
+  "source": "@site/docs/客户说/第七章.md",
+  "sourceDirName": "客户说",
+  "slug": "/客户说/7",
+  "permalink": "/docs/客户说/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "第七章 持续推进，锁定客户",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第六章 学以致用，获取订单",
+    "permalink": "/docs/客户说/6"
+  },
+  "next": {
+    "title": "第八章 再接再厉，合作双赢",
+    "permalink": "/docs/客户说/8"
+  }
+}

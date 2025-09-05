@@ -13,7 +13,11 @@
   "frontMatter": {},
   "sidebar": "termSidebar",
   "previous": {
+    "title": "ROI",
+    "permalink": "/terminology/econ/ROI"
+  },
+  "next": {
     "title": "README",
-    "permalink": "/terminology/econ/"
+    "permalink": "/terminology/product/"
   }
 }

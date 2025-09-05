@@ -1,0 +1,25 @@
+{
+  "id": "客户说/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202509040140424.jpg\" alt=\"封面图\"",
+  "source": "@site/docs/客户说/README.mdx",
+  "sourceDirName": "客户说",
+  "slug": "/客户说/",
+  "permalink": "/docs/客户说/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 异军突起：美国铁路的故事",
+    "permalink": "/docs/泡沫逃生/2"
+  },
+  "next": {
+    "title": "第一章 现有模式，难以为继",
+    "permalink": "/docs/客户说/1"
+  }
+}
