@@ -1,0 +1,25 @@
+{
+  "id": "成瘾的深渊/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202509071826114.png\" alt=\"封面图\"",
+  "source": "@site/docs/成瘾的深渊/README.md",
+  "sourceDirName": "成瘾的深渊",
+  "slug": "/成瘾的深渊/",
+  "permalink": "/docs/成瘾的深渊/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第八章 再接再厉，合作双赢",
+    "permalink": "/docs/客户说/8"
+  },
+  "next": {
+    "title": "第一章 大脑的食物",
+    "permalink": "/docs/成瘾的深渊/1"
+  }
+}

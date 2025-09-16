@@ -1,0 +1,25 @@
+{
+  "id": "革新男性气质/11",
+  "title": "11 男子气概的衰落",
+  "description": "备受摧残的士兵和前途黯淡的工人",
+  "source": "@site/docs/革新男性气质/第十一章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/11",
+  "permalink": "/docs/革新男性气质/11",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "11",
+    "sidebar_position": 11,
+    "title": "11 男子气概的衰落",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "10 男性的病态",
+    "permalink": "/docs/革新男性气质/10"
+  }
+}

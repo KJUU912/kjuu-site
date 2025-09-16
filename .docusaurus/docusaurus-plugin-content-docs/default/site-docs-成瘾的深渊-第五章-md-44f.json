@@ -1,0 +1,29 @@
+{
+  "id": "成瘾的深渊/5",
+  "title": "第五章 一把重锤：酒精",
+  "description": "酒精文化",
+  "source": "@site/docs/成瘾的深渊/第五章.md",
+  "sourceDirName": "成瘾的深渊",
+  "slug": "/成瘾的深渊/5",
+  "permalink": "/docs/成瘾的深渊/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "第五章 一把重锤：酒精",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第四章 织梦者：阿片类药物",
+    "permalink": "/docs/成瘾的深渊/4"
+  },
+  "next": {
+    "title": "第六章 抑制一族：镇静剂",
+    "permalink": "/docs/成瘾的深渊/6"
+  }
+}

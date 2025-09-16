@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/4",
+  "title": "4 解放之初",
+  "description": "父权环形系统对女性的保护",
+  "source": "@site/docs/革新男性气质/第四章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/4",
+  "permalink": "/docs/革新男性气质/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "4 解放之初",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "3 支配性男性气质",
+    "permalink": "/docs/革新男性气质/3"
+  },
+  "next": {
+    "title": "5 女性主义的战果",
+    "permalink": "/docs/革新男性气质/5"
+  }
+}

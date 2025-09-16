@@ -1,0 +1,25 @@
+{
+  "id": "革新男性气质/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202509152330203.png\" alt=\"封面图\"",
+  "source": "@site/docs/革新男性气质/README.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/",
+  "permalink": "/docs/革新男性气质/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十一章 解决成瘾问题",
+    "permalink": "/docs/成瘾的深渊/11"
+  },
+  "next": {
+    "title": "1 父权制的全球性",
+    "permalink": "/docs/革新男性气质/1"
+  }
+}

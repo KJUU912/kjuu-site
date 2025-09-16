@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/7",
+  "title": "7 男性女性主义者",
+  "description": "加入的原因",
+  "source": "@site/docs/革新男性气质/第七章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/7",
+  "permalink": "/docs/革新男性气质/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "7 男性女性主义者",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "6 何为解放",
+    "permalink": "/docs/革新男性气质/6"
+  },
+  "next": {
+    "title": "8 国家女性主义",
+    "permalink": "/docs/革新男性气质/8"
+  }
+}

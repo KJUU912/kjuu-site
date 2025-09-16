@@ -79,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ece'),
+    component: ComponentCreator('/docs', 'f9d'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'fe4'),
+        component: ComponentCreator('/docs', '114'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '1fa'),
+            component: ComponentCreator('/docs', 'cb5'),
             routes: [
               {
                 path: '/docs/',
@@ -480,6 +480,78 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/成瘾的深渊/',
+                component: ComponentCreator('/docs/成瘾的深渊/', '996'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/1',
+                component: ComponentCreator('/docs/成瘾的深渊/1', 'a7c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/10',
+                component: ComponentCreator('/docs/成瘾的深渊/10', '8be'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/11',
+                component: ComponentCreator('/docs/成瘾的深渊/11', '372'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/2',
+                component: ComponentCreator('/docs/成瘾的深渊/2', '871'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/3',
+                component: ComponentCreator('/docs/成瘾的深渊/3', '5e1'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/4',
+                component: ComponentCreator('/docs/成瘾的深渊/4', '900'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/5',
+                component: ComponentCreator('/docs/成瘾的深渊/5', 'e59'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/6',
+                component: ComponentCreator('/docs/成瘾的深渊/6', '24d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/7',
+                component: ComponentCreator('/docs/成瘾的深渊/7', 'c6b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/8',
+                component: ComponentCreator('/docs/成瘾的深渊/8', '25c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/成瘾的深渊/9',
+                component: ComponentCreator('/docs/成瘾的深渊/9', '1e3'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/止损/',
                 component: ComponentCreator('/docs/止损/', '3f4'),
                 exact: true,
@@ -784,6 +856,78 @@ export default [
                 component: ComponentCreator('/docs/营销心理战/第四章/6', '81b'),
                 exact: true,
                 sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/',
+                component: ComponentCreator('/docs/革新男性气质/', '87d'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/1',
+                component: ComponentCreator('/docs/革新男性气质/1', '331'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/10',
+                component: ComponentCreator('/docs/革新男性气质/10', '666'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/11',
+                component: ComponentCreator('/docs/革新男性气质/11', '581'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/2',
+                component: ComponentCreator('/docs/革新男性气质/2', '50b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/3',
+                component: ComponentCreator('/docs/革新男性气质/3', '7c5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/4',
+                component: ComponentCreator('/docs/革新男性气质/4', '1f4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/5',
+                component: ComponentCreator('/docs/革新男性气质/5', '324'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/6',
+                component: ComponentCreator('/docs/革新男性气质/6', '9c5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/7',
+                component: ComponentCreator('/docs/革新男性气质/7', 'a14'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/8',
+                component: ComponentCreator('/docs/革新男性气质/8', '9c2'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/9',
+                component: ComponentCreator('/docs/革新男性气质/9', '115'),
+                exact: true,
+                sidebar: "bookSidebar"
               }
             ]
           }
@@ -793,52 +937,16 @@ export default [
   },
   {
     path: '/ebook',
-    component: ComponentCreator('/ebook', 'ed0'),
+    component: ComponentCreator('/ebook', '22c'),
     routes: [
       {
         path: '/ebook',
-        component: ComponentCreator('/ebook', '9fb'),
+        component: ComponentCreator('/ebook', 'f57'),
         routes: [
           {
             path: '/ebook',
-            component: ComponentCreator('/ebook', '64c'),
+            component: ComponentCreator('/ebook', '946'),
             routes: [
-              {
-                path: '/ebook/Adobe Illustrator/临摹线条图示例',
-                component: ComponentCreator('/ebook/Adobe Illustrator/临摹线条图示例', '281'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Adobe Illustrator/图像上色',
-                component: ComponentCreator('/ebook/Adobe Illustrator/图像上色', '265'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Adobe Illustrator/图标转矢量图',
-                component: ComponentCreator('/ebook/Adobe Illustrator/图标转矢量图', '84d'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Adobe Illustrator/画曲线的三种方法',
-                component: ComponentCreator('/ebook/Adobe Illustrator/画曲线的三种方法', 'e0f'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Affinity Designer 2/临摹线条图示例',
-                component: ComponentCreator('/ebook/Affinity Designer 2/临摹线条图示例', 'f75'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/Affinity Designer 2/图像上色',
-                component: ComponentCreator('/ebook/Affinity Designer 2/图像上色', 'bdc'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
               {
                 path: '/ebook/AI应用/ChatPDF',
                 component: ComponentCreator('/ebook/AI应用/ChatPDF', 'df9'),
@@ -846,32 +954,8 @@ export default [
                 sidebar: "ebookSidebar"
               },
               {
-                path: '/ebook/category/adobe-illustrator-学习笔记',
-                component: ComponentCreator('/ebook/category/adobe-illustrator-学习笔记', 'e9a'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/category/affinity-designer-2-学习笔记',
-                component: ComponentCreator('/ebook/category/affinity-designer-2-学习笔记', '1e7'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/category/模版素材',
-                component: ComponentCreator('/ebook/category/模版素材', '31e'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
                 path: '/ebook/intro',
                 component: ComponentCreator('/ebook/intro', 'bad'),
-                exact: true,
-                sidebar: "ebookSidebar"
-              },
-              {
-                path: '/ebook/模版+素材/word模版',
-                component: ComponentCreator('/ebook/模版+素材/word模版', 'b30'),
                 exact: true,
                 sidebar: "ebookSidebar"
               }
@@ -883,19 +967,25 @@ export default [
   },
   {
     path: '/terminology',
-    component: ComponentCreator('/terminology', '696'),
+    component: ComponentCreator('/terminology', '4ab'),
     routes: [
       {
         path: '/terminology',
-        component: ComponentCreator('/terminology', '607'),
+        component: ComponentCreator('/terminology', '4ef'),
         routes: [
           {
             path: '/terminology',
-            component: ComponentCreator('/terminology', '5b5'),
+            component: ComponentCreator('/terminology', '230'),
             routes: [
               {
                 path: '/terminology/econ/',
                 component: ComponentCreator('/terminology/econ/', '4f7'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/econ/Commodity',
+                component: ComponentCreator('/terminology/econ/Commodity', 'a2d'),
                 exact: true,
                 sidebar: "termSidebar"
               },

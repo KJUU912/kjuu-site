@@ -98,19 +98,13 @@ div[role="tooltip"] {
   max-width: 35%;
   background: #353535;        /* 背景 */
   color: #ffffff;             /* 字体颜色 */
-  border: 1.5px solid #40E0D0;/* 绿色边框，可换为 #00a862 等品牌绿 */
+  /* border: 1.5px solid #40E0D0; */
   border-radius: 5px;        /* 圆角 */
   padding: 8px 10px;         /* 内边距 */
   box-shadow: 0 10px 30px rgba(0,0,0,0.12); /* 柔和阴影，突出浮层 */
   opacity: 1 !important;
   /* position: fixed !important; */
   z-index: 2147483647 !important; /* 最大安全层级 */
-}
-
-div[role="tooltip"] .tippy-arrow {
-  border: 1.5px solid #40E0D0;
-  /* 如使用 CSS 箭头，可按方向设置边颜色与容器相同： */
-  /* border-top-color/border-bottom-color 等 */
 }
 
 /* Tooltip 内链接样式 */

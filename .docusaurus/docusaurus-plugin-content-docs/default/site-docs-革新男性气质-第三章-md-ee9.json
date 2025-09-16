@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/3",
+  "title": "3 支配性男性气质",
+  "description": "作为品格的男子气概",
+  "source": "@site/docs/革新男性气质/第三章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/3",
+  "permalink": "/docs/革新男性气质/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "3 支配性男性气质",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "2 女性功用",
+    "permalink": "/docs/革新男性气质/2"
+  },
+  "next": {
+    "title": "4 解放之初",
+    "permalink": "/docs/革新男性气质/4"
+  }
+}

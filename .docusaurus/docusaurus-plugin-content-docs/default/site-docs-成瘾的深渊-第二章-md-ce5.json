@@ -1,0 +1,29 @@
+{
+  "id": "成瘾的深渊/2",
+  "title": "第二章 适应",
+  "description": "研究历史",
+  "source": "@site/docs/成瘾的深渊/第二章.md",
+  "sourceDirName": "成瘾的深渊",
+  "slug": "/成瘾的深渊/2",
+  "permalink": "/docs/成瘾的深渊/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "第二章 适应",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一章 大脑的食物",
+    "permalink": "/docs/成瘾的深渊/1"
+  },
+  "next": {
+    "title": "第三章 一个突出的例子：四氢大麻酚",
+    "permalink": "/docs/成瘾的深渊/3"
+  }
+}

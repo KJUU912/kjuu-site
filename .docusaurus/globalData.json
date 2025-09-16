@@ -331,6 +331,66 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "成瘾的深渊/1",
+              "path": "/docs/成瘾的深渊/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/10",
+              "path": "/docs/成瘾的深渊/10",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/11",
+              "path": "/docs/成瘾的深渊/11",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/2",
+              "path": "/docs/成瘾的深渊/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/3",
+              "path": "/docs/成瘾的深渊/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/4",
+              "path": "/docs/成瘾的深渊/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/5",
+              "path": "/docs/成瘾的深渊/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/6",
+              "path": "/docs/成瘾的深渊/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/7",
+              "path": "/docs/成瘾的深渊/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/8",
+              "path": "/docs/成瘾的深渊/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/9",
+              "path": "/docs/成瘾的深渊/9",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "成瘾的深渊/README",
+              "path": "/docs/成瘾的深渊/",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "止损/1",
               "path": "/docs/止损/1",
               "sidebar": "bookSidebar"
@@ -589,6 +649,66 @@
               "id": "营销心理战/第四章/6",
               "path": "/docs/营销心理战/第四章/6",
               "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/1",
+              "path": "/docs/革新男性气质/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/10",
+              "path": "/docs/革新男性气质/10",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/11",
+              "path": "/docs/革新男性气质/11",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/2",
+              "path": "/docs/革新男性气质/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/3",
+              "path": "/docs/革新男性气质/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/4",
+              "path": "/docs/革新男性气质/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/5",
+              "path": "/docs/革新男性气质/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/6",
+              "path": "/docs/革新男性气质/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/7",
+              "path": "/docs/革新男性气质/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/8",
+              "path": "/docs/革新男性气质/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/9",
+              "path": "/docs/革新男性气质/9",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/README",
+              "path": "/docs/革新男性气质/",
+              "sidebar": "bookSidebar"
             }
           ],
           "draftIds": [],
@@ -615,36 +735,6 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "Adobe Illustrator/临摹线条图示例",
-              "path": "/ebook/Adobe Illustrator/临摹线条图示例",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "Adobe Illustrator/图像上色",
-              "path": "/ebook/Adobe Illustrator/图像上色",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "Adobe Illustrator/图标转矢量图",
-              "path": "/ebook/Adobe Illustrator/图标转矢量图",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "Adobe Illustrator/画曲线的三种方法",
-              "path": "/ebook/Adobe Illustrator/画曲线的三种方法",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "Affinity Designer 2/临摹线条图示例",
-              "path": "/ebook/Affinity Designer 2/临摹线条图示例",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "Affinity Designer 2/图像上色",
-              "path": "/ebook/Affinity Designer 2/图像上色",
-              "sidebar": "ebookSidebar"
-            },
-            {
               "id": "AI应用/ChatPDF",
               "path": "/ebook/AI应用/ChatPDF",
               "sidebar": "ebookSidebar"
@@ -652,26 +742,6 @@
             {
               "id": "intro",
               "path": "/ebook/intro",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "模版+素材/word模版",
-              "path": "/ebook/模版+素材/word模版",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "/category/adobe-illustrator-学习笔记",
-              "path": "/ebook/category/adobe-illustrator-学习笔记",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "/category/affinity-designer-2-学习笔记",
-              "path": "/ebook/category/affinity-designer-2-学习笔记",
-              "sidebar": "ebookSidebar"
-            },
-            {
-              "id": "/category/模版素材",
-              "path": "/ebook/category/模版素材",
               "sidebar": "ebookSidebar"
             }
           ],
@@ -698,6 +768,11 @@
           "path": "/terminology",
           "mainDocId": "intro",
           "docs": [
+            {
+              "id": "econ/Commodity",
+              "path": "/terminology/econ/Commodity",
+              "sidebar": "termSidebar"
+            },
             {
               "id": "econ/README",
               "path": "/terminology/econ/",

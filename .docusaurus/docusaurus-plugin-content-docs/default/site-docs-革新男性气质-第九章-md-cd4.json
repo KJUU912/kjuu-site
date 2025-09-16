@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/9",
+  "title": "9 异化中的男人",
+  "description": "男性自带的焦虑",
+  "source": "@site/docs/革新男性气质/第九章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/9",
+  "permalink": "/docs/革新男性气质/9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "9",
+    "sidebar_position": 9,
+    "title": "9 异化中的男人",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "8 国家女性主义",
+    "permalink": "/docs/革新男性气质/8"
+  },
+  "next": {
+    "title": "10 男性的病态",
+    "permalink": "/docs/革新男性气质/10"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/6",
+  "title": "6 何为解放",
+  "description": "女性主义的两大派别",
+  "source": "@site/docs/革新男性气质/第六章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/6",
+  "permalink": "/docs/革新男性气质/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "6 何为解放",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "5 女性主义的战果",
+    "permalink": "/docs/革新男性气质/5"
+  },
+  "next": {
+    "title": "7 男性女性主义者",
+    "permalink": "/docs/革新男性气质/7"
+  }
+}

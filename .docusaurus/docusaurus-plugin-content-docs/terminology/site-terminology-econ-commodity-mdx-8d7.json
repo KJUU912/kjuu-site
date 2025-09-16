@@ -1,0 +1,26 @@
+{
+  "id": "econ/Commodity",
+  "title": "大宗商品（Commodity）",
+  "description": "大宗商品是指在全球市场上以大批量、标准化、可交换和非零售方式流通的有形物资，主要包括能源、金属、农产品、畜牧和森林产品等多个大类。这些商品通常是工业生产和消费的基础资源，广泛用于工农业生产和消费活动，其价格受全球供需关系、经济状况、政治环境和自然因素的影响，价格波动较大。",
+  "source": "@site/terminology/econ/Commodity.mdx",
+  "sourceDirName": "econ",
+  "slug": "/econ/Commodity",
+  "permalink": "/terminology/econ/Commodity",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "大宗商品（Commodity）",
+    "hide_title": true
+  },
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/terminology/econ/"
+  },
+  "next": {
+    "title": "ROI",
+    "permalink": "/terminology/econ/ROI"
+  }
+}

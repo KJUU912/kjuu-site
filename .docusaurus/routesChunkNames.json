@@ -128,17 +128,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ece": {
+  "/docs-f9d": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-fe4": {
+  "/docs-114": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-1fa": {
+  "/docs-cb5": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/-b24": {
@@ -401,6 +401,54 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-小岛经济学-第四章-79-b-177"
   },
+  "/docs/成瘾的深渊/-996": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-536-90e"
+  },
+  "/docs/成瘾的深渊/1-a7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-10-a-6-a0c"
+  },
+  "/docs/成瘾的深渊/10-8be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-108-fb-728"
+  },
+  "/docs/成瘾的深渊/11-372": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-11372-d7e"
+  },
+  "/docs/成瘾的深渊/2-871": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-2-ce-5-29a"
+  },
+  "/docs/成瘾的深渊/3-5e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-3-ac-9-288"
+  },
+  "/docs/成瘾的深渊/4-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-42-c-7-303"
+  },
+  "/docs/成瘾的深渊/5-e59": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-544-f-d7e"
+  },
+  "/docs/成瘾的深渊/6-24d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-6354-10b"
+  },
+  "/docs/成瘾的深渊/7-c6b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-7570-5dd"
+  },
+  "/docs/成瘾的深渊/8-25c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-8-da-1-c03"
+  },
+  "/docs/成瘾的深渊/9-1e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-成瘾的深渊-974-f-d71"
+  },
   "/docs/止损/-3f4": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-止损-927-879"
@@ -605,83 +653,95 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-营销心理战-第四章-6733-b2e"
   },
-  "/ebook-ed0": {
+  "/docs/革新男性气质/-87d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-a-34-c05"
+  },
+  "/docs/革新男性气质/1-331": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-1-d-42-efe"
+  },
+  "/docs/革新男性气质/10-666": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-1056-e-a0d"
+  },
+  "/docs/革新男性气质/11-581": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-11041-335"
+  },
+  "/docs/革新男性气质/2-50b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-2-e-68-3df"
+  },
+  "/docs/革新男性气质/3-7c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-3-ee-9-f45"
+  },
+  "/docs/革新男性气质/4-1f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-4-eed-ea2"
+  },
+  "/docs/革新男性气质/5-324": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-589-a-41c"
+  },
+  "/docs/革新男性气质/6-9c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-6-c-56-ecf"
+  },
+  "/docs/革新男性气质/7-a14": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-779-c-fa4"
+  },
+  "/docs/革新男性气质/8-9c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-8553-c97"
+  },
+  "/docs/革新男性气质/9-115": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-革新男性气质-9-cd-4-428"
+  },
+  "/ebook-22c": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---ebookca-0-d70"
     }
   },
-  "/ebook-9fb": {
+  "/ebook-f57": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---ebookfd-6-16e"
   },
-  "/ebook-64c": {
+  "/ebook-946": {
     "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/ebook/Adobe Illustrator/临摹线条图示例-281": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-adobe-illustrator-临摹线条图示例-053-2a1"
-  },
-  "/ebook/Adobe Illustrator/图像上色-265": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-adobe-illustrator-图像上色c-54-11d"
-  },
-  "/ebook/Adobe Illustrator/图标转矢量图-84d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-adobe-illustrator-图标转矢量图-48-d-46d"
-  },
-  "/ebook/Adobe Illustrator/画曲线的三种方法-e0f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-adobe-illustrator-画曲线的三种方法-824-2ad"
-  },
-  "/ebook/Affinity Designer 2/临摹线条图示例-f75": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-affinity-designer-2-临摹线条图示例-824-6d1"
-  },
-  "/ebook/Affinity Designer 2/图像上色-bdc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-affinity-designer-2-图像上色e-5-d-cf7"
   },
   "/ebook/AI应用/ChatPDF-df9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ebook-ai应用-chat-pdf-558-e52"
   },
-  "/ebook/category/adobe-illustrator-学习笔记-e9a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ebook-category-adobe-illustrator-学习笔记-7-e-3-02b"
-  },
-  "/ebook/category/affinity-designer-2-学习笔记-1e7": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ebook-category-affinity-designer-2-学习笔记-071-b60"
-  },
-  "/ebook/category/模版素材-31e": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ebook-category-模版素材-066-774"
-  },
   "/ebook/intro-bad": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---ebook-intro-19-b-a26"
   },
-  "/ebook/模版+素材/word模版-b30": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ebook-模版-素材-word模版c-46-ab2"
-  },
-  "/terminology-696": {
+  "/terminology-4ab": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---terminology-56-a-d35"
     }
   },
-  "/terminology-607": {
+  "/terminology-4ef": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---terminology-451-69a"
   },
-  "/terminology-5b5": {
+  "/terminology-230": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/terminology/econ/-4f7": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---terminology-econ-a-2-a-fcc"
+  },
+  "/terminology/econ/Commodity-a2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---terminology-econ-commodity-8-d-7-8e9"
   },
   "/terminology/econ/ROI-037": {
     "__comp": "__comp---theme-doc-item-178-a40",

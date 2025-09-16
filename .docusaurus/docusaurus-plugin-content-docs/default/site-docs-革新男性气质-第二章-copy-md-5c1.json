@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/2",
+  "title": "第二章 女性功用",
+  "description": "论女性的服务性",
+  "source": "@site/docs/革新男性气质/第二章 copy.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/2",
+  "permalink": "/docs/革新男性气质/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "第二章 女性功用",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一章 父权制的全球性",
+    "permalink": "/docs/革新男性气质/1"
+  },
+  "next": {
+    "title": "第二章 女性功用",
+    "permalink": "/docs/革新男性气质/2"
+  }
+}
