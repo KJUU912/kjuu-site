@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/哈希函数",
+  "title": "哈希函数",
+  "description": "哈希函数（Hash Function），也称为散列函数或杂凑函数，是一种把任意长度的数据输入，通过特定算法，转换为固定长度输出（哈希值、散列值或消息摘要）的数学函数。",
+  "source": "@site/terminology/cryptology/哈希函数.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/哈希函数",
+  "permalink": "/terminology/cryptology/哈希函数",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "凯撒密码",
+    "permalink": "/terminology/cryptology/凯撒密码"
+  },
+  "next": {
+    "title": "密码与信息安全常识",
+    "permalink": "/terminology/cryptology/密码与信息安全常识"
+  }
+}

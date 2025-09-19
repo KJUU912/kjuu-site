@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/穷举搜索",
+  "title": "穷举搜索",
+  "description": "暴力破解（Brute Force Attack）或穷举搜索（Exhaustive Search）是一种最直接的密码攻击方法，通过尝试所有可能的密钥、密码或组合，直到找到正确答案为止。",
+  "source": "@site/terminology/cryptology/穷举搜索.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/穷举搜索",
+  "permalink": "/terminology/cryptology/穷举搜索",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "消息验证码",
+    "permalink": "/terminology/cryptology/消息验证码"
+  },
+  "next": {
+    "title": "简单替换密码",
+    "permalink": "/terminology/cryptology/简单替换密码"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "成瘾的深渊 copy/9",
+  "title": "第九章 意愿与途径：其他被滥用的药物",
+  "description": "药物使用的普遍性与生物驱力",
+  "source": "@site/docs/成瘾的深渊 copy/第九章.md",
+  "sourceDirName": "成瘾的深渊 copy",
+  "slug": "/成瘾的深渊 copy/9",
+  "permalink": "/docs/成瘾的深渊 copy/9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "9",
+    "sidebar_position": 9,
+    "title": "第九章 意愿与途径：其他被滥用的药物",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第八章 看个清楚：致幻剂",
+    "permalink": "/docs/成瘾的深渊 copy/8"
+  },
+  "next": {
+    "title": "第十章 为什么是我？",
+    "permalink": "/docs/成瘾的深渊 copy/10"
+  }
+}

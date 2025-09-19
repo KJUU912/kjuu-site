@@ -103,7 +103,8 @@ export default {
           },
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
+          "onUntruncatedBlogPosts": "warn",
+          "blogSidebarTitle": "What's New"
         },
         "theme": {
           "customCss": "./src/css/custom.css"
@@ -153,12 +154,12 @@ export default {
           "type": "docSidebar",
           "sidebarId": "termSidebar",
           "position": "right",
-          "label": "Terminology",
+          "label": "Concept Atlas",
           "docsPluginId": "terminology"
         },
         {
           "to": "/blog",
-          "label": "Blog",
+          "label": "What's New",
           "position": "right"
         }
       ],

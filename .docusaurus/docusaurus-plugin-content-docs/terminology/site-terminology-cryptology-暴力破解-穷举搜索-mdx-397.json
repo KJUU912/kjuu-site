@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/暴力破解/穷举搜索",
+  "title": "穷举搜索",
+  "description": "凯撒密码是一种将明文中每个字母按照固定偏移量移动来加密的简单替换密码。",
+  "source": "@site/terminology/cryptology/暴力破解/穷举搜索.mdx",
+  "sourceDirName": "cryptology/暴力破解",
+  "slug": "/cryptology/暴力破解/穷举搜索",
+  "permalink": "/terminology/cryptology/暴力破解/穷举搜索",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "明文、密文、加密、解密、算法",
+    "permalink": "/terminology/cryptology/明文、密文、加密、解密、算法"
+  },
+  "next": {
+    "title": "消息、发送者、接收者、窃听者",
+    "permalink": "/terminology/cryptology/消息、发送者、接收者、窃听者"
+  }
+}

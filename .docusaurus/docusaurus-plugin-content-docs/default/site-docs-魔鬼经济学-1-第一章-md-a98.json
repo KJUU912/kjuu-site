@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/2",
+  "title": "第一章 教师与相扑力士有何共同点",
+  "description": "动机的本质与类型",
+  "source": "@site/docs/魔鬼经济学1/第一章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/2",
+  "permalink": "/docs/魔鬼经济学1/2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "2",
+    "sidebar_position": 2,
+    "title": "第一章 教师与相扑力士有何共同点",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "引言",
+    "permalink": "/docs/魔鬼经济学1/1"
+  },
+  "next": {
+    "title": "第二章 为何三K党和房地产中介是一路货色",
+    "permalink": "/docs/魔鬼经济学1/3"
+  }
+}

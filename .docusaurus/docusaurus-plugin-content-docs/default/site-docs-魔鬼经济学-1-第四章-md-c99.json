@@ -1,0 +1,25 @@
+{
+  "id": "魔鬼经济学1/5",
+  "title": "第四章 罪犯都去哪儿了",
+  "description": "齐奥塞斯库的堕胎禁令",
+  "source": "@site/docs/魔鬼经济学1/第四章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/5",
+  "permalink": "/docs/魔鬼经济学1/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "第四章 罪犯都去哪儿了",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三章 为何毒贩还在与母亲同住",
+    "permalink": "/docs/魔鬼经济学1/4"
+  }
+}

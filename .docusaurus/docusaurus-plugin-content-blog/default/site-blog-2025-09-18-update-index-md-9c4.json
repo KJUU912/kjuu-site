@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/update 918",
+  "source": "@site/blog/2025-09-18-update/index.md",
+  "title": "September 18",
+  "description": "Hello",
+  "date": "2025-09-18T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.01,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "KJUU",
+      "title": "When it's my time, I'll know",
+      "imageURL": "https://static.kjuu.cc/image/%E5%A4%B4%E5%83%8F.png",
+      "key": "kejia",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "update 918",
+    "title": "September 18",
+    "authors": [
+      "kejia"
+    ],
+    "tags": [
+      "docusaurus"
+    ],
+    "hide_title": true
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "September 19",
+    "permalink": "/blog/update 919"
+  }
+}

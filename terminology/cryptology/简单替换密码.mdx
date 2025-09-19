@@ -1,0 +1,32 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="定义">
+简单替换密码（Simple Substitution Cipher）是一种古典加密方法，用固定的规则将明文中的每个字母替换为另一个唯一对应的字母，形成密文。
+
+<img src="https://static.kjuu.cc/tana/202509182324120.png" alt="封面图" width="30%" />
+</TabItem>
+<TabItem value="b" label="原理">
+加密时，系统会为字母表设计一张“密钥表”，明文中每一个字母按照这张表找“替身”——全篇一致。例如：明文字母“a”→密钥字母“p”，“b”→“h”… 以此类推。
+
+和凯撒密码不同，简单替换密码不是简单轮转，而是全部乱序“洗牌”。这决定了密钥空间增大，但加密原理本质还是“一对一映射”。
+</TabItem>
+<TabItem value="c" label="示例">
+明文字母表：abcdefghijklmnopqrstuvwxyz
+
+密钥字母表：phqgiumeaylnofdxjkrcvstzwb
+
+明文："the quick brown fox" → 密文："cei jvaql hkdtf udz"。
+</TabItem>
+<TabItem value="d" label="破解">
+安全性高于凯撒密码（密钥空间大，攻击者要尝试26!种密钥），但仍会遭受“频率分析”攻击——因为自然语言中某些字母、字母组合出现频率很高，分析长密文规律后可破解。
+
+和所有替换密码一样，只有密钥表保密才安全。今天已不再用于实际安全通信，只作为机理演示和入门密码学经典范例。
+</TabItem>
+</Tabs>
+
+:::
+

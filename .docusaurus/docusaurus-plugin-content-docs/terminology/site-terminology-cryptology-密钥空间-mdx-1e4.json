@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/密钥空间",
+  "title": "密钥空间",
+  "description": "密钥空间（Key Space）指的是某一加密算法下，所有可能密钥的集合，即可以被选择和使用的全部密钥的总数。",
+  "source": "@site/terminology/cryptology/密钥空间.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/密钥空间",
+  "permalink": "/terminology/cryptology/密钥空间",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "密钥, 对称密码, 非对称密码",
+    "permalink": "/terminology/cryptology/密钥, 对称密码, 非对称密码"
+  },
+  "next": {
+    "title": "数字签名",
+    "permalink": "/terminology/cryptology/数字签名"
+  }
+}

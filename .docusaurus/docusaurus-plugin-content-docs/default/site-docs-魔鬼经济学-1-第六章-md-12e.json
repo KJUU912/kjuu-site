@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/6",
+  "title": "第六章 抑制一族：镇静剂",
+  "description": "处方镇静剂的兴起",
+  "source": "@site/docs/魔鬼经济学1/第六章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/6",
+  "permalink": "/docs/魔鬼经济学1/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "第六章 抑制一族：镇静剂",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第五章 一把重锤：酒精",
+    "permalink": "/docs/魔鬼经济学1/5"
+  },
+  "next": {
+    "title": "第七章 强行提振：兴奋剂",
+    "permalink": "/docs/魔鬼经济学1/7"
+  }
+}

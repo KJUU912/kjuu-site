@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/3",
+  "title": "第二章 为何三K党和房地产中介是一路货色",
+  "description": "三K党的起源与初期发展",
+  "source": "@site/docs/魔鬼经济学1/第二章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/3",
+  "permalink": "/docs/魔鬼经济学1/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第二章 为何三K党和房地产中介是一路货色",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一章 教师与相扑力士有何共同点",
+    "permalink": "/docs/魔鬼经济学1/2"
+  },
+  "next": {
+    "title": "第三章 为何毒贩还在与母亲同住",
+    "permalink": "/docs/魔鬼经济学1/4"
+  }
+}

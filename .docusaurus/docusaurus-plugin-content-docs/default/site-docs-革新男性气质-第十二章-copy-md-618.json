@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/12",
+  "title": "12 非支配性男性气质",
+  "description": "奉行女性主义的国家领袖",
+  "source": "@site/docs/革新男性气质/第十二章 copy.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/12",
+  "permalink": "/docs/革新男性气质/12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "12",
+    "sidebar_position": 12,
+    "title": "12 非支配性男性气质",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "11 男子气概的衰落",
+    "permalink": "/docs/革新男性气质/11"
+  },
+  "next": {
+    "title": "12 非支配性男性气质",
+    "permalink": "/docs/革新男性气质/12"
+  }
+}

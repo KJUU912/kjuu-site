@@ -3,43 +3,8 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
     path: '/blog',
-    component: ComponentCreator('/blog', '450'),
+    component: ComponentCreator('/blog', '0f4'),
     exact: true
   },
   {
@@ -53,23 +18,18 @@ export default [
     exact: true
   },
   {
-    path: '/blog/authors/kejia',
-    component: ComponentCreator('/blog/authors/kejia', 'fa1'),
-    exact: true
-  },
-  {
     path: '/blog/tags',
     component: ComponentCreator('/blog/tags', '287'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '4d4'),
+    path: '/blog/tags/changelog',
+    component: ComponentCreator('/blog/tags/changelog', '5d4'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'b97'),
+    path: '/blog/update 919',
+    component: ComponentCreator('/blog/update 919', 'a2d'),
     exact: true
   },
   {
@@ -79,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'f9d'),
+    component: ComponentCreator('/docs', '521'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '114'),
+        component: ComponentCreator('/docs', 'b50'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'cb5'),
+            component: ComponentCreator('/docs', 'b8d'),
             routes: [
               {
                 path: '/docs/',
@@ -882,6 +842,30 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/革新男性气质/12',
+                component: ComponentCreator('/docs/革新男性气质/12', '4fc'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/13',
+                component: ComponentCreator('/docs/革新男性气质/13', '869'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/14',
+                component: ComponentCreator('/docs/革新男性气质/14', '584'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/革新男性气质/15',
+                component: ComponentCreator('/docs/革新男性气质/15', 'd46'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/革新男性气质/2',
                 component: ComponentCreator('/docs/革新男性气质/2', '50b'),
                 exact: true,
@@ -928,6 +912,42 @@ export default [
                 component: ComponentCreator('/docs/革新男性气质/9', '115'),
                 exact: true,
                 sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/',
+                component: ComponentCreator('/docs/魔鬼经济学1/', '99c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/1',
+                component: ComponentCreator('/docs/魔鬼经济学1/1', 'ce5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/2',
+                component: ComponentCreator('/docs/魔鬼经济学1/2', 'eda'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/3',
+                component: ComponentCreator('/docs/魔鬼经济学1/3', '5aa'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/4',
+                component: ComponentCreator('/docs/魔鬼经济学1/4', '5c3'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/魔鬼经济学1/5',
+                component: ComponentCreator('/docs/魔鬼经济学1/5', '659'),
+                exact: true,
+                sidebar: "bookSidebar"
               }
             ]
           }
@@ -967,16 +987,130 @@ export default [
   },
   {
     path: '/terminology',
-    component: ComponentCreator('/terminology', '4ab'),
+    component: ComponentCreator('/terminology', 'd1b'),
     routes: [
       {
         path: '/terminology',
-        component: ComponentCreator('/terminology', '4ef'),
+        component: ComponentCreator('/terminology', 'f60'),
         routes: [
           {
             path: '/terminology',
-            component: ComponentCreator('/terminology', '230'),
+            component: ComponentCreator('/terminology', 'd4b'),
             routes: [
+              {
+                path: '/terminology/cryptology/',
+                component: ComponentCreator('/terminology/cryptology/', '740'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/DES',
+                component: ComponentCreator('/terminology/cryptology/DES', '919'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/Enigma',
+                component: ComponentCreator('/terminology/cryptology/Enigma', '98d'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/一次性密码本',
+                component: ComponentCreator('/terminology/cryptology/一次性密码本', '654'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/伪随机数生成器',
+                component: ComponentCreator('/terminology/cryptology/伪随机数生成器', '3f1'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/凯撒密码',
+                component: ComponentCreator('/terminology/cryptology/凯撒密码', 'bea'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/哈希函数',
+                component: ComponentCreator('/terminology/cryptology/哈希函数', '2cf'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/密码与信息安全常识',
+                component: ComponentCreator('/terminology/cryptology/密码与信息安全常识', 'a5e'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/密钥, 对称密码, 非对称密码',
+                component: ComponentCreator('/terminology/cryptology/密钥, 对称密码, 非对称密码', '704'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/密钥空间',
+                component: ComponentCreator('/terminology/cryptology/密钥空间', 'e50'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/数字签名',
+                component: ComponentCreator('/terminology/cryptology/数字签名', 'd00'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/明文, 密文, 加密, 解密, 算法',
+                component: ComponentCreator('/terminology/cryptology/明文, 密文, 加密, 解密, 算法', '9e9'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/消息, 发送者, 接收者, 窃听者',
+                component: ComponentCreator('/terminology/cryptology/消息, 发送者, 接收者, 窃听者', 'e64'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/消息验证码',
+                component: ComponentCreator('/terminology/cryptology/消息验证码', '2a2'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/穷举搜索',
+                component: ComponentCreator('/terminology/cryptology/穷举搜索', '796'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/简单替换密码',
+                component: ComponentCreator('/terminology/cryptology/简单替换密码', '444'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/编码, 比特序列, 编码规则, 进制',
+                component: ComponentCreator('/terminology/cryptology/编码, 比特序列, 编码规则, 进制', 'b66'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/量子密码',
+                component: ComponentCreator('/terminology/cryptology/量子密码', '4f2'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/隐写术',
+                component: ComponentCreator('/terminology/cryptology/隐写术', '1a5'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
               {
                 path: '/terminology/econ/',
                 component: ComponentCreator('/terminology/econ/', '4f7'),

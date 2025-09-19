@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/密码与信息安全常识",
+  "title": "密码与信息安全常识",
+  "description": "不要使用保密的密码算法",
+  "source": "@site/terminology/cryptology/密码与信息安全常识.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/密码与信息安全常识",
+  "permalink": "/terminology/cryptology/密码与信息安全常识",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "哈希函数",
+    "permalink": "/terminology/cryptology/哈希函数"
+  },
+  "next": {
+    "title": "密钥, 对称密码, 非对称密码",
+    "permalink": "/terminology/cryptology/密钥, 对称密码, 非对称密码"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "魔鬼经济学1/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202509071826114.png\" alt=\"封面图\"",
+  "source": "@site/docs/魔鬼经济学1/README.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/",
+  "permalink": "/docs/魔鬼经济学1/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "15 打破父权制",
+    "permalink": "/docs/革新男性气质/15"
+  },
+  "next": {
+    "title": "引言",
+    "permalink": "/docs/魔鬼经济学1/1"
+  }
+}

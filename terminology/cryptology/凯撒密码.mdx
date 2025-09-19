@@ -1,0 +1,32 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="定义">
+凯撒密码是一种将明文中每个字母按照固定偏移量移动来加密的简单替换密码。
+
+<img src="https://static.kjuu.cc/tana/202509182230373.png" alt="封面图"
+width="30%" />
+</TabItem>
+<TabItem value="b" label="原理">
+每个字母被替换为字母表上固定偏移后的字母（如偏移量为3，A→D，B→E…）
+
+例如明文“HELLO”偏移3，密文变为“KHOOR”
+
+加密公式：
+$$ E_n(x) = (x + n) \bmod 26 $$
+
+解密公式：
+$$ D_n(x) = (x - n) \bmod 26 $$
+</TabItem>
+<TabItem value="c" label="破解">
+由于凯撒密码只有26种可能的偏移量，攻击者可用暴力破解：把密文依次尝试所有可能的偏移量，得到26个候选明文。
+
+分析每个结果，发现哪一行是有意义的文本（往往很容易），即可还原明文。
+</TabItem>
+</Tabs>
+
+:::
+

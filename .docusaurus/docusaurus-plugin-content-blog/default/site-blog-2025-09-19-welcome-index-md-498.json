@@ -1,0 +1,39 @@
+{
+  "permalink": "/blog/welcome",
+  "source": "@site/blog/2025-09-19-welcome/index.md",
+  "title": "What's new",
+  "description": "Hello",
+  "date": "2025-09-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "Docusaurus",
+      "permalink": "/blog/tags/docusaurus",
+      "description": "Docusaurus tag description"
+    }
+  ],
+  "readingTime": 0.01,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Kejia Wu",
+      "title": "Hello",
+      "page": {
+        "permalink": "/blog/authors/kejia"
+      },
+      "imageURL": "https://static.kjuu.cc/image/%E5%A4%B4%E5%83%8F.png",
+      "key": "kejia"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "What's new",
+    "authors": [
+      "kejia"
+    ],
+    "tags": [
+      "docusaurus"
+    ]
+  },
+  "unlisted": false
+}

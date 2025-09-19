@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/一次性密码本",
+  "title": "一次性密码本",
+  "description": "一次性密码本（One-Time Pad, 简称OTP）是一种理论上“绝对安全”的对称加密算法，通过将明文与一串完全随机、且仅使用一次的密钥进行异或（XOR）运算实现加密和解密。",
+  "source": "@site/terminology/cryptology/一次性密码本.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/一次性密码本",
+  "permalink": "/terminology/cryptology/一次性密码本",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "Enigma",
+    "permalink": "/terminology/cryptology/Enigma"
+  },
+  "next": {
+    "title": "伪随机数生成器",
+    "permalink": "/terminology/cryptology/伪随机数生成器"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/10",
+  "title": "第十章 为什么是我？",
+  "description": "为什么是我：成瘾的原因",
+  "source": "@site/docs/魔鬼经济学1/第十章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/10",
+  "permalink": "/docs/魔鬼经济学1/10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "10",
+    "sidebar_position": 10,
+    "title": "第十章 为什么是我？",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第九章 意愿与途径：其他被滥用的药物",
+    "permalink": "/docs/魔鬼经济学1/9"
+  },
+  "next": {
+    "title": "第十一章 解决成瘾问题",
+    "permalink": "/docs/魔鬼经济学1/11"
+  }
+}

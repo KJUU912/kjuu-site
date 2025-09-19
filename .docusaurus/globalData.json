@@ -666,6 +666,26 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "革新男性气质/12",
+              "path": "/docs/革新男性气质/12",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/13",
+              "path": "/docs/革新男性气质/13",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/14",
+              "path": "/docs/革新男性气质/14",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "革新男性气质/15",
+              "path": "/docs/革新男性气质/15",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "革新男性气质/2",
               "path": "/docs/革新男性气质/2",
               "sidebar": "bookSidebar"
@@ -708,6 +728,36 @@
             {
               "id": "革新男性气质/README",
               "path": "/docs/革新男性气质/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/1",
+              "path": "/docs/魔鬼经济学1/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/2",
+              "path": "/docs/魔鬼经济学1/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/3",
+              "path": "/docs/魔鬼经济学1/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/4",
+              "path": "/docs/魔鬼经济学1/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/5",
+              "path": "/docs/魔鬼经济学1/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/README",
+              "path": "/docs/魔鬼经济学1/",
               "sidebar": "bookSidebar"
             }
           ],
@@ -768,6 +818,101 @@
           "path": "/terminology",
           "mainDocId": "intro",
           "docs": [
+            {
+              "id": "cryptology/DES",
+              "path": "/terminology/cryptology/DES",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/Enigma",
+              "path": "/terminology/cryptology/Enigma",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/README",
+              "path": "/terminology/cryptology/",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/一次性密码本",
+              "path": "/terminology/cryptology/一次性密码本",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/伪随机数生成器",
+              "path": "/terminology/cryptology/伪随机数生成器",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/凯撒密码",
+              "path": "/terminology/cryptology/凯撒密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/哈希函数",
+              "path": "/terminology/cryptology/哈希函数",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密码与信息安全常识",
+              "path": "/terminology/cryptology/密码与信息安全常识",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密钥, 对称密码, 非对称密码",
+              "path": "/terminology/cryptology/密钥, 对称密码, 非对称密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密钥空间",
+              "path": "/terminology/cryptology/密钥空间",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/数字签名",
+              "path": "/terminology/cryptology/数字签名",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/明文, 密文, 加密, 解密, 算法",
+              "path": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/消息, 发送者, 接收者, 窃听者",
+              "path": "/terminology/cryptology/消息, 发送者, 接收者, 窃听者",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/消息验证码",
+              "path": "/terminology/cryptology/消息验证码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/穷举搜索",
+              "path": "/terminology/cryptology/穷举搜索",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/简单替换密码",
+              "path": "/terminology/cryptology/简单替换密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/编码, 比特序列, 编码规则, 进制",
+              "path": "/terminology/cryptology/编码, 比特序列, 编码规则, 进制",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/量子密码",
+              "path": "/terminology/cryptology/量子密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/隐写术",
+              "path": "/terminology/cryptology/隐写术",
+              "sidebar": "termSidebar"
+            },
             {
               "id": "econ/Commodity",
               "path": "/terminology/econ/Commodity",

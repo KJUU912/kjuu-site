@@ -1,0 +1,22 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="消息（Message）">
+消息（message）指发送者希望传递给接收者的内容，可能是文本、数据、指令等。在密码学中，消息也叫“明文”（plaintext），是需要保护的原始信息；经过加密后则变成“密文”（ciphertext）。保证消息的机密性、完整性与真实来源是密码学的核心目的。
+</TabItem>
+<TabItem value="b" label="发送者（Sender）">
+发送者（Sender）是信息的发出方，负责生成消息，并可能对消息进行加密处理，以防止消息被中途窃听者获知内容。
+</TabItem>
+<TabItem value="c" label="接收者（Receiver）">
+接收者（Receiver）是信息的接收方，负责接收来自发送者的消息（密文），并利用密钥等方法对消息进行解密，恢复明文内容。
+</TabItem>
+<TabItem value="d" label="窃听者（Eavesdropper）">
+窃听者（Eavesdropper）指在通信过程中试图获取消息内容的第三方。窃听者通常没有密钥，只能捕获传输中的密文，试图破译获取明文。窃听者的存在推动了密码学技术的发展，用以保证通讯的安全性和保密性。
+</TabItem>
+</Tabs>
+
+:::
+

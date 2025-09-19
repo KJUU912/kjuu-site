@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/简单替换密码 copy",
+  "title": "简单替换密码 copy",
+  "description": "简单替换密码（Simple Substitution Cipher）是一种古典加密方法，用固定的规则将明文中的每个字母替换为另一个唯一对应的字母，形成密文。",
+  "source": "@site/terminology/cryptology/简单替换密码 copy.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/简单替换密码 copy",
+  "permalink": "/terminology/cryptology/简单替换密码 copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "穷举搜索",
+    "permalink": "/terminology/cryptology/穷举搜索"
+  },
+  "next": {
+    "title": "简单替换密码",
+    "permalink": "/terminology/cryptology/简单替换密码"
+  }
+}

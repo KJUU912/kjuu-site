@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/1",
+  "title": "引言",
+  "description": "美国犯罪恐慌和出人意料的结果",
+  "source": "@site/docs/魔鬼经济学1/前言.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/1",
+  "permalink": "/docs/魔鬼经济学1/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "引言",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/魔鬼经济学1/"
+  },
+  "next": {
+    "title": "第二章 适应",
+    "permalink": "/docs/魔鬼经济学1/2"
+  }
+}

@@ -1,0 +1,19 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="密钥（Key）">
+密钥（Key）是加密和解密过程中必须使用的机密参数，是保障通信安全的最关键要素。密钥通常是一串长而复杂的二进制数字，用于变换原始数据，使其只有在拥有正确密钥时才能被复原。密钥管理和保密性直接决定了密码系统的安全性。
+</TabItem>
+<TabItem value="b" label="对称密码（Symmetric Cryptography）">
+对称密码（Symmetric Cryptography）指加密和解密使用同一个密钥的加密方式。发送者和接收者必须在事先安全地共享同一密钥，如常见的AES、DES算法。优点是加密解密速度快，缺点在于密钥分发和管理困难，安全性完全依赖于密钥的保密。
+</TabItem>
+<TabItem value="c" label="非对称密码（Asymmetric Cryptography）">
+公钥密码（Public-Key Cryptography，又称非对称密码）使用一对密钥：一个公钥（public key，可公开）和一个私钥（private key，需保密）。加密时使用对方的公钥，解密时使用私钥，或反之（如签名场景）。这样即使公钥被公开，私钥仍能保证消息机密性和认证，常见算法有RSA、ECC等。优势在于解决了密钥分发问题，但加密效率通常低于对称算法。
+</TabItem>
+</Tabs>
+
+:::
+

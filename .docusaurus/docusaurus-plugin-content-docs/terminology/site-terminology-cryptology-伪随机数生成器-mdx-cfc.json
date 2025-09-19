@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/伪随机数生成器",
+  "title": "伪随机数生成器",
+  "description": "伪随机数生成器（Pseudorandom Number Generator, PRNG）是一种利用确定性算法生成“看起来是随机”的数值序列的数学工具，广泛应用于模拟、加密、数据分析等领域。",
+  "source": "@site/terminology/cryptology/伪随机数生成器.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/伪随机数生成器",
+  "permalink": "/terminology/cryptology/伪随机数生成器",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "一次性密码本",
+    "permalink": "/terminology/cryptology/一次性密码本"
+  },
+  "next": {
+    "title": "凯撒密码",
+    "permalink": "/terminology/cryptology/凯撒密码"
+  }
+}

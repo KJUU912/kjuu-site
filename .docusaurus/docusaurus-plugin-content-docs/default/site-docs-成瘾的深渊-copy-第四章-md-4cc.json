@@ -1,0 +1,29 @@
+{
+  "id": "成瘾的深渊 copy/4",
+  "title": "第四章 织梦者：阿片类药物",
+  "description": "阿片与“爱情”的类比",
+  "source": "@site/docs/成瘾的深渊 copy/第四章.md",
+  "sourceDirName": "成瘾的深渊 copy",
+  "slug": "/成瘾的深渊 copy/4",
+  "permalink": "/docs/成瘾的深渊 copy/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第四章 织梦者：阿片类药物",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第三章 一个突出的例子：四氢大麻酚",
+    "permalink": "/docs/成瘾的深渊 copy/3"
+  },
+  "next": {
+    "title": "第五章 一把重锤：酒精",
+    "permalink": "/docs/成瘾的深渊 copy/5"
+  }
+}

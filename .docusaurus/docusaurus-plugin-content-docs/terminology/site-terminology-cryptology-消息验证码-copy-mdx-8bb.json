@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/消息验证码 copy",
+  "title": "消息验证码 copy",
+  "description": "消息验证码（Message Authentication Code, MAC）是一种用来验证消息完整性和真实性的短代码，由消息内容和密钥共同计算得到。",
+  "source": "@site/terminology/cryptology/消息验证码 copy.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/消息验证码 copy",
+  "permalink": "/terminology/cryptology/消息验证码 copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "消息、发送者、接收者、窃听者",
+    "permalink": "/terminology/cryptology/消息、发送者、接收者、窃听者"
+  },
+  "next": {
+    "title": "消息验证码",
+    "permalink": "/terminology/cryptology/消息验证码"
+  }
+}

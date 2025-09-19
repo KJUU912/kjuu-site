@@ -4,18 +4,22 @@
         <title>Welcome Blog</title>
         <link>https://your-docusaurus-site.example.com/blog</link>
         <description>Welcome Blog</description>
-        <lastBuildDate>Thu, 01 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://your-docusaurus-site.example.com/blog/welcome</link>
-            <guid>https://your-docusaurus-site.example.com/blog/welcome</guid>
-            <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Hello]]></description>
-            <content:encoded><![CDATA[<p>Hello</p>]]></content:encoded>
-            <category>Docusaurus</category>
+            <title><![CDATA[September 19]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/update 919</link>
+            <guid>https://your-docusaurus-site.example.com/blog/update 919</guid>
+            <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[增加新模块：概念图谱（Concept Atlas）]]></description>
+            <content:encoded><![CDATA[<p>增加新模块：<a href="https://your-docusaurus-site.example.com/terminology/intro">概念图谱（Concept Atlas）</a></p>
+<ul>
+<li>这里会不定期记录我在自学各学科/领域过程中遇到的新词与基础概念，随手收集，慢慢积累</li>
+<li>当前收录：<strong>经济、密码学、产品管理</strong>等内容，后续还会持续扩充更多领域</li>
+</ul>]]></content:encoded>
+            <category>changelog</category>
         </item>
     </channel>
 </rss>

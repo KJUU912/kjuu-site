@@ -155,3 +155,32 @@ div.remark-auto-glossary-term-details[itemtype*="DefinedTerm"] div.more-details 
 .hero--primary {
   background-color: #545454 !important;
 }
+
+.markdown li + li {
+  margin-top: 4px !important;
+}
+
+.markdown li {
+  margin-top: 4px !important;
+}
+
+.title_f1Hy {
+  font-size: 2rem !important;
+  /* margin-bottom: 0.2rem !important; */
+}
+
+.container_mt6G {
+  display: none !important;
+}
+
+.authorImage_XqGP {
+  --ifm-avatar-photo-size: 2.2em !important;
+}
+
+.authorName_yefp {
+  font-size: 1rem !important;
+}
+
+.author-as-h1_n9oJ .authorTitle_nd0D {
+  font-size: 1rem !important;
+}

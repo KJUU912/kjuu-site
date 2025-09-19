@@ -1,0 +1,27 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="明文（Plaintext）">
+明文（Plaintext）指的是未经加密的原始数据或信息，可以被直接读取和理解。例如，一条普通消息如“Hello, World!”就是明文。明文可以包括文字、图片等多种数据类型，在加密前是完全公开的。
+</TabItem>
+<TabItem value="b" label="密文（Ciphertext）">
+密文（Ciphertext）是将明文经过加密算法处理后的结果。只有拥有正确密钥的人才能把密文还原成明文。密文通常是不可读、杂乱无章的形式，防止信息被窃取或滥用。
+</TabItem>
+<TabItem value="c" label="加密（Encryption）">
+加密（Encryption）是指用密钥和特定算法，将明文转换为密文的过程。加密旨在保护数据的机密性，使信息在传递过程中即使被窃取也无法直接理解。加密方式分为对称加密和非对称加密两大类。只有使用正确密钥才能逆转加密过程，恢复原始信息。
+</TabItem>
+<TabItem value="d" label="解密（Decryption）">
+解密（Decryption）是用密钥和算法将密文还原成明文的过程。只有已授权用户才能利用密钥成功解密密文，实质上是加密的逆操作。解密安全性依赖于密钥的保密性和加密算法的强度。
+</TabItem>
+<TabItem value="e" label="算法（Algorithm）">
+算法（Algorithm）是解决特定问题的一组明确有序的步骤或规则。
+- 加密算法是指将明文转换为密文以保护信息机密性的具体算法。加密算法利用密钥对原始数据进行变换，使其在未授权状态下无法读取。常见如AES、DES（对称加密），以及RSA（非对称加密）等。
+- 解密算法是将密文还原回原始明文的算法，是加密过程的逆操作。只有拥有正确密钥的接收方才能通过解密算法恢复出可读内容。对称加密中加解密算法相同，非对称加密中解密算法须用另外一把密钥执行。
+</TabItem>
+</Tabs>
+
+:::
+

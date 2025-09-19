@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/密钥，对称密码，非对称密码",
+  "title": "密钥，对称密码，非对称密码",
+  "description": "密钥（Key）是加密和解密过程中必须使用的机密参数，是保障通信安全的最关键要素。密钥通常是一串长而复杂的二进制数字，用于变换原始数据，使其只有在拥有正确密钥时才能被复原。密钥管理和保密性直接决定了密码系统的安全性。",
+  "source": "@site/terminology/cryptology/密钥，对称密码，非对称密码.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/密钥，对称密码，非对称密码",
+  "permalink": "/terminology/cryptology/密钥，对称密码，非对称密码",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "密钥空间",
+    "permalink": "/terminology/cryptology/密钥空间"
+  },
+  "next": {
+    "title": "数字签名",
+    "permalink": "/terminology/cryptology/数字签名"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/隐写术",
+  "title": "隐写术",
+  "description": "隐写术（Steganography）是一种信息隐藏技术，其核心思想是在“看似无害”的媒体（如图片、音频、视频或文本）中秘密嵌入数据，使除预期接收者以外的他人难以觉察信息的存在。",
+  "source": "@site/terminology/cryptology/隐写术.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/隐写术",
+  "permalink": "/terminology/cryptology/隐写术",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "量子密码",
+    "permalink": "/terminology/cryptology/量子密码"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/terminology/product/"
+  }
+}

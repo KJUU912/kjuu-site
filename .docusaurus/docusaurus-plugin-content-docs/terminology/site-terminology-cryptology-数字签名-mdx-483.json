@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/数字签名",
+  "title": "数字签名",
+  "description": "数字签名（Digital signature）是利用非对称加密原理，既能证明消息完整性，又能证明消息来源不可伪造和不可否认。签名者用私钥对消息摘要进行加密生成签名，验证者用公开的公钥对签名解密并比对消息摘要，从而确认来源和内容未变。数字签名广泛应用于电子合同、区块链、证书认证等场景。",
+  "source": "@site/terminology/cryptology/数字签名.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/数字签名",
+  "permalink": "/terminology/cryptology/数字签名",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "密钥空间",
+    "permalink": "/terminology/cryptology/密钥空间"
+  },
+  "next": {
+    "title": "明文, 密文, 加密, 解密, 算法",
+    "permalink": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法"
+  }
+}

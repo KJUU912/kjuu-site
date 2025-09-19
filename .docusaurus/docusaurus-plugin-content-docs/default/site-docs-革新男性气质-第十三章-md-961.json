@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/13",
+  "title": "13 懂得尊重的男性气质",
+  "description": "爱情亦然",
+  "source": "@site/docs/革新男性气质/第十三章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/13",
+  "permalink": "/docs/革新男性气质/13",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "13",
+    "sidebar_position": 13,
+    "title": "13 懂得尊重的男性气质",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "12 非支配性男性气质",
+    "permalink": "/docs/革新男性气质/12"
+  },
+  "next": {
+    "title": "14 平等的男性气质",
+    "permalink": "/docs/革新男性气质/14"
+  }
+}

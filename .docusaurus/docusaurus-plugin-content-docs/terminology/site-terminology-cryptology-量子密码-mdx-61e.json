@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/量子密码",
+  "title": "量子密码",
+  "description": "量子密码（Quantum Cryptography）是一种基于量子力学原理的加密技术，利用量子粒子（如光子）独特的物理性质来确保信息传输的绝对安全。",
+  "source": "@site/terminology/cryptology/量子密码.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/量子密码",
+  "permalink": "/terminology/cryptology/量子密码",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "编码, 比特序列, 编码规则, 进制",
+    "permalink": "/terminology/cryptology/编码, 比特序列, 编码规则, 进制"
+  },
+  "next": {
+    "title": "隐写术",
+    "permalink": "/terminology/cryptology/隐写术"
+  }
+}

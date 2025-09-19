@@ -1,0 +1,25 @@
+{
+  "id": "魔鬼经济学1/11",
+  "title": "第十一章 解决成瘾问题",
+  "description": "神经科学",
+  "source": "@site/docs/魔鬼经济学1/第十一章.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/11",
+  "permalink": "/docs/魔鬼经济学1/11",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "11",
+    "sidebar_position": 11,
+    "title": "第十一章 解决成瘾问题",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十章 为什么是我？",
+    "permalink": "/docs/魔鬼经济学1/10"
+  }
+}

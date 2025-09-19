@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/Enigma",
+  "title": "Enigma",
+  "description": "Enigma是一种著名的机械转子加密机，二战期间被德国军方广泛使用，其核心是通过电路、多个可旋转转子和接线板的复杂组合，实现多层次、多变化的替换加密。",
+  "source": "@site/terminology/cryptology/Enigma.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/Enigma",
+  "permalink": "/terminology/cryptology/Enigma",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "DES",
+    "permalink": "/terminology/cryptology/DES"
+  },
+  "next": {
+    "title": "一次性密码本",
+    "permalink": "/terminology/cryptology/一次性密码本"
+  }
+}

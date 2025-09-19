@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/明文, 密文, 加密, 解密, 算法",
+  "title": "明文, 密文, 加密, 解密, 算法",
+  "description": "明文（Plaintext）指的是未经加密的原始数据或信息，可以被直接读取和理解。例如，一条普通消息如“Hello, World!”就是明文。明文可以包括文字、图片等多种数据类型，在加密前是完全公开的。",
+  "source": "@site/terminology/cryptology/明文, 密文, 加密, 解密, 算法.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/明文, 密文, 加密, 解密, 算法",
+  "permalink": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "数字签名",
+    "permalink": "/terminology/cryptology/数字签名"
+  },
+  "next": {
+    "title": "消息, 发送者, 接收者, 窃听者",
+    "permalink": "/terminology/cryptology/消息, 发送者, 接收者, 窃听者"
+  }
+}

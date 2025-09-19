@@ -1,11 +1,11 @@
 {
-  "title": "Recent posts",
+  "title": "What's New",
   "items": [
     {
-      "title": "Welcome",
-      "permalink": "/blog/welcome",
+      "title": "September 19",
+      "permalink": "/blog/update 919",
       "unlisted": false,
-      "date": "2025-05-01T00:00:00.000Z"
+      "date": "2025-09-19T00:00:00.000Z"
     }
   ]
 }

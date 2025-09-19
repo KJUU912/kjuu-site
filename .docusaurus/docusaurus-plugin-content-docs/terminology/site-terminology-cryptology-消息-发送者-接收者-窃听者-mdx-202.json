@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/消息, 发送者, 接收者, 窃听者",
+  "title": "消息, 发送者, 接收者, 窃听者",
+  "description": "消息（message）指发送者希望传递给接收者的内容，可能是文本、数据、指令等。在密码学中，消息也叫“明文”（plaintext），是需要保护的原始信息；经过加密后则变成“密文”（ciphertext）。保证消息的机密性、完整性与真实来源是密码学的核心目的。",
+  "source": "@site/terminology/cryptology/消息, 发送者, 接收者, 窃听者.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/消息, 发送者, 接收者, 窃听者",
+  "permalink": "/terminology/cryptology/消息, 发送者, 接收者, 窃听者",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "明文, 密文, 加密, 解密, 算法",
+    "permalink": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法"
+  },
+  "next": {
+    "title": "消息验证码",
+    "permalink": "/terminology/cryptology/消息验证码"
+  }
+}

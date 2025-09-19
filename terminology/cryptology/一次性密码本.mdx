@@ -1,0 +1,22 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+一次性密码本（One-Time Pad, 简称OTP）是一种理论上“绝对安全”的对称加密算法，通过将明文与一串完全随机、且仅使用一次的密钥进行异或（XOR）运算实现加密和解密。
+
+主要原理
+- 密钥必须绝对随机、等长于明文、且每次只用一次。
+- 加密过程：明文与密钥按位异或，得到密文。
+- 解密过程：密文与同样的密钥按位异或，还原出明文。
+
+安全性
+- 只要密钥真的随机、仅用一次且等长，OTP 在理论上无法被任何计算能力破解（香农证明的“信息论安全”或“完美保密性”）。
+- 没有密钥的人看到密文，无法得知明文的任何信息。
+
+<img src="https://static.kjuu.cc/tana/202509190033449.png" alt="封面图" width="30%" />
+<br />
+<img src="https://static.kjuu.cc/tana/202509190028934.jpg" alt="封面图" width="35%" />
+
+:::
+

@@ -1,4 +1,9 @@
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+changelog:
+  label: changelog
+  permalink: /changelog
+  description: Changelog for KJUU's site
+
+blog:
+  label: blog
+  permalink: /blog
+  description: Some daily thoughts

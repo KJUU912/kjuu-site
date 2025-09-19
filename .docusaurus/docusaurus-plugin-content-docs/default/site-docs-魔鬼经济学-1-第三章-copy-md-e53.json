@@ -1,0 +1,29 @@
+{
+  "id": "魔鬼经济学1/4",
+  "title": "第三章 为何毒贩还在与母亲同住",
+  "description": "观念的制造与数据的操控",
+  "source": "@site/docs/魔鬼经济学1/第三章 copy.md",
+  "sourceDirName": "魔鬼经济学1",
+  "slug": "/魔鬼经济学1/4",
+  "permalink": "/docs/魔鬼经济学1/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第三章 为何毒贩还在与母亲同住",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 为何三K党和房地产中介是一路货色",
+    "permalink": "/docs/魔鬼经济学1/3"
+  },
+  "next": {
+    "title": "第三章 为何毒贩还在与母亲同住",
+    "permalink": "/docs/魔鬼经济学1/4"
+  }
+}

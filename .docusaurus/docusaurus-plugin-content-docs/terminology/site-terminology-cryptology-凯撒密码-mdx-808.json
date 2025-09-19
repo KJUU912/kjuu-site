@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/凯撒密码",
+  "title": "凯撒密码",
+  "description": "凯撒密码是一种将明文中每个字母按照固定偏移量移动来加密的简单替换密码。",
+  "source": "@site/terminology/cryptology/凯撒密码.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/凯撒密码",
+  "permalink": "/terminology/cryptology/凯撒密码",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "伪随机数生成器",
+    "permalink": "/terminology/cryptology/伪随机数生成器"
+  },
+  "next": {
+    "title": "哈希函数",
+    "permalink": "/terminology/cryptology/哈希函数"
+  }
+}

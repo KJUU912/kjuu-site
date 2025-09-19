@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/期权",
+  "title": "期权",
+  "description": "期权是一种金融衍生品合约。它赋予持有人一个权利（但不是义务）：在未来某个时间点或之前，以约定好的价格（行权价，Strike Price）买入或卖出某种资产（通常是股票）。买方需要为这种权利支付一笔费用，叫做期权费（Premium）。",
+  "source": "@site/terminology/cryptology/期权.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/期权",
+  "permalink": "/terminology/cryptology/期权",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "ROI",
+    "permalink": "/terminology/cryptology/ROI"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/terminology/product/"
+  }
+}

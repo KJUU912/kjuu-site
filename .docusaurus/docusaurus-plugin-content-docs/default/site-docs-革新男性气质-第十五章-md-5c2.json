@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/15",
+  "title": "15 打破父权制",
+  "description": "努力实现一种包容的女性主义",
+  "source": "@site/docs/革新男性气质/第十五章.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/15",
+  "permalink": "/docs/革新男性气质/15",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "id": "15",
+    "sidebar_position": 15,
+    "title": "15 打破父权制",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "14 平等的男性气质",
+    "permalink": "/docs/革新男性气质/14"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/魔鬼经济学1/"
+  }
+}

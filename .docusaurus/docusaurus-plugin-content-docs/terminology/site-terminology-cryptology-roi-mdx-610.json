@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/ROI",
+  "title": "ROI",
+  "description": "“投资回报率“，即ROI（Return on Investment），是衡量投资盈利能力与效率的核心指标，通常用百分比或比率表示，反映投资获得的利润与投入成本之间的关系。",
+  "source": "@site/terminology/cryptology/ROI.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/ROI",
+  "permalink": "/terminology/cryptology/ROI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "密码学概念",
+    "permalink": "/terminology/cryptology/"
+  },
+  "next": {
+    "title": "密钥、对称密码、非对称密码",
+    "permalink": "/terminology/cryptology/密钥、对称密码、非对称密码"
+  }
+}

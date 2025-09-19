@@ -66,35 +66,36 @@ const config = {
   ],
 
   presets: [
-    [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
-        docs: {
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
-          beforeDefaultRemarkPlugins: [
-            [require('@renatonagliati/remark-auto-glossary'), { yamlFile: 'glossary.yaml' }],
-          ],
-          sidebarPath: './sidebars.js',
+  [
+    'classic',
+    /** @type {import('@docusaurus/preset-classic').Options} */
+    ({
+      docs: {
+        remarkPlugins: [remarkMath],
+        rehypePlugins: [rehypeKatex],
+        beforeDefaultRemarkPlugins: [
+          [require('@renatonagliati/remark-auto-glossary'), { yamlFile: 'glossary.yaml' }],
+        ],
+        sidebarPath: './sidebars.js',
+      },
+      blog: {
+        showReadingTime: true,
+        feedOptions: {
+          type: ['rss', 'atom'],
+          xslt: true,
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      }),
-    ],
+        onInlineTags: 'warn',
+        onInlineAuthors: 'warn',
+        onUntruncatedBlogPosts: 'warn',
+        blogSidebarTitle: "What's New", // 修改侧边栏标题
+      },
+      theme: {
+        customCss: './src/css/custom.css',
+      },
+    }),
   ],
+],
+
 
   stylesheets: [
     {
@@ -145,10 +146,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'termSidebar',
             position: 'right',
-            label: 'Terminology',
+            label: 'Concept Atlas',
             docsPluginId: 'terminology',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
+          {to: '/blog', label: 'What\'s New', position: 'right'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

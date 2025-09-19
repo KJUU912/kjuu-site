@@ -1,0 +1,29 @@
+{
+  "id": "革新男性气质/14",
+  "title": "14 平等的男性气质",
+  "description": "作为公民的市民",
+  "source": "@site/docs/革新男性气质/第十四章 copy.md",
+  "sourceDirName": "革新男性气质",
+  "slug": "/革新男性气质/14",
+  "permalink": "/docs/革新男性气质/14",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "14",
+    "sidebar_position": 14,
+    "title": "14 平等的男性气质",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "13 懂得尊重的男性气质",
+    "permalink": "/docs/革新男性气质/13"
+  },
+  "next": {
+    "title": "14 平等的男性气质",
+    "permalink": "/docs/革新男性气质/14"
+  }
+}
