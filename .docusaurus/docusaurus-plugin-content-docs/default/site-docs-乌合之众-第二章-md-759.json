@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/3",
+  "title": "第二章 群体的感情观和道德观",
+  "description": "群体冲动、易变、急躁",
+  "source": "@site/docs/乌合之众/第二章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/3",
+  "permalink": "/docs/乌合之众/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第二章 群体的感情观和道德观",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一章 群体的一般特征",
+    "permalink": "/docs/乌合之众/2"
+  },
+  "next": {
+    "title": "第三章 群体的观念、推理与想象力",
+    "permalink": "/docs/乌合之众/4"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/6",
+  "title": "第五章 群体意见和信念中的间接因素",
+  "description": "群体的信念并非凭空产生，而是由长期的间接因素(indirect factors)逐渐酝酿而成，随后才会在直接因素(direct factors)的刺激下爆发。间接因素为观念的诞生奠定心理与文化基础，它们像无声的暗流，持续侵蚀旧观念的根基，直到某个契机触发，新的信念便如地震般席卷群众。法国大革命便是典型例证：哲学家的思想、贵族的压迫与科学的启蒙构成了长久的准备，而民众的突然反抗与演说家的煽动则是引爆的直接因素。历史的巨变从不源于偶然的口号，而是无形的积累终成火种。",
+  "source": "@site/docs/乌合之众/第五章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/6",
+  "permalink": "/docs/乌合之众/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "第五章 群体意见和信念中的间接因素",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第四章 群体采取的宗教信仰形式",
+    "permalink": "/docs/乌合之众/5"
+  },
+  "next": {
+    "title": "第六章 群体意见和信念中的直接因素",
+    "permalink": "/docs/乌合之众/7"
+  }
+}

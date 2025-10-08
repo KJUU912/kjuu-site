@@ -11,346 +11,6 @@
           "mainDocId": "营销心理战/第一章/home",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "一本书读懂财报/1",
-              "path": "/docs/一本书读懂财报/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "一本书读懂财报/2",
-              "path": "/docs/一本书读懂财报/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "一本书读懂财报/3",
-              "path": "/docs/一本书读懂财报/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "一本书读懂财报/README",
-              "path": "/docs/一本书读懂财报/",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/README",
-              "path": "/docs/大模型浪潮/",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第一章/1",
-              "path": "/docs/大模型浪潮/第一章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第一章/2",
-              "path": "/docs/大模型浪潮/第一章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第一章/3",
-              "path": "/docs/大模型浪潮/第一章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第一章/4",
-              "path": "/docs/大模型浪潮/第一章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第一章/5",
-              "path": "/docs/大模型浪潮/第一章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第三章/1",
-              "path": "/docs/大模型浪潮/第三章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第三章/2",
-              "path": "/docs/大模型浪潮/第三章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第三章/3",
-              "path": "/docs/大模型浪潮/第三章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第三章/4",
-              "path": "/docs/大模型浪潮/第三章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/1",
-              "path": "/docs/大模型浪潮/第二章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/2",
-              "path": "/docs/大模型浪潮/第二章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/3",
-              "path": "/docs/大模型浪潮/第二章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/4",
-              "path": "/docs/大模型浪潮/第二章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/5",
-              "path": "/docs/大模型浪潮/第二章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/6",
-              "path": "/docs/大模型浪潮/第二章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/7",
-              "path": "/docs/大模型浪潮/第二章/7",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第二章/8",
-              "path": "/docs/大模型浪潮/第二章/8",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/1",
-              "path": "/docs/大模型浪潮/第五章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/2",
-              "path": "/docs/大模型浪潮/第五章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/3",
-              "path": "/docs/大模型浪潮/第五章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/4",
-              "path": "/docs/大模型浪潮/第五章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/5",
-              "path": "/docs/大模型浪潮/第五章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/6",
-              "path": "/docs/大模型浪潮/第五章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第五章/7",
-              "path": "/docs/大模型浪潮/第五章/7",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第六章/1",
-              "path": "/docs/大模型浪潮/第六章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第六章/2",
-              "path": "/docs/大模型浪潮/第六章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第六章/3",
-              "path": "/docs/大模型浪潮/第六章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第六章/4",
-              "path": "/docs/大模型浪潮/第六章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第四章/1",
-              "path": "/docs/大模型浪潮/第四章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第四章/2",
-              "path": "/docs/大模型浪潮/第四章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第四章/3",
-              "path": "/docs/大模型浪潮/第四章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "大模型浪潮/第四章/4",
-              "path": "/docs/大模型浪潮/第四章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/1",
-              "path": "/docs/客户说/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/2",
-              "path": "/docs/客户说/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/3",
-              "path": "/docs/客户说/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/4",
-              "path": "/docs/客户说/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/5",
-              "path": "/docs/客户说/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/6",
-              "path": "/docs/客户说/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/7",
-              "path": "/docs/客户说/7",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/8",
-              "path": "/docs/客户说/8",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "客户说/README",
-              "path": "/docs/客户说/",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/README",
-              "path": "/docs/小岛经济学/",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十七章",
-              "path": "/docs/小岛经济学/十七章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十三章",
-              "path": "/docs/小岛经济学/十三章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十九章",
-              "path": "/docs/小岛经济学/十九章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十五章",
-              "path": "/docs/小岛经济学/十五章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十八章",
-              "path": "/docs/小岛经济学/十八章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十六章",
-              "path": "/docs/小岛经济学/十六章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/十四章",
-              "path": "/docs/小岛经济学/十四章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/后记",
-              "path": "/docs/小岛经济学/后记",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第一章",
-              "path": "/docs/小岛经济学/第一章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第七章",
-              "path": "/docs/小岛经济学/第七章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第三章",
-              "path": "/docs/小岛经济学/第三章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第九章",
-              "path": "/docs/小岛经济学/第九章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第二章",
-              "path": "/docs/小岛经济学/第二章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第五章",
-              "path": "/docs/小岛经济学/第五章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第八章",
-              "path": "/docs/小岛经济学/第八章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第六章",
-              "path": "/docs/小岛经济学/第六章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第十一章",
-              "path": "/docs/小岛经济学/第十一章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第十二章",
-              "path": "/docs/小岛经济学/第十二章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第十章",
-              "path": "/docs/小岛经济学/第十章",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "小岛经济学/第四章",
-              "path": "/docs/小岛经济学/第四章",
-              "sidebar": "bookSidebar"
-            },
-            {
               "id": "成瘾的深渊/1",
               "path": "/docs/成瘾的深渊/1",
               "sidebar": "bookSidebar"
@@ -411,288 +71,168 @@
               "sidebar": "bookSidebar"
             },
             {
-              "id": "我们为什么要睡觉/1",
-              "path": "/docs/我们为什么要睡觉/1",
+              "id": "大模型浪潮/第二章/1",
+              "path": "/docs/大模型浪潮/第二章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "我们为什么要睡觉/2",
-              "path": "/docs/我们为什么要睡觉/2",
+              "id": "大模型浪潮/第二章/2",
+              "path": "/docs/大模型浪潮/第二章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "我们为什么要睡觉/3",
-              "path": "/docs/我们为什么要睡觉/3",
+              "id": "大模型浪潮/第二章/3",
+              "path": "/docs/大模型浪潮/第二章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "我们为什么要睡觉/4",
-              "path": "/docs/我们为什么要睡觉/4",
+              "id": "大模型浪潮/第二章/4",
+              "path": "/docs/大模型浪潮/第二章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "我们为什么要睡觉/README",
-              "path": "/docs/我们为什么要睡觉/",
+              "id": "大模型浪潮/第二章/5",
+              "path": "/docs/大模型浪潮/第二章/5",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/1",
-              "path": "/docs/止损/1",
+              "id": "大模型浪潮/第二章/6",
+              "path": "/docs/大模型浪潮/第二章/6",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/10",
-              "path": "/docs/止损/10",
+              "id": "大模型浪潮/第二章/7",
+              "path": "/docs/大模型浪潮/第二章/7",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/2",
-              "path": "/docs/止损/2",
+              "id": "大模型浪潮/第二章/8",
+              "path": "/docs/大模型浪潮/第二章/8",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/3",
-              "path": "/docs/止损/3",
+              "id": "大模型浪潮/第六章/1",
+              "path": "/docs/大模型浪潮/第六章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/4",
-              "path": "/docs/止损/4",
+              "id": "大模型浪潮/第六章/2",
+              "path": "/docs/大模型浪潮/第六章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/5",
-              "path": "/docs/止损/5",
+              "id": "大模型浪潮/第六章/3",
+              "path": "/docs/大模型浪潮/第六章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/6",
-              "path": "/docs/止损/6",
+              "id": "大模型浪潮/第六章/4",
+              "path": "/docs/大模型浪潮/第六章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/7",
-              "path": "/docs/止损/7",
+              "id": "大模型浪潮/第三章/1",
+              "path": "/docs/大模型浪潮/第三章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/8",
-              "path": "/docs/止损/8",
+              "id": "大模型浪潮/第三章/2",
+              "path": "/docs/大模型浪潮/第三章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/9",
-              "path": "/docs/止损/9",
+              "id": "大模型浪潮/第三章/3",
+              "path": "/docs/大模型浪潮/第三章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "止损/README",
-              "path": "/docs/止损/",
+              "id": "大模型浪潮/第三章/4",
+              "path": "/docs/大模型浪潮/第三章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "泡沫逃生/1",
-              "path": "/docs/泡沫逃生/1",
+              "id": "大模型浪潮/第四章/1",
+              "path": "/docs/大模型浪潮/第四章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "泡沫逃生/2",
-              "path": "/docs/泡沫逃生/2",
+              "id": "大模型浪潮/第四章/2",
+              "path": "/docs/大模型浪潮/第四章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "泡沫逃生/README",
-              "path": "/docs/泡沫逃生/",
+              "id": "大模型浪潮/第四章/3",
+              "path": "/docs/大模型浪潮/第四章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/README",
-              "path": "/docs/营销心理战/",
+              "id": "大模型浪潮/第四章/4",
+              "path": "/docs/大模型浪潮/第四章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/1",
-              "path": "/docs/营销心理战/第一章/1",
+              "id": "大模型浪潮/第五章/1",
+              "path": "/docs/大模型浪潮/第五章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/2",
-              "path": "/docs/营销心理战/第一章/2",
+              "id": "大模型浪潮/第五章/2",
+              "path": "/docs/大模型浪潮/第五章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/3",
-              "path": "/docs/营销心理战/第一章/3",
+              "id": "大模型浪潮/第五章/3",
+              "path": "/docs/大模型浪潮/第五章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/4",
-              "path": "/docs/营销心理战/第一章/4",
+              "id": "大模型浪潮/第五章/4",
+              "path": "/docs/大模型浪潮/第五章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/5",
-              "path": "/docs/营销心理战/第一章/5",
+              "id": "大模型浪潮/第五章/5",
+              "path": "/docs/大模型浪潮/第五章/5",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/6",
-              "path": "/docs/营销心理战/第一章/6",
+              "id": "大模型浪潮/第五章/6",
+              "path": "/docs/大模型浪潮/第五章/6",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第一章/home",
-              "path": "/docs/",
+              "id": "大模型浪潮/第五章/7",
+              "path": "/docs/大模型浪潮/第五章/7",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/1",
-              "path": "/docs/营销心理战/第三章/1",
+              "id": "大模型浪潮/第一章/1",
+              "path": "/docs/大模型浪潮/第一章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/2",
-              "path": "/docs/营销心理战/第三章/2",
+              "id": "大模型浪潮/第一章/2",
+              "path": "/docs/大模型浪潮/第一章/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/3",
-              "path": "/docs/营销心理战/第三章/3",
+              "id": "大模型浪潮/第一章/3",
+              "path": "/docs/大模型浪潮/第一章/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/4",
-              "path": "/docs/营销心理战/第三章/4",
+              "id": "大模型浪潮/第一章/4",
+              "path": "/docs/大模型浪潮/第一章/4",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/5",
-              "path": "/docs/营销心理战/第三章/5",
+              "id": "大模型浪潮/第一章/5",
+              "path": "/docs/大模型浪潮/第一章/5",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "营销心理战/第三章/6",
-              "path": "/docs/营销心理战/第三章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/1",
-              "path": "/docs/营销心理战/第二章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/2",
-              "path": "/docs/营销心理战/第二章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/3",
-              "path": "/docs/营销心理战/第二章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/4",
-              "path": "/docs/营销心理战/第二章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/5",
-              "path": "/docs/营销心理战/第二章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第二章/6",
-              "path": "/docs/营销心理战/第二章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/1",
-              "path": "/docs/营销心理战/第五章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/2",
-              "path": "/docs/营销心理战/第五章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/3",
-              "path": "/docs/营销心理战/第五章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/4",
-              "path": "/docs/营销心理战/第五章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/5",
-              "path": "/docs/营销心理战/第五章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第五章/6",
-              "path": "/docs/营销心理战/第五章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/1",
-              "path": "/docs/营销心理战/第六章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/2",
-              "path": "/docs/营销心理战/第六章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/3",
-              "path": "/docs/营销心理战/第六章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/4",
-              "path": "/docs/营销心理战/第六章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/5",
-              "path": "/docs/营销心理战/第六章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第六章/6",
-              "path": "/docs/营销心理战/第六章/6",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/1",
-              "path": "/docs/营销心理战/第四章/1",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/2",
-              "path": "/docs/营销心理战/第四章/2",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/3",
-              "path": "/docs/营销心理战/第四章/3",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/4",
-              "path": "/docs/营销心理战/第四章/4",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/5",
-              "path": "/docs/营销心理战/第四章/5",
-              "sidebar": "bookSidebar"
-            },
-            {
-              "id": "营销心理战/第四章/6",
-              "path": "/docs/营销心理战/第四章/6",
+              "id": "大模型浪潮/README",
+              "path": "/docs/大模型浪潮/",
               "sidebar": "bookSidebar"
             },
             {
@@ -773,6 +313,301 @@
             {
               "id": "革新男性气质/README",
               "path": "/docs/革新男性气质/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/1",
+              "path": "/docs/客户说/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/2",
+              "path": "/docs/客户说/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/3",
+              "path": "/docs/客户说/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/4",
+              "path": "/docs/客户说/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/5",
+              "path": "/docs/客户说/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/6",
+              "path": "/docs/客户说/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/7",
+              "path": "/docs/客户说/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/8",
+              "path": "/docs/客户说/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "客户说/README",
+              "path": "/docs/客户说/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/1",
+              "path": "/docs/魔鬼经济学1/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/2",
+              "path": "/docs/魔鬼经济学1/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/3",
+              "path": "/docs/魔鬼经济学1/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/4",
+              "path": "/docs/魔鬼经济学1/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/5",
+              "path": "/docs/魔鬼经济学1/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "魔鬼经济学1/README",
+              "path": "/docs/魔鬼经济学1/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "泡沫逃生/1",
+              "path": "/docs/泡沫逃生/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "泡沫逃生/2",
+              "path": "/docs/泡沫逃生/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "泡沫逃生/README",
+              "path": "/docs/泡沫逃生/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/1",
+              "path": "/docs/我们为什么要睡觉/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/2",
+              "path": "/docs/我们为什么要睡觉/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/3",
+              "path": "/docs/我们为什么要睡觉/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/4",
+              "path": "/docs/我们为什么要睡觉/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/README",
+              "path": "/docs/我们为什么要睡觉/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/1",
+              "path": "/docs/乌合之众/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/10",
+              "path": "/docs/乌合之众/10",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/11",
+              "path": "/docs/乌合之众/11",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/12",
+              "path": "/docs/乌合之众/12",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/13",
+              "path": "/docs/乌合之众/13",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/14",
+              "path": "/docs/乌合之众/14",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/2",
+              "path": "/docs/乌合之众/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/3",
+              "path": "/docs/乌合之众/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/4",
+              "path": "/docs/乌合之众/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/5",
+              "path": "/docs/乌合之众/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/6",
+              "path": "/docs/乌合之众/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/7",
+              "path": "/docs/乌合之众/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/8",
+              "path": "/docs/乌合之众/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/9",
+              "path": "/docs/乌合之众/9",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "乌合之众/README",
+              "path": "/docs/乌合之众/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第八章",
+              "path": "/docs/小岛经济学/第八章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第二章",
+              "path": "/docs/小岛经济学/第二章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第九章",
+              "path": "/docs/小岛经济学/第九章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第六章",
+              "path": "/docs/小岛经济学/第六章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第七章",
+              "path": "/docs/小岛经济学/第七章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第三章",
+              "path": "/docs/小岛经济学/第三章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第十二章",
+              "path": "/docs/小岛经济学/第十二章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第十一章",
+              "path": "/docs/小岛经济学/第十一章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第十章",
+              "path": "/docs/小岛经济学/第十章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第四章",
+              "path": "/docs/小岛经济学/第四章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第五章",
+              "path": "/docs/小岛经济学/第五章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/第一章",
+              "path": "/docs/小岛经济学/第一章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/后记",
+              "path": "/docs/小岛经济学/后记",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十八章",
+              "path": "/docs/小岛经济学/十八章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十九章",
+              "path": "/docs/小岛经济学/十九章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十六章",
+              "path": "/docs/小岛经济学/十六章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十七章",
+              "path": "/docs/小岛经济学/十七章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十三章",
+              "path": "/docs/小岛经济学/十三章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十四章",
+              "path": "/docs/小岛经济学/十四章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/十五章",
+              "path": "/docs/小岛经济学/十五章",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "小岛经济学/README",
+              "path": "/docs/小岛经济学/",
               "sidebar": "bookSidebar"
             },
             {
@@ -886,33 +721,273 @@
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/1",
-              "path": "/docs/魔鬼经济学1/1",
+              "id": "一本书读懂财报/1",
+              "path": "/docs/一本书读懂财报/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/2",
-              "path": "/docs/魔鬼经济学1/2",
+              "id": "一本书读懂财报/2",
+              "path": "/docs/一本书读懂财报/2",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/3",
-              "path": "/docs/魔鬼经济学1/3",
+              "id": "一本书读懂财报/3",
+              "path": "/docs/一本书读懂财报/3",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/4",
-              "path": "/docs/魔鬼经济学1/4",
+              "id": "一本书读懂财报/README",
+              "path": "/docs/一本书读懂财报/",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/5",
-              "path": "/docs/魔鬼经济学1/5",
+              "id": "营销心理战/第二章/1",
+              "path": "/docs/营销心理战/第二章/1",
               "sidebar": "bookSidebar"
             },
             {
-              "id": "魔鬼经济学1/README",
-              "path": "/docs/魔鬼经济学1/",
+              "id": "营销心理战/第二章/2",
+              "path": "/docs/营销心理战/第二章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第二章/3",
+              "path": "/docs/营销心理战/第二章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第二章/4",
+              "path": "/docs/营销心理战/第二章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第二章/5",
+              "path": "/docs/营销心理战/第二章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第二章/6",
+              "path": "/docs/营销心理战/第二章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/1",
+              "path": "/docs/营销心理战/第六章/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/2",
+              "path": "/docs/营销心理战/第六章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/3",
+              "path": "/docs/营销心理战/第六章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/4",
+              "path": "/docs/营销心理战/第六章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/5",
+              "path": "/docs/营销心理战/第六章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第六章/6",
+              "path": "/docs/营销心理战/第六章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/1",
+              "path": "/docs/营销心理战/第三章/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/2",
+              "path": "/docs/营销心理战/第三章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/3",
+              "path": "/docs/营销心理战/第三章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/4",
+              "path": "/docs/营销心理战/第三章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/5",
+              "path": "/docs/营销心理战/第三章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第三章/6",
+              "path": "/docs/营销心理战/第三章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/1",
+              "path": "/docs/营销心理战/第四章/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/2",
+              "path": "/docs/营销心理战/第四章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/3",
+              "path": "/docs/营销心理战/第四章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/4",
+              "path": "/docs/营销心理战/第四章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/5",
+              "path": "/docs/营销心理战/第四章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第四章/6",
+              "path": "/docs/营销心理战/第四章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/1",
+              "path": "/docs/营销心理战/第五章/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/2",
+              "path": "/docs/营销心理战/第五章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/3",
+              "path": "/docs/营销心理战/第五章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/4",
+              "path": "/docs/营销心理战/第五章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/5",
+              "path": "/docs/营销心理战/第五章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第五章/6",
+              "path": "/docs/营销心理战/第五章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/1",
+              "path": "/docs/营销心理战/第一章/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/2",
+              "path": "/docs/营销心理战/第一章/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/3",
+              "path": "/docs/营销心理战/第一章/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/4",
+              "path": "/docs/营销心理战/第一章/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/5",
+              "path": "/docs/营销心理战/第一章/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/6",
+              "path": "/docs/营销心理战/第一章/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/第一章/home",
+              "path": "/docs/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "营销心理战/README",
+              "path": "/docs/营销心理战/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/1",
+              "path": "/docs/止损/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/10",
+              "path": "/docs/止损/10",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/2",
+              "path": "/docs/止损/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/3",
+              "path": "/docs/止损/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/4",
+              "path": "/docs/止损/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/5",
+              "path": "/docs/止损/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/6",
+              "path": "/docs/止损/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/7",
+              "path": "/docs/止损/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/8",
+              "path": "/docs/止损/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/9",
+              "path": "/docs/止损/9",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "止损/README",
+              "path": "/docs/止损/",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
               "sidebar": "bookSidebar"
             }
           ],
@@ -979,6 +1054,91 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "cryptology/编码, 比特序列, 编码规则, 进制",
+              "path": "/terminology/cryptology/编码, 比特序列, 编码规则, 进制",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/分组算法",
+              "path": "/terminology/cryptology/分组算法",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/哈希函数",
+              "path": "/terminology/cryptology/哈希函数",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/简单替换密码",
+              "path": "/terminology/cryptology/简单替换密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/凯撒密码",
+              "path": "/terminology/cryptology/凯撒密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/量子密码",
+              "path": "/terminology/cryptology/量子密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密码与信息安全常识",
+              "path": "/terminology/cryptology/密码与信息安全常识",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密钥, 对称密码, 非对称密码",
+              "path": "/terminology/cryptology/密钥, 对称密码, 非对称密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/密钥空间",
+              "path": "/terminology/cryptology/密钥空间",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/明文, 密文, 加密, 解密, 算法",
+              "path": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/穷举搜索",
+              "path": "/terminology/cryptology/穷举搜索",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/数字签名",
+              "path": "/terminology/cryptology/数字签名",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/伪随机数生成器",
+              "path": "/terminology/cryptology/伪随机数生成器",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/消息, 发送者, 接收者, 窃听者",
+              "path": "/terminology/cryptology/消息, 发送者, 接收者, 窃听者",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/消息验证码",
+              "path": "/terminology/cryptology/消息验证码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/一次性密码本",
+              "path": "/terminology/cryptology/一次性密码本",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/隐写术",
+              "path": "/terminology/cryptology/隐写术",
+              "sidebar": "termSidebar"
+            },
+            {
               "id": "cryptology/AES",
               "path": "/terminology/cryptology/AES",
               "sidebar": "termSidebar"
@@ -999,88 +1159,8 @@
               "sidebar": "termSidebar"
             },
             {
-              "id": "cryptology/一次性密码本",
-              "path": "/terminology/cryptology/一次性密码本",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/伪随机数生成器",
-              "path": "/terminology/cryptology/伪随机数生成器",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/凯撒密码",
-              "path": "/terminology/cryptology/凯撒密码",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/分组算法",
-              "path": "/terminology/cryptology/分组算法",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/哈希函数",
-              "path": "/terminology/cryptology/哈希函数",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/密码与信息安全常识",
-              "path": "/terminology/cryptology/密码与信息安全常识",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/密钥, 对称密码, 非对称密码",
-              "path": "/terminology/cryptology/密钥, 对称密码, 非对称密码",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/密钥空间",
-              "path": "/terminology/cryptology/密钥空间",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/数字签名",
-              "path": "/terminology/cryptology/数字签名",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/明文, 密文, 加密, 解密, 算法",
-              "path": "/terminology/cryptology/明文, 密文, 加密, 解密, 算法",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/消息, 发送者, 接收者, 窃听者",
-              "path": "/terminology/cryptology/消息, 发送者, 接收者, 窃听者",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/消息验证码",
-              "path": "/terminology/cryptology/消息验证码",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/穷举搜索",
-              "path": "/terminology/cryptology/穷举搜索",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/简单替换密码",
-              "path": "/terminology/cryptology/简单替换密码",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/编码, 比特序列, 编码规则, 进制",
-              "path": "/terminology/cryptology/编码, 比特序列, 编码规则, 进制",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/量子密码",
-              "path": "/terminology/cryptology/量子密码",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "cryptology/隐写术",
-              "path": "/terminology/cryptology/隐写术",
+              "id": "econ/期权",
+              "path": "/terminology/econ/期权",
               "sidebar": "termSidebar"
             },
             {
@@ -1096,11 +1176,6 @@
             {
               "id": "econ/ROI",
               "path": "/terminology/econ/ROI",
-              "sidebar": "termSidebar"
-            },
-            {
-              "id": "econ/期权",
-              "path": "/terminology/econ/期权",
               "sidebar": "termSidebar"
             },
             {

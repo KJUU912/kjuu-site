@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/12",
+  "title": "第十一章 刑事陪审团",
+  "description": "刑事陪审团(jury)是有名称的异质性群体，其成员虽来自社会精英阶层，但一旦融入群体，理性即被情绪与暗示取代。历史研究表明，无论陪审团成员是教授、商人还是雇员，其判决结果惊人一致——智识与素养的差异在群体心理面前荡然无存。陪审团的判断往往依赖感情而非推理，慈悲、愤怒、恐惧等情绪成为主要动力。一名被告若能唤起同情，或以悲剧形象引发移情(empathy)，其命运便可能逆转；相反，冷漠或富有的被告则容易被集体敌意吞噬。",
+  "source": "@site/docs/乌合之众/第十一章 copy.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/12",
+  "permalink": "/docs/乌合之众/12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "12",
+    "sidebar_position": 12,
+    "title": "第十一章 刑事陪审团",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十章 犯罪群体",
+    "permalink": "/docs/乌合之众/11"
+  },
+  "next": {
+    "title": "第十一章 刑事陪审团",
+    "permalink": "/docs/乌合之众/12"
+  }
+}

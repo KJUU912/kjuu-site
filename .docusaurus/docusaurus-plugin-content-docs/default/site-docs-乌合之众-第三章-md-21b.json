@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/4",
+  "title": "第三章 群体的观念、推理与想象力",
+  "description": "群体的观念",
+  "source": "@site/docs/乌合之众/第三章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/4",
+  "permalink": "/docs/乌合之众/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "第三章 群体的观念、推理与想象力",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 群体的感情观和道德观",
+    "permalink": "/docs/乌合之众/3"
+  },
+  "next": {
+    "title": "第四章 群体采取的宗教信仰形式",
+    "permalink": "/docs/乌合之众/5"
+  }
+}

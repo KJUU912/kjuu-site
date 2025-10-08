@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/11",
+  "title": "第十章 犯罪群体",
+  "description": "被称为犯罪群体的群体",
+  "source": "@site/docs/乌合之众/第十章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/11",
+  "permalink": "/docs/乌合之众/11",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "11",
+    "sidebar_position": 11,
+    "title": "第十章 犯罪群体",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第九章 群体的分类",
+    "permalink": "/docs/乌合之众/10"
+  },
+  "next": {
+    "title": "第十一章 刑事陪审团",
+    "permalink": "/docs/乌合之众/12"
+  }
+}

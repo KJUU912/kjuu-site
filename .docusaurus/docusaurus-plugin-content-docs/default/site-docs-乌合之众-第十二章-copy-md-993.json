@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/13",
+  "title": "第十二章 选民群体",
+  "description": "选民群体(electoral crowd)是一种特殊的异质性群体，其行为范围虽然局限于“选择候选人”这一单一事件，但依然表现出群体心理的核心特征：轻信、易怒、推理力弱、感情支配决策。候选人要赢得他们的支持，关键在于声望与财富，而非理智或才干。选民不追求真理，只追随印象。能用断言、重复和传染技巧煽动情绪的演说家，往往能轻易征服他们。选民需要被取悦而非被教育，候选人越会迎合、许诺、侮辱对手，就越容易赢得掌声。理性纲领毫无意义，空洞口号与模糊词汇反而最有效——如“自由”“联邦”“正义”等，它们能让所有人自行解读、盲目认同。",
+  "source": "@site/docs/乌合之众/第十二章 copy.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/13",
+  "permalink": "/docs/乌合之众/13",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "id": "13",
+    "sidebar_position": 13,
+    "title": "第十二章 选民群体",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十一章 刑事陪审团",
+    "permalink": "/docs/乌合之众/12"
+  },
+  "next": {
+    "title": "第十二章 选民群体",
+    "permalink": "/docs/乌合之众/13"
+  }
+}

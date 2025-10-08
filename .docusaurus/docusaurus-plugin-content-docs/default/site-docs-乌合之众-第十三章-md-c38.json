@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/14",
+  "title": "第十三章 议会",
+  "description": "议会(parliament)是最典型的有名称的异质性群体。虽然成员在智力和地位上远超普通群众，但一旦汇入集体，仍会显现出群体心理特征：思维简单、感情夸张、易受暗示与领袖支配。议员们倾向以抽象口号解决复杂问题，在原则面前极端化，因而议会常成为极端意见的竞技场。对涉及地区利益的问题，他们固执己见、不可动摇；而在一般性问题上，则轻率、优柔寡断，容易随从党派领袖。议会的投票结果往往只反映少数领袖的意志，而非多数人的理性判断。",
+  "source": "@site/docs/乌合之众/第十三章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/14",
+  "permalink": "/docs/乌合之众/14",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "14",
+    "sidebar_position": 14,
+    "title": "第十三章 议会",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第十二章 选民群体",
+    "permalink": "/docs/乌合之众/13"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/我们为什么要睡觉/"
+  }
+}

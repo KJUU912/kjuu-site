@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/7",
+  "title": "第六章 群体意见和信念中的直接因素",
+  "description": "形象、词语和套话",
+  "source": "@site/docs/乌合之众/第六章 copy.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/7",
+  "permalink": "/docs/乌合之众/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "第六章 群体意见和信念中的直接因素",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第五章 群体意见和信念中的间接因素",
+    "permalink": "/docs/乌合之众/6"
+  },
+  "next": {
+    "title": "第六章 群体意见和信念中的直接因素",
+    "permalink": "/docs/乌合之众/7"
+  }
+}

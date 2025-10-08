@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/9",
+  "title": "第八章 群体的信念和意见的变化范围",
+  "description": "牢固的信念",
+  "source": "@site/docs/乌合之众/第八章 copy.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/9",
+  "permalink": "/docs/乌合之众/9",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "9",
+    "sidebar_position": 9,
+    "title": "第八章 群体的信念和意见的变化范围",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第七章 群体领袖及其说服的手法",
+    "permalink": "/docs/乌合之众/8"
+  },
+  "next": {
+    "title": "第八章 群体的信念和意见的变化范围",
+    "permalink": "/docs/乌合之众/9"
+  }
+}

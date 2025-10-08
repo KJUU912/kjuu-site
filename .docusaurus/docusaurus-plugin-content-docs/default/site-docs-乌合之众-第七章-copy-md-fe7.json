@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/8",
+  "title": "第七章 群体领袖及其说服的手法",
+  "description": "群体的领袖",
+  "source": "@site/docs/乌合之众/第七章 copy.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/8",
+  "permalink": "/docs/乌合之众/8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "8",
+    "sidebar_position": 8,
+    "title": "第七章 群体领袖及其说服的手法",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第六章 群体意见和信念中的直接因素",
+    "permalink": "/docs/乌合之众/7"
+  },
+  "next": {
+    "title": "第七章 群体领袖及其说服的手法",
+    "permalink": "/docs/乌合之众/8"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/1",
+  "title": "导论",
+  "description": "文明的进程从未真正摆脱血与火的洗礼。人类每一次社会变革似乎都在重复同一个悖论：理性推动的理想，却被非理性的力量裹挟。要理解这种困境，必须超越政治与制度的表层，从心理学角度审视历史。个体在群体中不再保持理性独立，而被卷入一种共有的精神漩涡。群体心理(mass psychology) 拥有独立于个体理性的运作规律，群体一旦形成，便产生新的心理特征——这正是解释革命、暴动乃至社会潮流的关键。",
+  "source": "@site/docs/乌合之众/导论.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/1",
+  "permalink": "/docs/乌合之众/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "导论",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/乌合之众/"
+  },
+  "next": {
+    "title": "第一章 群体的一般特征",
+    "permalink": "/docs/乌合之众/2"
+  }
+}

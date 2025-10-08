@@ -23,14 +23,14 @@ export default {
   },
   "themes": [],
   "plugins": [
-    "/Users/kjuu/Desktop/code/kjuu-site/node_modules/docusaurus-plugin-image-zoom/lib/index.js",
+    "C:\\Users\\victo\\Documents\\project\\kjuu-site\\node_modules\\docusaurus-plugin-image-zoom\\lib\\index.js",
     [
-      "/Users/kjuu/Desktop/code/kjuu-site/node_modules/@docusaurus/plugin-content-docs/lib/index.js",
+      "C:\\Users\\victo\\Documents\\project\\kjuu-site\\node_modules\\@docusaurus\\plugin-content-docs\\lib\\index.js",
       {
         "id": "ebook",
         "path": "ebook",
         "routeBasePath": "ebook",
-        "sidebarPath": "/Users/kjuu/Desktop/code/kjuu-site/sidebarsEbook.js",
+        "sidebarPath": "C:\\Users\\victo\\Documents\\project\\kjuu-site\\sidebarsEbook.js",
         "remarkPlugins": [
           null
         ],
@@ -48,12 +48,12 @@ export default {
       }
     ],
     [
-      "/Users/kjuu/Desktop/code/kjuu-site/node_modules/@docusaurus/plugin-content-docs/lib/index.js",
+      "C:\\Users\\victo\\Documents\\project\\kjuu-site\\node_modules\\@docusaurus\\plugin-content-docs\\lib\\index.js",
       {
         "id": "terminology",
         "path": "terminology",
         "routeBasePath": "terminology",
-        "sidebarPath": "/Users/kjuu/Desktop/code/kjuu-site/sidebarsTerm.js",
+        "sidebarPath": "C:\\Users\\victo\\Documents\\project\\kjuu-site\\sidebarsTerm.js",
         "remarkPlugins": [
           null
         ],

@@ -1,0 +1,29 @@
+{
+  "id": "乌合之众/10",
+  "title": "第九章 群体的分类",
+  "description": "异质性群体",
+  "source": "@site/docs/乌合之众/第九章.md",
+  "sourceDirName": "乌合之众",
+  "slug": "/乌合之众/10",
+  "permalink": "/docs/乌合之众/10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "10",
+    "sidebar_position": 10,
+    "title": "第九章 群体的分类",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第八章 群体的信念和意见的变化范围",
+    "permalink": "/docs/乌合之众/9"
+  },
+  "next": {
+    "title": "第十章 犯罪群体",
+    "permalink": "/docs/乌合之众/11"
+  }
+}
