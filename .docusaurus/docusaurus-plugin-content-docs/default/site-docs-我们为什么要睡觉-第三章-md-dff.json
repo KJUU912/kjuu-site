@@ -1,0 +1,29 @@
+{
+  "id": "我们为什么要睡觉/3",
+  "title": "03 睡眠的定义和形成",
+  "description": "睡眠的识别与时间感的扭曲",
+  "source": "@site/docs/我们为什么要睡觉/第三章.md",
+  "sourceDirName": "我们为什么要睡觉",
+  "slug": "/我们为什么要睡觉/3",
+  "permalink": "/docs/我们为什么要睡觉/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "03 睡眠的定义和形成",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "02 咖啡因、时差和褪黑激素",
+    "permalink": "/docs/我们为什么要睡觉/2"
+  },
+  "next": {
+    "title": "04 猿类的床、恐龙与半脑睡眠",
+    "permalink": "/docs/我们为什么要睡觉/4"
+  }
+}

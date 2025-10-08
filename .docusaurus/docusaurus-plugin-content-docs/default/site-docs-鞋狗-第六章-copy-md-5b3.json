@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/7",
+  "title": "1967 蓝带挺进东岸",
+  "description": "东海岸困境与约翰逊的“叛变”",
+  "source": "@site/docs/鞋狗/第六章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/7",
+  "permalink": "/docs/鞋狗/7",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "7",
+    "sidebar_position": 7,
+    "title": "1967 蓝带挺进东岸",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1966 天字第一号业务员",
+    "permalink": "/docs/鞋狗/6"
+  },
+  "next": {
+    "title": "1967 蓝带挺进东岸",
+    "permalink": "/docs/鞋狗/7"
+  }
+}

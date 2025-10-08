@@ -1,0 +1,29 @@
+{
+  "id": "客户说 copy/8",
+  "title": "第八章 再接再厉，合作双赢",
+  "description": "斯特吉斯公司成功转型，引起猎头、同行及客户的广泛关注。CEO杰克受邀出任另一家公司董事，并首次参加客户峰会。在会上，多位客户坦诚提出期望：供应商不仅要帮忙节约成本，更要懂行业、懂业务，能提出推动增长的具体建议；在跨部门协作、快速响应和信守承诺方面要持续保持优势。拜伦善于把批评转化为改进举措，既展现诚意，也深化了客户关系。",
+  "source": "@site/docs/客户说 copy/第八章.md",
+  "sourceDirName": "客户说 copy",
+  "slug": "/客户说 copy/8",
+  "permalink": "/docs/客户说 copy/8",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "8",
+    "sidebar_position": 8,
+    "title": "第八章 再接再厉，合作双赢",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第七章 持续推进，锁定客户",
+    "permalink": "/docs/客户说 copy/7"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/客户说 copy/"
+  }
+}

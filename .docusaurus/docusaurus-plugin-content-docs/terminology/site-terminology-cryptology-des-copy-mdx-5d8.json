@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/DES copy",
+  "title": "DES copy",
+  "description": "DES（Data Encryption Standard，数据加密标准）是一种经典的分组对称加密算法，专为保护电子数据而设计。它在1970年代由IBM研制，并成为国际标准，广泛应用于金融和信息安全领域。",
+  "source": "@site/terminology/cryptology/DES copy.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/DES copy",
+  "permalink": "/terminology/cryptology/DES copy",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "AES",
+    "permalink": "/terminology/cryptology/AES"
+  },
+  "next": {
+    "title": "DES",
+    "permalink": "/terminology/cryptology/DES"
+  }
+}

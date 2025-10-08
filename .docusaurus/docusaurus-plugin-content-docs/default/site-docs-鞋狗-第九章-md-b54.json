@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/10",
+  "title": "1970 现金!现金!现金!",
+  "description": "鬼冢续约与资金危机",
+  "source": "@site/docs/鞋狗/第九章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/10",
+  "permalink": "/docs/鞋狗/10",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "id": "10",
+    "sidebar_position": 10,
+    "title": "1970 现金!现金!现金!",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1969 寻找更大的办公室",
+    "permalink": "/docs/鞋狗/9"
+  },
+  "next": {
+    "title": "1971 我们需要一个标志",
+    "permalink": "/docs/鞋狗/11"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/21",
+  "title": "上市",
+  "description": "上市突围",
+  "source": "@site/docs/鞋狗/第二十章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/21",
+  "permalink": "/docs/鞋狗/21",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 21,
+  "frontMatter": {
+    "id": "21",
+    "sidebar_position": 21,
+    "title": "上市",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1979 第一家耐克城",
+    "permalink": "/docs/鞋狗/20"
+  },
+  "next": {
+    "title": "上市",
+    "permalink": "/docs/鞋狗/21"
+  }
+}

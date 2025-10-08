@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/19",
+  "title": "1978 不要在一双鞋子里塞进十二种创新",
+  "description": "荒唐的玩笑",
+  "source": "@site/docs/鞋狗/第十八章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/19",
+  "permalink": "/docs/鞋狗/19",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 19,
+  "frontMatter": {
+    "id": "19",
+    "sidebar_position": 19,
+    "title": "1978 不要在一双鞋子里塞进十二种创新",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1977 永无止境",
+    "permalink": "/docs/鞋狗/18"
+  },
+  "next": {
+    "title": "1978 不要在一双鞋子里塞进十二种创新",
+    "permalink": "/docs/鞋狗/19"
+  }
+}

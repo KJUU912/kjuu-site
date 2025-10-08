@@ -1,0 +1,25 @@
+{
+  "id": "泡沫逃生 copy/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/copy.png\" alt=\"封面图\"",
+  "source": "@site/docs/泡沫逃生 copy/README.md",
+  "sourceDirName": "泡沫逃生 copy",
+  "slug": "/泡沫逃生 copy/",
+  "permalink": "/docs/泡沫逃生 copy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第二章 异军突起：美国铁路的故事",
+    "permalink": "/docs/泡沫逃生 copy/2"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/客户说/"
+  }
+}

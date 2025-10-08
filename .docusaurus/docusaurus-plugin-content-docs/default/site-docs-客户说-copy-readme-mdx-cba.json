@@ -1,0 +1,25 @@
+{
+  "id": "客户说 copy/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/202509040140424.jpg\" alt=\"封面图\"",
+  "source": "@site/docs/客户说 copy/README.mdx",
+  "sourceDirName": "客户说 copy",
+  "slug": "/客户说 copy/",
+  "permalink": "/docs/客户说 copy/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第八章 再接再厉，合作双赢",
+    "permalink": "/docs/客户说 copy/8"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/成瘾的深渊/"
+  }
+}

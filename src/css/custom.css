@@ -23,6 +23,10 @@
   --ifm-link-color: #19a395;
   --ifm-menu-color-active: #19a395;
   --ifm-breadcrumb-color-active: #19a395;
+  --ifm-hr-margin-vertical: 0.75rem !important; /* 调整分割线的上下间距 */
+  strong {
+    color: #24776f; /* 加粗文字颜色 */
+  };
 }
 
 [data-theme='dark'] {
@@ -35,6 +39,9 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-footer-background-color: #343434 !important;
+  strong {
+    color: #68ddd1; /* 加粗文字颜色 */
+  }
 }
 
 [data-theme-choice='light'] svg,
@@ -84,6 +91,17 @@
   height: 20px;
   margin-right: 0.5em;
   background: url('/img/chatpdf.png') no-repeat center center;
+  background-size: contain;
+}
+
+.flourish a::before {
+  content: '';
+  display: inline-block;
+  vertical-align: middle;
+  width: 20px;
+  height: 20px;
+  margin-right: 0.5em;
+  background: url('/img/flourish.png') no-repeat center center;
   background-size: contain;
 }
 
@@ -183,4 +201,8 @@ div.remark-auto-glossary-term-details[itemtype*="DefinedTerm"] div.more-details 
 
 .author-as-h1_n9oJ .authorTitle_nd0D {
   font-size: 1rem !important;
+}
+
+.markdown {
+  --ifm-h2-vertical-rhythm-top: 3.5 !important;
 }

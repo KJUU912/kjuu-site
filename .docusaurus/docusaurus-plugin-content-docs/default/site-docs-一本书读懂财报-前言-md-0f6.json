@@ -1,0 +1,29 @@
+{
+  "id": "一本书读懂财报/1",
+  "title": "前言：会计是什么",
+  "description": "一开始，会计被定义为一门科学：精确、一丝不苟，任何差错都不能被接受。后来，另一位老师却强调会计是一门艺术：不仅要精确计算，还要在会计准则范围内作出判断和选择，用财务数据描绘企业的图景。",
+  "source": "@site/docs/一本书读懂财报/前言.md",
+  "sourceDirName": "一本书读懂财报",
+  "slug": "/一本书读懂财报/1",
+  "permalink": "/docs/一本书读懂财报/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "前言：会计是什么",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/一本书读懂财报/"
+  },
+  "next": {
+    "title": "第一章 资产负债表：企业的照相机",
+    "permalink": "/docs/一本书读懂财报/2"
+  }
+}

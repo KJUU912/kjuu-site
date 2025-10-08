@@ -1,0 +1,25 @@
+{
+  "id": "一本书读懂财报/README",
+  "title": "README",
+  "description": "<img src=\"https://static.kjuu.cc/tana/copy.png\" alt=\"封面图\"",
+  "source": "@site/docs/一本书读懂财报/README.md",
+  "sourceDirName": "一本书读懂财报",
+  "slug": "/一本书读懂财报/",
+  "permalink": "/docs/一本书读懂财报/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第四章 罪犯都去哪儿了",
+    "permalink": "/docs/魔鬼经济学1/5"
+  },
+  "next": {
+    "title": "前言：会计是什么",
+    "permalink": "/docs/一本书读懂财报/1"
+  }
+}

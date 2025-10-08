@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"KJUU","title":"When it\'s my time, I\'ll know","imageURL":"https://static.kjuu.cc/image/%E5%A4%B4%E5%83%8F.png","key":"kejia","page":null,"count":1}]}')}}]);

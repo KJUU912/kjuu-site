@@ -16,6 +16,26 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "一本书读懂财报/1",
+              "path": "/docs/一本书读懂财报/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "一本书读懂财报/2",
+              "path": "/docs/一本书读懂财报/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "一本书读懂财报/3",
+              "path": "/docs/一本书读懂财报/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "一本书读懂财报/README",
+              "path": "/docs/一本书读懂财报/",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "大模型浪潮/README",
               "path": "/docs/大模型浪潮/",
               "sidebar": "bookSidebar"
@@ -391,6 +411,31 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "我们为什么要睡觉/1",
+              "path": "/docs/我们为什么要睡觉/1",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/2",
+              "path": "/docs/我们为什么要睡觉/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/3",
+              "path": "/docs/我们为什么要睡觉/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/4",
+              "path": "/docs/我们为什么要睡觉/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "我们为什么要睡觉/README",
+              "path": "/docs/我们为什么要睡觉/",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "止损/1",
               "path": "/docs/止损/1",
               "sidebar": "bookSidebar"
@@ -731,6 +776,116 @@
               "sidebar": "bookSidebar"
             },
             {
+              "id": "鞋狗/10",
+              "path": "/docs/鞋狗/10",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/11",
+              "path": "/docs/鞋狗/11",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/12",
+              "path": "/docs/鞋狗/12",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/13",
+              "path": "/docs/鞋狗/13",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/14",
+              "path": "/docs/鞋狗/14",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/15",
+              "path": "/docs/鞋狗/15",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/16",
+              "path": "/docs/鞋狗/16",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/17",
+              "path": "/docs/鞋狗/17",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/18",
+              "path": "/docs/鞋狗/18",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/19",
+              "path": "/docs/鞋狗/19",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/2",
+              "path": "/docs/鞋狗/2",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/20",
+              "path": "/docs/鞋狗/20",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/21",
+              "path": "/docs/鞋狗/21",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/22",
+              "path": "/docs/鞋狗/22",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/3",
+              "path": "/docs/鞋狗/3",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/4",
+              "path": "/docs/鞋狗/4",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/5",
+              "path": "/docs/鞋狗/5",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/6",
+              "path": "/docs/鞋狗/6",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/7",
+              "path": "/docs/鞋狗/7",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/8",
+              "path": "/docs/鞋狗/8",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/9",
+              "path": "/docs/鞋狗/9",
+              "sidebar": "bookSidebar"
+            },
+            {
+              "id": "鞋狗/README",
+              "path": "/docs/鞋狗/",
+              "sidebar": "bookSidebar"
+            },
+            {
               "id": "魔鬼经济学1/1",
               "path": "/docs/魔鬼经济学1/1",
               "sidebar": "bookSidebar"
@@ -785,8 +940,13 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "AI应用/ChatPDF",
-              "path": "/ebook/AI应用/ChatPDF",
+              "id": "ChatPDF",
+              "path": "/ebook/ChatPDF",
+              "sidebar": "ebookSidebar"
+            },
+            {
+              "id": "Flourish",
+              "path": "/ebook/Flourish",
               "sidebar": "ebookSidebar"
             },
             {
@@ -819,6 +979,11 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "cryptology/AES",
+              "path": "/terminology/cryptology/AES",
+              "sidebar": "termSidebar"
+            },
+            {
               "id": "cryptology/DES",
               "path": "/terminology/cryptology/DES",
               "sidebar": "termSidebar"
@@ -846,6 +1011,11 @@
             {
               "id": "cryptology/凯撒密码",
               "path": "/terminology/cryptology/凯撒密码",
+              "sidebar": "termSidebar"
+            },
+            {
+              "id": "cryptology/分组算法",
+              "path": "/terminology/cryptology/分组算法",
               "sidebar": "termSidebar"
             },
             {

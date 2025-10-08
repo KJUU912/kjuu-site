@@ -4,10 +4,22 @@
         <title>Welcome Blog</title>
         <link>https://your-docusaurus-site.example.com/blog</link>
         <description>Welcome Blog</description>
-        <lastBuildDate>Fri, 19 Sep 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[September 21]]></title>
+            <link>https://your-docusaurus-site.example.com/blog/update 921</link>
+            <guid>https://your-docusaurus-site.example.com/blog/update 921</guid>
+            <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[- 读完书籍：鞋狗]]></description>
+            <content:encoded><![CDATA[<ul>
+<li>读完书籍：<a href="https://your-docusaurus-site.example.com/docs/%E9%9E%8B%E7%8B%97">鞋狗</a></li>
+<li>增加App使用体验：<a href="https://your-docusaurus-site.example.com/ebook/Flourish">Flourish</a></li>
+</ul>]]></content:encoded>
+            <category>changelog</category>
+        </item>
         <item>
             <title><![CDATA[September 19]]></title>
             <link>https://your-docusaurus-site.example.com/blog/update 919</link>

@@ -1,0 +1,25 @@
+{
+  "id": "鞋狗/README",
+  "title": "README",
+  "description": "《鞋狗》是耐克创始人菲尔·奈特的亲笔自传，真实再现了耐克从无到有的创业历程。菲尔·奈特以朴实、幽默的语言，叙述了自己作为一个普通的俄勒冈州人，因热爱跑步而投身于跑鞋销售，从50美元起步，带领一支性格各异的团队，历经银行拒贷、资金短缺、合作伙伴背叛等重重考验，最终缔造出闻名世界的运动品牌。",
+  "source": "@site/docs/鞋狗/README.mdx",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/",
+  "permalink": "/docs/鞋狗/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "04 猿类的床、恐龙与半脑睡眠",
+    "permalink": "/docs/我们为什么要睡觉/4"
+  },
+  "next": {
+    "title": "1962 一个疯狂的想法",
+    "permalink": "/docs/鞋狗/2"
+  }
+}

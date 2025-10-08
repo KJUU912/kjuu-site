@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/17",
+  "title": "1976 “恶棍”会议",
+  "description": "从蓝带到耐克股份有限公司",
+  "source": "@site/docs/鞋狗/第十六章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/17",
+  "permalink": "/docs/鞋狗/17",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 17,
+  "frontMatter": {
+    "id": "17",
+    "sidebar_position": 17,
+    "title": "1976 “恶棍”会议",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1975 巨星陨落",
+    "permalink": "/docs/鞋狗/16"
+  },
+  "next": {
+    "title": "1977 永无止境",
+    "permalink": "/docs/鞋狗/18"
+  }
+}

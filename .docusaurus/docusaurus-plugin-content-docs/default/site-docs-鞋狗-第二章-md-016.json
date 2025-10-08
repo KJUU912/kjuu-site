@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/3",
+  "title": "1963 漫长的等待",
+  "description": "回国后的落差与现实的拉扯",
+  "source": "@site/docs/鞋狗/第二章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/3",
+  "permalink": "/docs/鞋狗/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "1963 漫长的等待",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1962 一个疯狂的想法",
+    "permalink": "/docs/鞋狗/2"
+  },
+  "next": {
+    "title": "1964 第一位合伙人，第一位员工",
+    "permalink": "/docs/鞋狗/4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/AES",
+  "title": "AES",
+  "description": "高级加密标准（Advanced Encryption Standard, AES）是一种广泛使用的对称密钥加密算法，旨在保护电子数据的机密性。AES由美国国家标准与技术研究院（NIST）于2001年正式采纳，取代了之前的DES算法，成为新的加密标准。AES基于Rijndael算法，由比利时密码学家Joan Daemen和Vincent Rijmen设计。",
+  "source": "@site/terminology/cryptology/AES.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/AES",
+  "permalink": "/terminology/cryptology/AES",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/terminology/cryptology/"
+  },
+  "next": {
+    "title": "DES",
+    "permalink": "/terminology/cryptology/DES"
+  }
+}

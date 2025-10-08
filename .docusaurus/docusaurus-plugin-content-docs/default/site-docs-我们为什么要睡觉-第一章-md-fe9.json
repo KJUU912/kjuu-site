@@ -1,0 +1,29 @@
+{
+  "id": "我们为什么要睡觉/1",
+  "title": "01 睡吧",
+  "description": "睡眠的重要性与现状",
+  "source": "@site/docs/我们为什么要睡觉/第一章.md",
+  "sourceDirName": "我们为什么要睡觉",
+  "slug": "/我们为什么要睡觉/1",
+  "permalink": "/docs/我们为什么要睡觉/1",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "1",
+    "sidebar_position": 1,
+    "title": "01 睡吧",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/docs/我们为什么要睡觉/"
+  },
+  "next": {
+    "title": "02 咖啡因、时差和褪黑激素",
+    "permalink": "/docs/我们为什么要睡觉/2"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "鞋狗/11",
+  "title": "1971 我们需要一个标志",
+  "description": "",
+  "source": "@site/docs/鞋狗/第九章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/11",
+  "permalink": "/docs/鞋狗/11",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "id": "11",
+    "sidebar_position": 11,
+    "title": "1971 我们需要一个标志",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1970 现金!现金!现金!",
+    "permalink": "/docs/鞋狗/10"
+  }
+}

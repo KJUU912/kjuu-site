@@ -1,0 +1,29 @@
+{
+  "id": "我们为什么要睡觉/4",
+  "title": "04 猿类的床、恐龙与半脑睡眠",
+  "description": "睡眠的进化意义",
+  "source": "@site/docs/我们为什么要睡觉/第四章.md",
+  "sourceDirName": "我们为什么要睡觉",
+  "slug": "/我们为什么要睡觉/4",
+  "permalink": "/docs/我们为什么要睡觉/4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "4",
+    "sidebar_position": 4,
+    "title": "04 猿类的床、恐龙与半脑睡眠",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "03 睡眠的定义和形成",
+    "permalink": "/docs/我们为什么要睡觉/3"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/鞋狗/"
+  }
+}

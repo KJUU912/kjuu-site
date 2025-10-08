@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-site.example.com/blog</id>
     <title>Welcome Blog</title>
-    <updated>2025-09-19T00:00:00.000Z</updated>
+    <updated>2025-09-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-site.example.com/blog"/>
     <subtitle>Welcome Blog</subtitle>
     <icon>https://your-docusaurus-site.example.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[September 21]]></title>
+        <id>https://your-docusaurus-site.example.com/blog/update 921</id>
+        <link href="https://your-docusaurus-site.example.com/blog/update 921"/>
+        <updated>2025-09-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- 读完书籍：鞋狗]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li>读完书籍：<a href="https://your-docusaurus-site.example.com/docs/%E9%9E%8B%E7%8B%97">鞋狗</a></li>
+<li>增加App使用体验：<a href="https://your-docusaurus-site.example.com/ebook/Flourish">Flourish</a></li>
+</ul>]]></content>
+        <author>
+            <name>KJUU</name>
+        </author>
+        <category label="changelog" term="changelog"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 19]]></title>
         <id>https://your-docusaurus-site.example.com/blog/update 919</id>

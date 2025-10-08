@@ -3,8 +3,43 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
-    component: ComponentCreator('/blog', '0f4'),
+    component: ComponentCreator('/blog', 'bf8'),
     exact: true
   },
   {
@@ -24,12 +59,17 @@ export default [
   },
   {
     path: '/blog/tags/changelog',
-    component: ComponentCreator('/blog/tags/changelog', '5d4'),
+    component: ComponentCreator('/blog/tags/changelog', '83c'),
     exact: true
   },
   {
     path: '/blog/update 919',
     component: ComponentCreator('/blog/update 919', 'a2d'),
+    exact: true
+  },
+  {
+    path: '/blog/update 921',
+    component: ComponentCreator('/blog/update 921', 'df0'),
     exact: true
   },
   {
@@ -39,15 +79,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '521'),
+    component: ComponentCreator('/docs', '73c'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'b50'),
+        component: ComponentCreator('/docs', '98a'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'b8d'),
+            component: ComponentCreator('/docs', 'fa9'),
             routes: [
               {
                 path: '/docs/',
@@ -58,6 +98,30 @@ export default [
               {
                 path: '/docs/intro',
                 component: ComponentCreator('/docs/intro', 'cda'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/一本书读懂财报/',
+                component: ComponentCreator('/docs/一本书读懂财报/', 'd0e'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/一本书读懂财报/1',
+                component: ComponentCreator('/docs/一本书读懂财报/1', 'b93'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/一本书读懂财报/2',
+                component: ComponentCreator('/docs/一本书读懂财报/2', '42c'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/一本书读懂财报/3',
+                component: ComponentCreator('/docs/一本书读懂财报/3', 'a2a'),
                 exact: true,
                 sidebar: "bookSidebar"
               },
@@ -512,6 +576,36 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/我们为什么要睡觉/',
+                component: ComponentCreator('/docs/我们为什么要睡觉/', 'd55'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/我们为什么要睡觉/1',
+                component: ComponentCreator('/docs/我们为什么要睡觉/1', '688'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/我们为什么要睡觉/2',
+                component: ComponentCreator('/docs/我们为什么要睡觉/2', '6a9'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/我们为什么要睡觉/3',
+                component: ComponentCreator('/docs/我们为什么要睡觉/3', 'e5a'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/我们为什么要睡觉/4',
+                component: ComponentCreator('/docs/我们为什么要睡觉/4', '58e'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/止损/',
                 component: ComponentCreator('/docs/止损/', '3f4'),
                 exact: true,
@@ -914,6 +1008,138 @@ export default [
                 sidebar: "bookSidebar"
               },
               {
+                path: '/docs/鞋狗/',
+                component: ComponentCreator('/docs/鞋狗/', '4f6'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/10',
+                component: ComponentCreator('/docs/鞋狗/10', '426'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/11',
+                component: ComponentCreator('/docs/鞋狗/11', 'c5a'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/12',
+                component: ComponentCreator('/docs/鞋狗/12', '3a5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/13',
+                component: ComponentCreator('/docs/鞋狗/13', '4aa'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/14',
+                component: ComponentCreator('/docs/鞋狗/14', '81f'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/15',
+                component: ComponentCreator('/docs/鞋狗/15', '0a0'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/16',
+                component: ComponentCreator('/docs/鞋狗/16', '1a5'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/17',
+                component: ComponentCreator('/docs/鞋狗/17', 'ae4'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/18',
+                component: ComponentCreator('/docs/鞋狗/18', '3fe'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/19',
+                component: ComponentCreator('/docs/鞋狗/19', '308'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/2',
+                component: ComponentCreator('/docs/鞋狗/2', '226'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/20',
+                component: ComponentCreator('/docs/鞋狗/20', 'ccc'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/21',
+                component: ComponentCreator('/docs/鞋狗/21', 'a5f'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/22',
+                component: ComponentCreator('/docs/鞋狗/22', '660'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/3',
+                component: ComponentCreator('/docs/鞋狗/3', 'dfa'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/4',
+                component: ComponentCreator('/docs/鞋狗/4', 'abf'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/5',
+                component: ComponentCreator('/docs/鞋狗/5', '1d6'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/6',
+                component: ComponentCreator('/docs/鞋狗/6', '72b'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/7',
+                component: ComponentCreator('/docs/鞋狗/7', 'f84'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/8',
+                component: ComponentCreator('/docs/鞋狗/8', 'c04'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
+                path: '/docs/鞋狗/9',
+                component: ComponentCreator('/docs/鞋狗/9', '749'),
+                exact: true,
+                sidebar: "bookSidebar"
+              },
+              {
                 path: '/docs/魔鬼经济学1/',
                 component: ComponentCreator('/docs/魔鬼经济学1/', '99c'),
                 exact: true,
@@ -957,19 +1183,25 @@ export default [
   },
   {
     path: '/ebook',
-    component: ComponentCreator('/ebook', '22c'),
+    component: ComponentCreator('/ebook', '422'),
     routes: [
       {
         path: '/ebook',
-        component: ComponentCreator('/ebook', 'f57'),
+        component: ComponentCreator('/ebook', '14f'),
         routes: [
           {
             path: '/ebook',
-            component: ComponentCreator('/ebook', '946'),
+            component: ComponentCreator('/ebook', '39c'),
             routes: [
               {
-                path: '/ebook/AI应用/ChatPDF',
-                component: ComponentCreator('/ebook/AI应用/ChatPDF', 'df9'),
+                path: '/ebook/ChatPDF',
+                component: ComponentCreator('/ebook/ChatPDF', 'ade'),
+                exact: true,
+                sidebar: "ebookSidebar"
+              },
+              {
+                path: '/ebook/Flourish',
+                component: ComponentCreator('/ebook/Flourish', '433'),
                 exact: true,
                 sidebar: "ebookSidebar"
               },
@@ -987,19 +1219,25 @@ export default [
   },
   {
     path: '/terminology',
-    component: ComponentCreator('/terminology', 'd1b'),
+    component: ComponentCreator('/terminology', '07f'),
     routes: [
       {
         path: '/terminology',
-        component: ComponentCreator('/terminology', 'f60'),
+        component: ComponentCreator('/terminology', '564'),
         routes: [
           {
             path: '/terminology',
-            component: ComponentCreator('/terminology', 'd4b'),
+            component: ComponentCreator('/terminology', '921'),
             routes: [
               {
                 path: '/terminology/cryptology/',
                 component: ComponentCreator('/terminology/cryptology/', '740'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/AES',
+                component: ComponentCreator('/terminology/cryptology/AES', '38c'),
                 exact: true,
                 sidebar: "termSidebar"
               },
@@ -1030,6 +1268,12 @@ export default [
               {
                 path: '/terminology/cryptology/凯撒密码',
                 component: ComponentCreator('/terminology/cryptology/凯撒密码', 'bea'),
+                exact: true,
+                sidebar: "termSidebar"
+              },
+              {
+                path: '/terminology/cryptology/分组算法',
+                component: ComponentCreator('/terminology/cryptology/分组算法', '1cc'),
                 exact: true,
                 sidebar: "termSidebar"
               },

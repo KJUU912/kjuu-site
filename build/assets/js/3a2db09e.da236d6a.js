@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"changelog","permalink":"/blog/tags/changelog","description":"Changelog for KJUU\'s site","count":1}]}')}}]);

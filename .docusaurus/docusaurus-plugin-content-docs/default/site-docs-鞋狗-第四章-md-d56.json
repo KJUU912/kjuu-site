@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/5",
+  "title": "1965 脆弱的蓝带",
+  "description": "蓝带的第二位支柱",
+  "source": "@site/docs/鞋狗/第四章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/5",
+  "permalink": "/docs/鞋狗/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "1965 脆弱的蓝带",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1964 第一位合伙人，第一位员工",
+    "permalink": "/docs/鞋狗/4"
+  },
+  "next": {
+    "title": "1966 天字第一号业务员",
+    "permalink": "/docs/鞋狗/6"
+  }
+}

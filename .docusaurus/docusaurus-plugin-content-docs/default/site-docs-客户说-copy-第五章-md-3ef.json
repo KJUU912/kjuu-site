@@ -1,0 +1,29 @@
+{
+  "id": "客户说 copy/5",
+  "title": "第五章 销售转型，人才为先",
+  "description": "TL;DR",
+  "source": "@site/docs/客户说 copy/第五章.md",
+  "sourceDirName": "客户说 copy",
+  "slug": "/客户说 copy/5",
+  "permalink": "/docs/客户说 copy/5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "5",
+    "sidebar_position": 5,
+    "title": "第五章 销售转型，人才为先",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第四章 创造价值，服务客户",
+    "permalink": "/docs/客户说 copy/4"
+  },
+  "next": {
+    "title": "第六章 学以致用，获取订单",
+    "permalink": "/docs/客户说 copy/6"
+  }
+}

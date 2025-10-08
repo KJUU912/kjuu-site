@@ -1,0 +1,29 @@
+{
+  "id": "一本书读懂财报/3",
+  "title": "第二章 利润表：企业的摄像机",
+  "description": "获取利润的第一步是什么",
+  "source": "@site/docs/一本书读懂财报/第二章.md",
+  "sourceDirName": "一本书读懂财报",
+  "slug": "/一本书读懂财报/3",
+  "permalink": "/docs/一本书读懂财报/3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "3",
+    "sidebar_position": 3,
+    "title": "第二章 利润表：企业的摄像机",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "第一章 资产负债表：企业的照相机",
+    "permalink": "/docs/一本书读懂财报/2"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/docs/我们为什么要睡觉/"
+  }
+}

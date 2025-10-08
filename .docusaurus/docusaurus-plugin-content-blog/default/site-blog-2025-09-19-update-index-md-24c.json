@@ -34,5 +34,9 @@
     ],
     "hide_title": true
   },
-  "unlisted": false
+  "unlisted": false,
+  "prevItem": {
+    "title": "September 21",
+    "permalink": "/blog/update 921"
+  }
 }

@@ -1,0 +1,25 @@
+{
+  "id": "鞋狗/22",
+  "title": "结语",
+  "description": "永远不要停止",
+  "source": "@site/docs/鞋狗/结语.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/22",
+  "permalink": "/docs/鞋狗/22",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 22,
+  "frontMatter": {
+    "id": "22",
+    "sidebar_position": 22,
+    "title": "结语",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1980 上市",
+    "permalink": "/docs/鞋狗/21"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/update 921",
+  "source": "@site/blog/2025-09-21-update/index.md",
+  "title": "September 21",
+  "description": "- 读完书籍：鞋狗",
+  "date": "2025-09-21T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "changelog",
+      "permalink": "/blog/tags/changelog",
+      "description": "Changelog for KJUU's site"
+    }
+  ],
+  "readingTime": 0.08,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "KJUU",
+      "title": "When it's my time, I'll know",
+      "imageURL": "https://static.kjuu.cc/image/%E5%A4%B4%E5%83%8F.png",
+      "key": "kejia",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "update 921",
+    "title": "September 21",
+    "authors": [
+      "kejia"
+    ],
+    "tags": [
+      "changelog"
+    ],
+    "hide_title": true
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "September 19",
+    "permalink": "/blog/update 919"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "鞋狗/12",
+  "title": "1972 耐克的诞生",
+  "description": "",
+  "source": "@site/docs/鞋狗/第十章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/12",
+  "permalink": "/docs/鞋狗/12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "12",
+    "sidebar_position": 12,
+    "title": "1972 耐克的诞生",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1971 我们需要一个标志",
+    "permalink": "/docs/鞋狗/11"
+  }
+}

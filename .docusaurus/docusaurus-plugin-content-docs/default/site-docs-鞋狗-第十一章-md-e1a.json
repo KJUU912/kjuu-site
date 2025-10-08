@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/12",
+  "title": "1972 耐克的诞生",
+  "description": "芝加哥首秀",
+  "source": "@site/docs/鞋狗/第十一章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/12",
+  "permalink": "/docs/鞋狗/12",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "id": "12",
+    "sidebar_position": 12,
+    "title": "1972 耐克的诞生",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1971 我们需要一个标志",
+    "permalink": "/docs/鞋狗/11"
+  },
+  "next": {
+    "title": "1973 要么飞奔,要么死去",
+    "permalink": "/docs/鞋狗/13"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "permalink": "/blog/update 919",
+  "source": "@site/blog/2025-09-19-update copy/index.md",
+  "title": "September 19",
+  "description": "增加新模块：概念图谱（Concept Atlas）",
+  "date": "2025-09-19T00:00:00.000Z",
+  "tags": [
+    {
+      "inline": false,
+      "label": "changelog",
+      "permalink": "/blog/tags/changelog",
+      "description": "Changelog for KJUU's site"
+    }
+  ],
+  "readingTime": 0.26,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "KJUU",
+      "title": "When it's my time, I'll know",
+      "imageURL": "https://static.kjuu.cc/image/%E5%A4%B4%E5%83%8F.png",
+      "key": "kejia",
+      "page": null
+    }
+  ],
+  "frontMatter": {
+    "slug": "update 919",
+    "title": "September 19",
+    "authors": [
+      "kejia"
+    ],
+    "tags": [
+      "changelog"
+    ],
+    "hide_title": true
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "September 19",
+    "permalink": "/blog/update 919"
+  }
+}

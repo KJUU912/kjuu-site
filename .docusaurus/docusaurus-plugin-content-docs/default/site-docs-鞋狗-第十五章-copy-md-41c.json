@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/16",
+  "title": "1975 巨星陨落",
+  "description": "再见，普雷方丹",
+  "source": "@site/docs/鞋狗/第十五章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/16",
+  "permalink": "/docs/鞋狗/16",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 16,
+  "frontMatter": {
+    "id": "16",
+    "sidebar_position": 16,
+    "title": "1975 巨星陨落",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1975 银行把我们踢出来了",
+    "permalink": "/docs/鞋狗/15"
+  },
+  "next": {
+    "title": "1975 巨星陨落",
+    "permalink": "/docs/鞋狗/16"
+  }
+}

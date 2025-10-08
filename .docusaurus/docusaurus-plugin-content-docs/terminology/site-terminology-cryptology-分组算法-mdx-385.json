@@ -1,0 +1,23 @@
+{
+  "id": "cryptology/分组算法",
+  "title": "分组算法",
+  "description": "分组密码（Block Cipher）是一种常用的对称加密算法，把原始数据（明文）分为等长的小块（分组），然后在同一密钥控制下，用固定的算法依次对每一个分组进行加密和解密操作。",
+  "source": "@site/terminology/cryptology/分组算法.mdx",
+  "sourceDirName": "cryptology",
+  "slug": "/cryptology/分组算法",
+  "permalink": "/terminology/cryptology/分组算法",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "termSidebar",
+  "previous": {
+    "title": "凯撒密码",
+    "permalink": "/terminology/cryptology/凯撒密码"
+  },
+  "next": {
+    "title": "哈希函数",
+    "permalink": "/terminology/cryptology/哈希函数"
+  }
+}

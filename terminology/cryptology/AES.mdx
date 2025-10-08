@@ -1,0 +1,51 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+:::info[Definition]
+
+<Tabs>
+<TabItem value="a" label="定义">
+高级加密标准（Advanced Encryption Standard, AES）是一种广泛使用的对称密钥加密算法，旨在保护电子数据的机密性。AES由美国国家标准与技术研究院（NIST）于2001年正式采纳，取代了之前的DES算法，成为新的加密标准。AES基于Rijndael算法，由比利时密码学家Joan Daemen和Vincent Rijmen设计。
+
+AES算法实际上采用了“代换-置换网络”（Substitution–Permutation Network，简称SPN）结构，这是一种理论上与Feistel网络并列的重要分组加密算法设计架构。
+</TabItem>
+<TabItem value="b" label="加密流程">
+AES的加密过程包括以下主要步骤（以AES-128为例，10轮加密）：
+- 加初始轮密钥（AddRoundKey）
+    - 明文与初始密钥异或，完成最初状态。
+- 前9轮，每轮包括4步：
+    - 字节替换（SubBytes）：用S盒对每个字节替换，实现非线性混淆。
+    - 行移位（ShiftRows）：行内字节循环左移，提升扩散效果。
+    - 列混淆（MixColumns）：每列用矩阵乘法混淆，进一步扩散。
+    - 加轮密钥（AddRoundKey）：本轮轮密钥与矩阵异或。
+- 最后1轮（第10轮，仅前3步）
+    - 字节替换
+    - 行移位
+    - 加轮密钥（不做列混淆）。
+- 得到密文输出
+</TabItem>
+<TabItem value="c" label="解密流程">
+解密流程与加密反向进行，每步操作都用逆过程：
+- 加最后轮密钥（AddRoundKey）
+    - 密文与最后轮密钥异或。
+- 前9轮，每轮包括4步（逆序操作）：
+    - 逆行移位（InvShiftRows）：恢复加密时字节位移的操作。
+    - 逆字节替换（InvSubBytes）：用逆S盒还原原始字节。
+    - 加轮密钥（AddRoundKey）：对应加密时本轮轮密钥异或。
+    - 逆列混淆（InvMixColumns）：还原列混淆之前的状态。
+- 最后1轮（第1轮，仅前3步）
+    - 逆行移位
+    - 逆字节替换
+    - 加初始密钥
+- 还原出明文
+</TabItem>
+<TabItem value="e" label="特点与安全性">
+- 属于“块加密”与“对称密钥”体系，每次处理128位数据块，加密和解密用的是同一个密钥。
+- 支持128位、192位、256位三种密钥长度，密钥越长安全性越高，常用128位密钥就能满足绝大多数安全需求。
+- 算法高效，适合在软硬件平台中广泛部署，速度快、资源消耗低，满足大规模数据加密需求。
+- 安全性极高，目前没有有效攻击能够实用性地破解128/192/256位密钥的AES加密，抗暴力破解和常见密码分析攻击。
+- 算法结构透明、公开，已成为全球范围内数据安全领域的标准算法，被广泛用于TLS、VPN、金融、政府等关键系统。
+</TabItem>
+</Tabs>
+:::
+

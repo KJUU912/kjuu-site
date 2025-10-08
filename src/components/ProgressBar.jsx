@@ -26,7 +26,7 @@ export default function ProgressBar({percent, label, animationDuration=1200}) {
   },[]);
 
   return(
-    <div style={{margin:'1em 0',width:'50%'}}>
+    <div style={{margin:'1em 0',width:'35%'}}>
       {label&&(
         <div style={{marginBottom:4,fontWeight:'bold'}}>
           {label}

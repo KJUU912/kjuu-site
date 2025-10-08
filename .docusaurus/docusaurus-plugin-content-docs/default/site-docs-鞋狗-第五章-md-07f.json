@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/6",
+  "title": "1966 天字第一号业务员",
+  "description": "沉默的管理者与疯狂的天才",
+  "source": "@site/docs/鞋狗/第五章.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/6",
+  "permalink": "/docs/鞋狗/6",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "6",
+    "sidebar_position": 6,
+    "title": "1966 天字第一号业务员",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1965 脆弱的蓝带",
+    "permalink": "/docs/鞋狗/5"
+  },
+  "next": {
+    "title": "1967 蓝带挺进东岸",
+    "permalink": "/docs/鞋狗/7"
+  }
+}

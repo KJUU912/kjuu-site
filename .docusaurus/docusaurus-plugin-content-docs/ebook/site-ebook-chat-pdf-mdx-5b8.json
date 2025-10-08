@@ -1,0 +1,28 @@
+{
+  "id": "ChatPDF",
+  "title": "ChatPDF",
+  "description": "介绍",
+  "source": "@site/ebook/ChatPDF.mdx",
+  "sourceDirName": ".",
+  "slug": "/ChatPDF",
+  "permalink": "/ebook/ChatPDF",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "hide_title": true,
+    "sidebar_class_name": "chatpdf"
+  },
+  "sidebar": "ebookSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/ebook/intro"
+  },
+  "next": {
+    "title": "Flourish",
+    "permalink": "/ebook/Flourish"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "鞋狗/14",
+  "title": "1974 斩杀巨人",
+  "description": "耐克与鬼冢的生死对决",
+  "source": "@site/docs/鞋狗/第十三章 copy.md",
+  "sourceDirName": "鞋狗",
+  "slug": "/鞋狗/14",
+  "permalink": "/docs/鞋狗/14",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "id": "14",
+    "sidebar_position": 14,
+    "title": "1974 斩杀巨人",
+    "hide_title": true
+  },
+  "sidebar": "bookSidebar",
+  "previous": {
+    "title": "1973 要么飞奔,要么死去",
+    "permalink": "/docs/鞋狗/13"
+  },
+  "next": {
+    "title": "1974 斩杀巨人",
+    "permalink": "/docs/鞋狗/14"
+  }
+}
